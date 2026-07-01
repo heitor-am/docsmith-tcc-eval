@@ -44,11 +44,12 @@ kg/
 scripts/
   run_eval.py         # roda vanilla/hyde/query_fusion + Graph RAG
   metrics.py          # Recall@K, MRR@K, latência p50/p95
-
-results/
-  metrics.json              # métricas agregadas do run canônico do TCC
-  context_per_query.jsonl   # breakdown query-a-query: recall_base, recall_graph, hits
 ```
+
+Os arquivos brutos das execuções canônicas do TCC (métricas por ponto
+da curva de escala e por consulta) serão publicados neste repositório
+após a defesa; até lá, os números agregados que aparecem nas Tabelas 3
+e 4 do TCC são a referência.
 
 ## Como reproduzir
 
@@ -81,8 +82,7 @@ python scripts/run_eval.py \
     --seeds 3
 ```
 
-O resultado é escrito em `results/<timestamp>-sec5/metrics.json` no
-mesmo formato de `results/metrics.json`.
+O resultado é escrito em `results/<timestamp>-sec5/metrics.json`.
 
 ## Gold Set (Knowledge Graph)
 
@@ -111,11 +111,6 @@ expansão via grafo percorre.
   documentos. Reportado com intervalo de confiança 95% por *bootstrap*
   e teste de Wilcoxon pareado.
 - **Latência** p50/p95 em milissegundos.
-
-O arquivo `results/context_per_query.jsonl` traz o desempenho
-query-a-query para o subconjunto de 17 consultas do Graph RAG
-(`recall_base`, `recall_graph`, `hit_base`, `hit_graph`), permitindo
-auditar cada consulta individualmente.
 
 ## Corpus
 
