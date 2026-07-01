@@ -1,0 +1,464 @@
+{
+  "metadata": {
+    "name": "Legal Ontology + Diários Oficiais Brasil",
+    "version": "2.1-diarios-pi-kgeval",
+    "description": "Extensão da ontologia jurídica built-in com entidades específicas de diários oficiais municipais brasileiros (atos administrativos, editais, licitações). v2.1: classes de agente/atributo (Orgao, Empresa, Pessoa, Lei, Valor, Objeto, CNPJ, Data), atos (Portaria, Resolucao, Convenio, Ata) e object properties para alinhamento gold↔sistema (KG eval #11)."
+  },
+  "classes": {
+    "Edital": {
+      "uri": "docsmith://ontology/legal-diarios#Edital",
+      "labels": [
+        {
+          "value": "Edital"
+        },
+        {
+          "value": "Edital de Licitação"
+        }
+      ],
+      "comment": "Edital de licitação ou processo seletivo publicado em diário oficial."
+    },
+    "Decreto": {
+      "uri": "docsmith://ontology/legal-diarios#Decreto",
+      "labels": [
+        {
+          "value": "Decreto"
+        },
+        {
+          "value": "Decreto Municipal"
+        }
+      ],
+      "comment": "Decreto executivo municipal publicado em diário oficial."
+    },
+    "ContratoAdministrativo": {
+      "uri": "docsmith://ontology/legal-diarios#ContratoAdministrativo",
+      "labels": [
+        {
+          "value": "Contrato Administrativo"
+        },
+        {
+          "value": "Extrato de Contrato"
+        }
+      ],
+      "comment": "Contrato celebrado pela administração pública municipal, publicado por extrato."
+    },
+    "AditivoContratual": {
+      "uri": "docsmith://ontology/legal-diarios#AditivoContratual",
+      "labels": [
+        {
+          "value": "Aditivo"
+        },
+        {
+          "value": "Termo Aditivo"
+        }
+      ],
+      "comment": "Termo aditivo a contrato administrativo (prazo, valor ou objeto)."
+    },
+    "Ratificacao": {
+      "uri": "docsmith://ontology/legal-diarios#Ratificacao",
+      "labels": [
+        {
+          "value": "Ratificação"
+        },
+        {
+          "value": "Ato de Ratificação"
+        }
+      ],
+      "comment": "Ato de ratificação de processo de licitação (inexigibilidade ou dispensa)."
+    },
+    "Distrato": {
+      "uri": "docsmith://ontology/legal-diarios#Distrato",
+      "labels": [
+        {
+          "value": "Distrato"
+        },
+        {
+          "value": "Extrato de Distrato"
+        }
+      ],
+      "comment": "Encerramento formal de contrato administrativo antes do prazo final."
+    },
+    "LicitacaoModalidade": {
+      "uri": "docsmith://ontology/legal-diarios#LicitacaoModalidade",
+      "labels": [
+        {
+          "value": "Modalidade de Licitação"
+        }
+      ],
+      "comment": "Modalidade de licitação adotada (Pregão, TP, Dispensa, Inexigibilidade, Concorrência)."
+    },
+    "Inexigibilidade": {
+      "uri": "docsmith://ontology/legal-diarios#Inexigibilidade",
+      "labels": [
+        {
+          "value": "Inexigibilidade"
+        },
+        {
+          "value": "Licitação Inexigível"
+        }
+      ],
+      "comment": "Hipótese de inexigibilidade de licitação (art. 25 Lei 8.666 ou Lei 14.133)."
+    },
+    "DispensaLicitacao": {
+      "uri": "docsmith://ontology/legal-diarios#DispensaLicitacao",
+      "labels": [
+        {
+          "value": "Dispensa"
+        },
+        {
+          "value": "Dispensa de Licitação"
+        }
+      ],
+      "comment": "Hipótese de dispensa de licitação prevista em lei."
+    },
+    "TomadaPrecos": {
+      "uri": "docsmith://ontology/legal-diarios#TomadaPrecos",
+      "labels": [
+        {
+          "value": "Tomada de Preços"
+        },
+        {
+          "value": "TP"
+        }
+      ],
+      "comment": "Modalidade de licitação Tomada de Preços (Lei 8.666 antiga)."
+    },
+    "PregaoEletronico": {
+      "uri": "docsmith://ontology/legal-diarios#PregaoEletronico",
+      "labels": [
+        {
+          "value": "Pregão Eletrônico"
+        },
+        {
+          "value": "Pregão"
+        }
+      ],
+      "comment": "Modalidade Pregão (presencial ou eletrônico) para aquisição de bens e serviços comuns."
+    },
+    "MunicipioPI": {
+      "uri": "docsmith://ontology/legal-diarios#MunicipioPI",
+      "labels": [
+        {
+          "value": "Município do Piauí"
+        },
+        {
+          "value": "Município"
+        }
+      ],
+      "comment": "Município brasileiro do estado do Piauí (ente federativo emissor do ato)."
+    },
+    "SecretariaMunicipal": {
+      "uri": "docsmith://ontology/legal-diarios#SecretariaMunicipal",
+      "labels": [
+        {
+          "value": "Secretaria Municipal"
+        },
+        {
+          "value": "Secretaria"
+        }
+      ],
+      "comment": "Pasta da administração municipal (Saúde, Educação, Infraestrutura, etc.) responsável pelo ato."
+    },
+    "ValorLicitacao": {
+      "uri": "docsmith://ontology/legal-diarios#ValorLicitacao",
+      "labels": [
+        {
+          "value": "Valor"
+        },
+        {
+          "value": "Valor da Licitação"
+        },
+        {
+          "value": "Valor do Contrato"
+        }
+      ],
+      "comment": "Valor monetário associado a uma licitação, contrato ou aditivo."
+    },
+    "NumeroProcesso": {
+      "uri": "docsmith://ontology/legal-diarios#NumeroProcesso",
+      "labels": [
+        {
+          "value": "Número de Processo"
+        },
+        {
+          "value": "Nº de Processo Administrativo"
+        }
+      ],
+      "comment": "Identificador formal de um processo administrativo, edital ou contrato (ex.: 021-25, 081-21)."
+    },
+    "DataPublicacao": {
+      "uri": "docsmith://ontology/legal-diarios#DataPublicacao",
+      "labels": [
+        {
+          "value": "Data de Publicação"
+        }
+      ],
+      "comment": "Data de publicação no diário oficial."
+    },
+    "Orgao": {
+      "uri": "docsmith://ontology/legal-diarios#Orgao",
+      "labels": [
+        {
+          "value": "Orgao"
+        },
+        {
+          "value": "Órgão Público"
+        }
+      ],
+      "comment": "Órgão público (prefeitura, secretaria, autarquia) que pratica o ato."
+    },
+    "Empresa": {
+      "uri": "docsmith://ontology/legal-diarios#Empresa",
+      "labels": [
+        {
+          "value": "Empresa"
+        },
+        {
+          "value": "Pessoa Jurídica"
+        }
+      ],
+      "comment": "Pessoa jurídica privada (contratada, fornecedora) mencionada no ato."
+    },
+    "Pessoa": {
+      "uri": "docsmith://ontology/legal-diarios#Pessoa",
+      "labels": [
+        {
+          "value": "Pessoa"
+        },
+        {
+          "value": "Pessoa Física"
+        }
+      ],
+      "comment": "Pessoa física nomeada (signatário, agente público, gestor)."
+    },
+    "Lei": {
+      "uri": "docsmith://ontology/legal-diarios#Lei",
+      "labels": [
+        {
+          "value": "Lei"
+        },
+        {
+          "value": "Fundamento Legal"
+        }
+      ],
+      "comment": "Norma legal citada como fundamento (lei, decreto-lei, artigo)."
+    },
+    "Valor": {
+      "uri": "docsmith://ontology/legal-diarios#Valor",
+      "labels": [
+        {
+          "value": "Valor"
+        },
+        {
+          "value": "Valor Monetário"
+        }
+      ],
+      "comment": "Valor monetário (R$) associado a contrato/licitação."
+    },
+    "Objeto": {
+      "uri": "docsmith://ontology/legal-diarios#Objeto",
+      "labels": [
+        {
+          "value": "Objeto"
+        },
+        {
+          "value": "Objeto Contratual"
+        }
+      ],
+      "comment": "Objeto/escopo de um contrato ou licitação."
+    },
+    "CNPJ": {
+      "uri": "docsmith://ontology/legal-diarios#CNPJ",
+      "labels": [
+        {
+          "value": "CNPJ"
+        }
+      ],
+      "comment": "Número de CNPJ de pessoa jurídica."
+    },
+    "Data": {
+      "uri": "docsmith://ontology/legal-diarios#Data",
+      "labels": [
+        {
+          "value": "Data"
+        }
+      ],
+      "comment": "Data relevante do ato (assinatura, vigência, publicação)."
+    },
+    "Portaria": {
+      "uri": "docsmith://ontology/legal-diarios#Portaria",
+      "labels": [
+        {
+          "value": "Portaria"
+        }
+      ],
+      "comment": "Portaria administrativa publicada no diário oficial."
+    },
+    "Resolucao": {
+      "uri": "docsmith://ontology/legal-diarios#Resolucao",
+      "labels": [
+        {
+          "value": "Resolucao"
+        },
+        {
+          "value": "Resolução"
+        }
+      ],
+      "comment": "Resolução normativa publicada no diário oficial."
+    },
+    "Convenio": {
+      "uri": "docsmith://ontology/legal-diarios#Convenio",
+      "labels": [
+        {
+          "value": "Convenio"
+        },
+        {
+          "value": "Convênio"
+        }
+      ],
+      "comment": "Convênio ou termo de cooperação celebrado pelo ente público."
+    },
+    "Ata": {
+      "uri": "docsmith://ontology/legal-diarios#Ata",
+      "labels": [
+        {
+          "value": "Ata"
+        }
+      ],
+      "comment": "Ata (registro de preços, sessão, reunião) publicada no diário oficial."
+    }
+  },
+  "objectProperties": {
+    "temContratante": {
+      "uri": "docsmith://ontology/legal-diarios#temContratante",
+      "labels": [
+        {
+          "value": "temContratante"
+        }
+      ],
+      "comment": "Liga o contrato ao órgão contratante.",
+      "domain": "ContratoAdministrativo",
+      "range": "Orgao"
+    },
+    "temContratada": {
+      "uri": "docsmith://ontology/legal-diarios#temContratada",
+      "labels": [
+        {
+          "value": "temContratada"
+        }
+      ],
+      "comment": "Liga o contrato à empresa contratada.",
+      "domain": "ContratoAdministrativo",
+      "range": "Empresa"
+    },
+    "temObjeto": {
+      "uri": "docsmith://ontology/legal-diarios#temObjeto",
+      "labels": [
+        {
+          "value": "temObjeto"
+        }
+      ],
+      "comment": "Liga o contrato/licitação ao seu objeto.",
+      "domain": "ContratoAdministrativo",
+      "range": "Objeto"
+    },
+    "temValor": {
+      "uri": "docsmith://ontology/legal-diarios#temValor",
+      "labels": [
+        {
+          "value": "temValor"
+        }
+      ],
+      "comment": "Liga o contrato/licitação ao seu valor.",
+      "domain": "ContratoAdministrativo",
+      "range": "Valor"
+    },
+    "temFundamentoLegal": {
+      "uri": "docsmith://ontology/legal-diarios#temFundamentoLegal",
+      "labels": [
+        {
+          "value": "temFundamentoLegal"
+        }
+      ],
+      "comment": "Liga o ato à norma legal que o fundamenta.",
+      "domain": "ContratoAdministrativo",
+      "range": "Lei"
+    },
+    "temModalidade": {
+      "uri": "docsmith://ontology/legal-diarios#temModalidade",
+      "labels": [
+        {
+          "value": "temModalidade"
+        }
+      ],
+      "comment": "Liga o contrato à modalidade de licitação.",
+      "domain": "ContratoAdministrativo",
+      "range": "LicitacaoModalidade"
+    },
+    "temVigencia": {
+      "uri": "docsmith://ontology/legal-diarios#temVigencia",
+      "labels": [
+        {
+          "value": "temVigencia"
+        }
+      ],
+      "comment": "Liga o contrato ao seu período/ data de vigência.",
+      "domain": "ContratoAdministrativo",
+      "range": "Data"
+    },
+    "publicadoPor": {
+      "uri": "docsmith://ontology/legal-diarios#publicadoPor",
+      "labels": [
+        {
+          "value": "publicadoPor"
+        }
+      ],
+      "comment": "Liga o ato ao órgão que o publica.",
+      "domain": "Edital",
+      "range": "Orgao"
+    },
+    "decretadoPor": {
+      "uri": "docsmith://ontology/legal-diarios#decretadoPor",
+      "labels": [
+        {
+          "value": "decretadoPor"
+        }
+      ],
+      "comment": "Liga o decreto ao órgão/autoridade que o decreta.",
+      "domain": "Decreto",
+      "range": "Orgao"
+    },
+    "celebraContrato": {
+      "uri": "docsmith://ontology/legal-diarios#celebraContrato",
+      "labels": [
+        {
+          "value": "celebraContrato"
+        }
+      ],
+      "comment": "Liga o órgão ao contrato que celebra.",
+      "domain": "Orgao",
+      "range": "ContratoAdministrativo"
+    },
+    "localizadoEm": {
+      "uri": "docsmith://ontology/legal-diarios#localizadoEm",
+      "labels": [
+        {
+          "value": "localizadoEm"
+        }
+      ],
+      "comment": "Liga o órgão ao município onde se localiza.",
+      "domain": "Orgao",
+      "range": "MunicipioPI"
+    },
+    "temData": {
+      "uri": "docsmith://ontology/legal-diarios#temData",
+      "labels": [
+        {
+          "value": "temData"
+        }
+      ],
+      "comment": "Liga o ato a uma data relevante.",
+      "domain": "Decreto",
+      "range": "Data"
+    }
+  }
+}

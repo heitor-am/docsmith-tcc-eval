@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+.env.*
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# only the canonical run is committed; local re-runs live here
+results/*/
+!results/metrics.json

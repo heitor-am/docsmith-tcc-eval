@@ -1,0 +1,303 @@
+{
+  "version": "sec5-corpus-misto-kg-hard-v1",
+  "description": "Variante DIFÍCIL do query set §5: mesmos expected_documents/relevant_entities, mas com descasamento de vocabulário deliberado (linguagem leiga, sinônimos) e remoção de âncoras lexicais (números de processo/lei/decreto, valores exatos, nomes próprios, siglas). Objetivo: testar se HyDE/Query Fusion ultrapassam a Vanilla quando a query NÃO compartilha o vocabulário do documento. Comparação relativa entre estratégias sobre a mesma query.",
+  "collection": "corpus-misto-kg",
+  "queries": [
+    {
+      "id": "q01",
+      "type": "factual",
+      "query": "Regra que libera pequenos negócios de baixo risco de tirar alvará e licença para abrir",
+      "expected_documents": ["DM_5381_114_Coronel_Jose_Dias_Decreto_035-25_pag_23.pdf"],
+      "relevant_entities": [],
+      "tags": ["scanned", "decreto"]
+    },
+    {
+      "id": "q02",
+      "type": "factual",
+      "query": "Prorrogação do contrato da rede de água potável no interior rural de João Costa",
+      "expected_documents": ["DM_5374_262_Joao_Costa_LIcitacao_TP_012-21_Contrato_081-21_Aditivo_03_pag_116.pdf"],
+      "relevant_entities": [],
+      "tags": ["scanned", "aditivo"]
+    },
+    {
+      "id": "q03",
+      "type": "factual",
+      "query": "Compra de roupas de trabalho para os funcionários da prefeitura",
+      "expected_documents": ["DM_5382_189_Joao_Costa_Licitacao_PE_020-25_Aviso_pag_83.pdf"],
+      "relevant_entities": [],
+      "tags": ["scanned", "pregao"]
+    },
+    {
+      "id": "q04",
+      "type": "factual",
+      "query": "Obra para erguer um prédio de apoio e atendimento às famílias carentes",
+      "expected_documents": ["DM_5376_429_Sao_Raimundo_Nonato_Licitacao_Concorrencia_Publica_008-23_Contrato_037-24_Aditivo_01_pag_150.pdf"],
+      "relevant_entities": [],
+      "tags": ["scanned", "concorrencia"]
+    },
+    {
+      "id": "q05",
+      "type": "factual",
+      "query": "Compra de itens e material para uso na sala de aula",
+      "expected_documents": ["DM_5377_438_Sao_Raimundo_Nonato_Licitacao_Dispensa_012-25_Extrato_do_Aviso_pag_280.pdf"],
+      "relevant_entities": [],
+      "tags": ["scanned", "pregao"]
+    },
+    {
+      "id": "q06",
+      "type": "factual",
+      "query": "Correção num aviso de licitação para conservação e reparo de prédios públicos",
+      "expected_documents": ["DM_5375_170_Joao_Costa_Licitacao_Concorrencia_Eletronica_005-25_Errata_Edital_pag_8.pdf"],
+      "relevant_entities": [],
+      "tags": ["scanned", "edital"]
+    },
+    {
+      "id": "q07",
+      "type": "factual",
+      "query": "Colocação de uma pessoa num cargo de confiança na prefeitura da capital",
+      "expected_documents": ["DOM4260_p001.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "decreto"]
+    },
+    {
+      "id": "q08",
+      "type": "factual",
+      "query": "Obra para revitalizar e modernizar uma praça pública na capital",
+      "expected_documents": ["DOM4260_p016.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "concorrencia"]
+    },
+    {
+      "id": "q09",
+      "type": "factual",
+      "query": "Compra de remédios de uso oral para os postos de saúde e hospitais",
+      "expected_documents": ["DOM4258_p020.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "pregao"]
+    },
+    {
+      "id": "q10",
+      "type": "factual",
+      "query": "Contratação de profissionais como fisioterapia e psicologia para o sistema público de saúde",
+      "expected_documents": ["DOM4259_p043.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "credenciamento"]
+    },
+    {
+      "id": "q11",
+      "type": "factual",
+      "query": "Serviço de levar estudantes com deficiência de casa até a escola",
+      "expected_documents": ["DOM4263_p003.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "decreto"]
+    },
+    {
+      "id": "q12",
+      "type": "factual",
+      "query": "Acordo para legalizar uma construção comercial que estava irregular",
+      "expected_documents": ["DOM4259_p001.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "tac"]
+    },
+    {
+      "id": "q13",
+      "type": "factual",
+      "query": "Grupo de trabalho sobre prevenção de acidentes e bem-estar dos trabalhadores na capital",
+      "expected_documents": ["DOM4260_p001.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "decreto"]
+    },
+    {
+      "id": "q14",
+      "type": "factual",
+      "query": "Autorização de um gasto público de cerca de quatrocentos e oitenta mil reais",
+      "expected_documents": ["DOM4264_p019.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "portaria"]
+    },
+    {
+      "id": "q15",
+      "type": "factual",
+      "query": "Remanejamento de verba do orçamento da saúde de média e alta complexidade",
+      "expected_documents": ["DOM4264_p022.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "fms"]
+    },
+    {
+      "id": "q16",
+      "type": "multidoc",
+      "query": "Documentos da contratação de dedetização e combate a pragas urbanas naquela cidade do interior",
+      "expected_documents": ["DM_5378_226_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Ata_pag_189.pdf", "DM_5378_227_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Extrato_Contrato_113-25_pag_190.pdf"],
+      "relevant_entities": ["Dispensa de Licitação nº 038/2025", "AMPLA SAUDE AMBIENTAL", "Processo Administrativo nº 2844/2025"],
+      "tags": ["scanned", "dispensa", "multidoc"]
+    },
+    {
+      "id": "q17",
+      "type": "multidoc",
+      "query": "Compra direta, sem licitação, de garrafões de água para beber",
+      "expected_documents": ["DM_5374_147_Coronel_Jose_Dias_Licitacao_Inexigibilidade_021-25_Extrato_Contrato_114-25_pag_87.pdf", "DM_5374_148_Coronel_Jose_Dias_Licitacao_Inexigibilidade_021-25_Ratificacao_pag_87.pdf"],
+      "relevant_entities": ["Fornecimento de água mineral", "Eva dos Santos Silva", "Contrato Administrativo nº 215/2025 (Ribeiro Gonçalves)"],
+      "tags": ["scanned", "inexigibilidade", "multidoc"]
+    },
+    {
+      "id": "q18",
+      "type": "multidoc",
+      "query": "Compra de comida de pequenos produtores rurais para a merenda das escolas",
+      "expected_documents": ["DOM4258_p006.pdf", "DOM4263_p007.pdf"],
+      "relevant_entities": ["Secretaria Municipal de Educação - SEMEC"],
+      "tags": ["born-digital", "alimentacao", "multidoc"]
+    },
+    {
+      "id": "q19",
+      "type": "multidoc",
+      "query": "Compras e contratos do órgão de saúde da prefeitura da capital",
+      "expected_documents": ["DOM4258_p020.pdf", "DOM4259_p043.pdf", "DOM4264_p022.pdf"],
+      "relevant_entities": ["Fundação Municipal de Saúde"],
+      "tags": ["born-digital", "fms", "multidoc"]
+    },
+    {
+      "id": "q20",
+      "type": "multidoc",
+      "query": "Compras públicas por leilão eletrônico no município de João Costa",
+      "expected_documents": ["DM_5382_189_Joao_Costa_Licitacao_PE_020-25_Aviso_pag_83.pdf", "DM_5375_170_Joao_Costa_Licitacao_Concorrencia_Eletronica_005-25_Errata_Edital_pag_8.pdf"],
+      "relevant_entities": ["Prefeitura Municipal de João Costa", "Comissão Permanente de Contratação/PMJC"],
+      "tags": ["scanned", "pregao", "multidoc"]
+    },
+    {
+      "id": "c01",
+      "type": "crossdoc",
+      "query": "Quais documentos formam a contratação por dispensa do combate a pragas naquela cidade e o contrato que resultou?",
+      "expected_documents": ["DM_5378_226_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Ata_pag_189.pdf", "DM_5378_227_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Extrato_Contrato_113-25_pag_190.pdf"],
+      "relevant_entities": ["Dispensa de Licitação nº 038/2025", "AMPLA SAUDE AMBIENTAL", "Extrato de Contrato Nº 113/2025", "Processo Administrativo nº 2844/2025"],
+      "tags": ["scanned", "crossdoc", "contrato-via-dispensa"]
+    },
+    {
+      "id": "c02",
+      "type": "crossdoc",
+      "query": "Junte o processo de compra sem licitação, o contrato e a fornecedora dos garrafões de água",
+      "expected_documents": ["DM_5374_147_Coronel_Jose_Dias_Licitacao_Inexigibilidade_021-25_Extrato_Contrato_114-25_pag_87.pdf", "DM_5374_148_Coronel_Jose_Dias_Licitacao_Inexigibilidade_021-25_Ratificacao_pag_87.pdf"],
+      "relevant_entities": ["Inexigibilidade de Licitação nº 021/2025", "Contrato Administrativo nº 215/2025 (Ribeiro Gonçalves)", "Eva dos Santos Silva", "Dispensa de Licitação nº 082/2025 (Ribeiro Gonçalves)"],
+      "tags": ["scanned", "crossdoc", "contrato-via-inexigibilidade"]
+    },
+    {
+      "id": "c03",
+      "type": "crossdoc",
+      "query": "Quais documentos envolvem a empresa de balé e dança infantil que foi contratada?",
+      "expected_documents": ["DM_5375_170_Joao_Costa_Licitacao_Concorrencia_Eletronica_005-25_Errata_Edital_pag_8.pdf", "DM_5374_148_Coronel_Jose_Dias_Licitacao_Inexigibilidade_021-25_Ratificacao_pag_87.pdf"],
+      "relevant_entities": ["Delicatte Ltda (Ballet Delicatte)"],
+      "tags": ["scanned", "crossdoc", "empresa"]
+    },
+    {
+      "id": "c04",
+      "type": "crossdoc",
+      "query": "Em quais atos o mesmo agente de contratação assina decisões em municípios diferentes?",
+      "expected_documents": ["DM_5374_147_Coronel_Jose_Dias_Licitacao_Inexigibilidade_021-25_Extrato_Contrato_114-25_pag_87.pdf", "DM_5375_170_Joao_Costa_Licitacao_Concorrencia_Eletronica_005-25_Errata_Edital_pag_8.pdf", "DM_5376_429_Sao_Raimundo_Nonato_Licitacao_Concorrencia_Publica_008-23_Contrato_037-24_Aditivo_01_pag_150.pdf", "DM_5381_114_Coronel_Jose_Dias_Decreto_035-25_pag_23.pdf"],
+      "relevant_entities": ["Victor Cesar de Carvalho"],
+      "tags": ["scanned", "crossdoc", "pessoa-signatario"]
+    },
+    {
+      "id": "c05",
+      "type": "crossdoc",
+      "query": "Quais atos foram assinados pessoalmente pelo prefeito da capital?",
+      "expected_documents": ["DOM4259_p001.pdf", "DOM4260_p001.pdf", "DOM4263_p003.pdf"],
+      "relevant_entities": ["Sílvio Mendes de Oliveira Filho"],
+      "tags": ["born-digital", "crossdoc", "pessoa-prefeito"]
+    },
+    {
+      "id": "c06",
+      "type": "crossdoc",
+      "query": "Quais atos da pasta responsável pelas escolas municipais da capital e o que tratam?",
+      "expected_documents": ["DOM4258_p006.pdf", "DOM4260_p001.pdf", "DOM4263_p007.pdf"],
+      "relevant_entities": ["Secretaria Municipal de Educação - SEMEC"],
+      "tags": ["born-digital", "crossdoc", "orgao"]
+    },
+    {
+      "id": "c07",
+      "type": "crossdoc",
+      "query": "Quais pequenos produtores tiveram a venda de comida para a merenda aprovada pela secretaria de educação?",
+      "expected_documents": ["DOM4258_p006.pdf", "DOM4263_p007.pdf"],
+      "relevant_entities": ["Ismael do Nascimento Silva", "Romildo Crispim", "Kelly Maria Ribeiro Gonçalves", "Antônia Lucilene Dourado dos Anjos"],
+      "tags": ["born-digital", "crossdoc", "fornecedores"]
+    },
+    {
+      "id": "c08",
+      "type": "crossdoc",
+      "query": "Documentos da empresa de controle de pragas e o processo administrativo que deu origem à contratação",
+      "expected_documents": ["DM_5378_226_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Ata_pag_189.pdf", "DM_5378_227_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Extrato_Contrato_113-25_pag_190.pdf"],
+      "relevant_entities": ["AMPLA SAUDE AMBIENTAL", "Processo Administrativo nº 2844/2025", "Dispensa de Licitação nº 038/2025"],
+      "tags": ["scanned", "crossdoc", "empresa-processo"]
+    },
+    {
+      "id": "c09",
+      "type": "crossdoc",
+      "query": "Quais licitações daquela cidade foram autorizadas pelo mesmo prefeito como responsável?",
+      "expected_documents": ["DM_5376_429_Sao_Raimundo_Nonato_Licitacao_Concorrencia_Publica_008-23_Contrato_037-24_Aditivo_01_pag_150.pdf", "DM_5377_438_Sao_Raimundo_Nonato_Licitacao_Dispensa_012-25_Extrato_do_Aviso_pag_280.pdf"],
+      "relevant_entities": ["Edgard de Negreiros Araújo", "Prefeitura Municipal de São Raimundo Nonato"],
+      "tags": ["scanned", "crossdoc", "pessoa"]
+    },
+    {
+      "id": "c10",
+      "type": "crossdoc",
+      "query": "Quais licitações daquele município passaram pela mesma comissão de contratação e seu presidente?",
+      "expected_documents": ["DM_5375_170_Joao_Costa_Licitacao_Concorrencia_Eletronica_005-25_Errata_Edital_pag_8.pdf", "DM_5382_189_Joao_Costa_Licitacao_PE_020-25_Aviso_pag_83.pdf"],
+      "relevant_entities": ["Comissão Permanente de Contratação/PMJC", "Jociel Gomes de Oliveira"],
+      "tags": ["scanned", "crossdoc", "orgao-pessoa"]
+    },
+    {
+      "id": "c11",
+      "type": "crossdoc",
+      "query": "Em que base legal o prefeito da capital se apoia para baixar seus decretos?",
+      "expected_documents": ["DOM4260_p001.pdf", "DOM4263_p003.pdf"],
+      "relevant_entities": ["Lei Orgânica do Município"],
+      "tags": ["born-digital", "crossdoc", "fundamento-legal"]
+    },
+    {
+      "id": "c12",
+      "type": "crossdoc",
+      "query": "Quais atos do setor jurídico e de advocacia da prefeitura da capital e seus objetos?",
+      "expected_documents": ["DOM4259_p001.pdf", "DOM4260_p001.pdf"],
+      "relevant_entities": ["Procuradoria-Geral do Município de Teresina"],
+      "tags": ["born-digital", "crossdoc", "orgao"]
+    },
+    {
+      "id": "k01",
+      "type": "control",
+      "query": "A que autorização de gasto se refere o valor de quase meio milhão de reais?",
+      "expected_documents": ["DOM4264_p019.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "control"]
+    },
+    {
+      "id": "k02",
+      "type": "control",
+      "query": "Qual o conteúdo do decreto sobre o transporte de estudantes com deficiência?",
+      "expected_documents": ["DOM4263_p003.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "control"]
+    },
+    {
+      "id": "k03",
+      "type": "control",
+      "query": "Qual empresa fez o acordo para legalizar a construção que estava irregular?",
+      "expected_documents": ["DOM4259_p001.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "control"]
+    },
+    {
+      "id": "k04",
+      "type": "control",
+      "query": "O que estava sendo comprado naquela licitação eletrônica de João Costa?",
+      "expected_documents": ["DM_5375_170_Joao_Costa_Licitacao_Concorrencia_Eletronica_005-25_Errata_Edital_pag_8.pdf"],
+      "relevant_entities": [],
+      "tags": ["scanned", "control"]
+    },
+    {
+      "id": "k05",
+      "type": "control",
+      "query": "Como foi feita a compra de remédios pelo órgão de saúde da capital?",
+      "expected_documents": ["DOM4258_p020.pdf"],
+      "relevant_entities": [],
+      "tags": ["born-digital", "control"]
+    }
+  ]
+}
