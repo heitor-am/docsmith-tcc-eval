@@ -1,0 +1,181 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4258_p006.pdf",
+  "relations": [
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4258p6_retificacao_portaria_169",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p6_retificacao_portaria_169",
+      "object_canonical_id": "d4258p6_data_18_05_2026"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4258p6_portaria_169",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p6_contrato_018",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p6_contrato_018",
+      "object_canonical_id": "d4258p6_strada_mob"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "d4258p6_romildo_crispim"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "d4258p6_valor_022"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "d4258p6_dispensa_01_2026"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "d4258p6_lei_11947"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "d4258p6_resolucao_fnde_06"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p6_contrato_022",
+      "object_canonical_id": "d4258p6_data_15_05_2026"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "d4258p6_kelly_goncalves"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "d4258p6_valor_023"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "d4258p6_dispensa_01_2026"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "d4258p6_lei_11947"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "d4258p6_resolucao_fnde_06"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p6_contrato_023",
+      "object_canonical_id": "d4258p6_data_15_05_2026"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4258p6_contrato_024",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p6_contrato_024",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p6_contrato_024",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p6_contrato_024",
+      "object_canonical_id": "d4258p6_antonia_anjos"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p6_contrato_024",
+      "object_canonical_id": "d4258p6_dispensa_01_2026"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p6_contrato_024",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p6_contrato_024",
+      "object_canonical_id": "d4258p6_lei_11947"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p6_contrato_024",
+      "object_canonical_id": "d4258p6_resolucao_fnde_06"
+    }
+  ]
+}

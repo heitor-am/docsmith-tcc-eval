@@ -1,0 +1,268 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4258_p006.pdf",
+  "entities": [
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de Teresina",
+      "mentions": [
+        "PMT",
+        "SEMEC/PMT"
+      ],
+      "canonical_id": "pmt_prefeitura"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Teresina",
+      "mentions": [
+        "TERESINA-PI",
+        "Município de Teresina",
+        "MUNICÍPIO DE TERESINA",
+        "TERESINA - PI"
+      ],
+      "canonical_id": "mun_teresina"
+    },
+    {
+      "type": "SecretariaMunicipal",
+      "canonical_name": "Secretaria Municipal de Educação de Teresina - SEMEC",
+      "mentions": [
+        "SECRETÁRIO MUNICIPAL DE EDUCAÇÃO DE TERESINA-PI/SEMEC/PMT",
+        "SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMEC",
+        "SECRETARIA MUNICIPAL DE EDUCAÇÃO (SEMEC)",
+        "SEMEC",
+        "GABINETE DO SECRETÁRIO MUNICIPAL DE EDUCAÇÃO DE TERESINA-PI/SEMEC/PMT"
+      ],
+      "canonical_id": "d4258p6_semec"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "06.554.869/0005-98",
+      "mentions": [
+        "CNPJ sob o nº 06.554.869/0005-98"
+      ],
+      "canonical_id": "d4258p6_semec_cnpj"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Ismael do Nascimento Silva",
+      "mentions": [
+        "ISMAEL DO NASCIMENTO SILVA",
+        "Ismael do Nascimento Silva",
+        "Secretário Municipal de Educação - SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_ismael"
+    },
+    {
+      "type": "Portaria",
+      "canonical_name": "Retificação da Portaria nº 169/2026/GAB/SEMEC",
+      "mentions": [
+        "RETIFICAÇÃO (PORTARIA Nº 169/2026/GAB/SEMEC)",
+        "RETIFICAR a PORTARIA Nº 169/2026/GAB/SEMEC 15257240"
+      ],
+      "canonical_id": "d4258p6_retificacao_portaria_169"
+    },
+    {
+      "type": "Portaria",
+      "canonical_name": "Portaria nº 169/2026/GAB/SEMEC",
+      "mentions": [
+        "PORTARIA Nº 169/2026/GAB/SEMEC",
+        "PORTARIA Nº 169/2026/GAB/SEMEC 15257240"
+      ],
+      "canonical_id": "d4258p6_portaria_169"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "18 de maio de 2026",
+      "mentions": [
+        "em 18 de maio de 2026"
+      ],
+      "canonical_id": "d4258p6_data_18_05_2026"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Everton Bezerra Linhares",
+      "mentions": [
+        "EVERTON BEZERRA LINHARES",
+        "Chefe da Coordenação de Manutenção de Veículos, Matrícula nº 113682"
+      ],
+      "canonical_id": "d4258p6_everton_linhares"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Termo de Contrato nº 018/2026/SEMEC/PMT",
+      "mentions": [
+        "Termo de Contrato Nº 018/2026/SEMEC/PMT (15197097)",
+        "Termo de Contrato Nº 018/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4258p6_contrato_018"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Strada Mob Ltda",
+      "mentions": [
+        "empresa STRADA MOB LTDA",
+        "STRADA MOB LTDA"
+      ],
+      "canonical_id": "d4258p6_strada_mob"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "04.162.704/0001-11",
+      "mentions": [
+        "CNPJ sob nº 04.162.704/0001-11"
+      ],
+      "canonical_id": "d4258p6_strada_mob_cnpj"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "21.515.124/0001-80",
+      "mentions": [
+        "CNPJ sob nº 21.515.124/0001-80"
+      ],
+      "canonical_id": "d4258p6_strada_mob_cnpj_errado"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 022/2026/SEMEC/PMT",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 022/2026/SEMEC/PMT",
+        "CONTRATO Nº 022/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4258p6_contrato_022"
+    },
+    {
+      "type": "DispensaLicitacao",
+      "canonical_name": "Dispensa de Licitação nº 01/2026/SEMEC/PMT",
+      "mentions": [
+        "DISPENSA DE LICITAÇÃO Nº 01/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4258p6_dispensa_01_2026"
+    },
+    {
+      "type": "Edital",
+      "canonical_name": "Chamada Pública nº 01/2026/SEMEC/PMT",
+      "mentions": [
+        "CHAMADA PÚBLICA Nº 01/2026/SEMEC/PMT",
+        "Chamada Pública nº 01/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4258p6_chamada_publica_01_2026"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei nº 14.133/2021",
+      "mentions": [
+        "LEI Nº 14.133/2021"
+      ],
+      "canonical_id": "lei_14133"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei nº 11.947/2009",
+      "mentions": [
+        "LEI Nº 11.947/2009"
+      ],
+      "canonical_id": "d4258p6_lei_11947"
+    },
+    {
+      "type": "Resolucao",
+      "canonical_name": "Resolução CD/FNDE/MEC nº 06/2020",
+      "mentions": [
+        "RESOLUÇÃO CD/FNDE/MEC Nº 06/2020"
+      ],
+      "canonical_id": "d4258p6_resolucao_fnde_06"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo SEI nº 00044.018224/2025-04/SEMEC/PMT",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO SEI Nº 00044.018224/2025-04/SEMEC/PMT"
+      ],
+      "canonical_id": "d4258p6_proc_adm_sei"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo de Contratação nº 00044.011819/2026-82/SEMEC/PMT",
+      "mentions": [
+        "PROCESSO DE CONTRATAÇÃO Nº 00044.011819/2026-82/SEMEC/PMT"
+      ],
+      "canonical_id": "d4258p6_proc_contratacao"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Romildo Crispim",
+      "mentions": [
+        "ROMILDO CRISPIM",
+        "Romildo Crispim"
+      ],
+      "canonical_id": "d4258p6_romildo_crispim"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Aquisição de gêneros alimentícios diretamente da agricultura familiar para alimentação escolar da rede pública municipal de ensino, ano letivo de 2026",
+      "mentions": [
+        "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DIRETAMENTE DA AGRICULTURA FAMILIAR PARA ATENDER A ALIMENTAÇÃO ESCOLAR DOS ALUNOS DA EDUCAÇÃO INFANTIL, ENSINO FUNDAMENTAL, MAIS EDUCAÇÃO E EJA  DA REDE PÚBLICA MUNICIPAL DE ENSINO para o ano letivo de 2026"
+      ],
+      "canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 39.494,80",
+      "mentions": [
+        "R$ 39.494,80 (trinta e nove mil, quatrocentos e noventa e quatro reais e oitenta centavos)",
+        "R$ 39.494,80 (TRINTA E NOVE MIL, QUATROCENTOS E NOVENTA E QUATRO REAIS E OITENTA CENTAVOS)"
+      ],
+      "canonical_id": "d4258p6_valor_022"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "15/05/2026",
+      "mentions": [
+        "DATA DE ASSINATURA: 15/05/2026"
+      ],
+      "canonical_id": "d4258p6_data_15_05_2026"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 023/2026/SEMEC/PMT",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 023/2026/SEMEC/PMT",
+        "CONTRATO Nº 023/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4258p6_contrato_023"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Kelly Maria Ribeiro Gonçalves",
+      "mentions": [
+        "KELLY MARIA RIBEIRO GONÇALVES",
+        "Kelly Maria Ribeiro Gonçalves"
+      ],
+      "canonical_id": "d4258p6_kelly_goncalves"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 39.641,60",
+      "mentions": [
+        "R$ 39.641,60 (trinta e nove mil, seiscentos e quarenta e um reais e sessenta centavos)",
+        "R$ 39.641,60 (TRINTA E NOVE MIL, SEISCENTOS E QUARENTA E UM REAIS E SESSENTA CENTAVOS)"
+      ],
+      "canonical_id": "d4258p6_valor_023"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 024/2026/SEMEC/PMT",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 024/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4258p6_contrato_024"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Antônia Lucilene Dourado dos Anjos",
+      "mentions": [
+        "ANTÔNIA LUCILENE DOURADO DOS ANJOS"
+      ],
+      "canonical_id": "d4258p6_antonia_anjos"
+    }
+  ]
+}

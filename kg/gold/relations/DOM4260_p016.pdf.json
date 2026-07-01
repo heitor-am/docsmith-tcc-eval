@@ -1,0 +1,66 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4260_p016.pdf",
+  "relations": [
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4260p16_conc_90012_2026",
+      "object_canonical_id": "d4260p16_ccp_sema"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4260p16_conc_90012_2026",
+      "object_canonical_id": "d4260p16_obj_praca"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4260p16_conc_90012_2026",
+      "object_canonical_id": "d4260p16_val_sema"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4260p16_conc_90012_2026",
+      "object_canonical_id": "d4260p16_data_abertura_sema"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4260p16_pregao_90046_2026",
+      "object_canonical_id": "d4260p16_dcp_fms"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4260p16_pregao_90046_2026",
+      "object_canonical_id": "d4260p16_obj_pilhas"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4260p16_pregao_90046_2026",
+      "object_canonical_id": "d4260p16_val_fms_pregao"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4260p16_pregao_90046_2026",
+      "object_canonical_id": "d4260p16_data_abertura_fms_pregao"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4260p16_dispensa_51_2026",
+      "object_canonical_id": "d4260p16_dcp_fms"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4260p16_dispensa_51_2026",
+      "object_canonical_id": "d4260p16_obj_fraldas"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4260p16_dispensa_51_2026",
+      "object_canonical_id": "d4260p16_val_fms_dispensa"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4260p16_dispensa_51_2026",
+      "object_canonical_id": "d4260p16_data_sessao_fms_dispensa"
+    }
+  ]
+}

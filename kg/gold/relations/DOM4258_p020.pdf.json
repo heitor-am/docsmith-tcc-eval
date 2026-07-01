@@ -1,0 +1,331 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4258_p020.pdf",
+  "relations": [
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "pmt_prefeitura",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p20_ata_26_2026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p20_ata_26_2026",
+      "object_canonical_id": "d4258p20_pregao_90070_2025"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p20_ata_26_2026",
+      "object_canonical_id": "d4258p20_lei_14133"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p20_ata_26_2026",
+      "object_canonical_id": "d4258p20_objeto_medicamentos"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p20_contrato_542026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p20_contrato_542026",
+      "object_canonical_id": "d4258p20_objeto_medicamentos"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p20_contrato_542026",
+      "object_canonical_id": "d4258p20_valor_770900"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p20_contrato_542026",
+      "object_canonical_id": "d4258p20_pregao_90070_2025"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p20_contrato_542026",
+      "object_canonical_id": "d4258p20_lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p20_contrato_542026",
+      "object_canonical_id": "d4258p20_data_assinatura"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p20_contrato_244_2026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p20_contrato_244_2026",
+      "object_canonical_id": "d4258p20_riloclarense"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p20_contrato_244_2026",
+      "object_canonical_id": "d4258p20_objeto_medicamentos"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p20_contrato_244_2026",
+      "object_canonical_id": "d4258p20_valor_890596"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p20_contrato_244_2026",
+      "object_canonical_id": "d4258p20_pregao_90070_2025"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p20_contrato_244_2026",
+      "object_canonical_id": "d4258p20_lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p20_contrato_244_2026",
+      "object_canonical_id": "d4258p20_data_assinatura"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p20_contrato_246_2026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p20_contrato_246_2026",
+      "object_canonical_id": "d4258p20_go_medical"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p20_contrato_246_2026",
+      "object_canonical_id": "d4258p20_objeto_medicamentos"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p20_contrato_246_2026",
+      "object_canonical_id": "d4258p20_valor_23970"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p20_contrato_246_2026",
+      "object_canonical_id": "d4258p20_pregao_90070_2025"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p20_contrato_246_2026",
+      "object_canonical_id": "d4258p20_lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p20_contrato_246_2026",
+      "object_canonical_id": "d4258p20_data_assinatura"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p20_contrato_247_2026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p20_contrato_247_2026",
+      "object_canonical_id": "d4258p20_novasul"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p20_contrato_247_2026",
+      "object_canonical_id": "d4258p20_objeto_medicamentos"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p20_contrato_247_2026",
+      "object_canonical_id": "d4258p20_valor_89271"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p20_contrato_247_2026",
+      "object_canonical_id": "d4258p20_pregao_90070_2025"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p20_contrato_247_2026",
+      "object_canonical_id": "d4258p20_lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p20_contrato_247_2026",
+      "object_canonical_id": "d4258p20_data_assinatura"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p20_contrato_248_2026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p20_contrato_248_2026",
+      "object_canonical_id": "d4258p20_rosafarm"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p20_contrato_248_2026",
+      "object_canonical_id": "d4258p20_objeto_medicamentos"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p20_contrato_248_2026",
+      "object_canonical_id": "d4258p20_valor_144300"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p20_contrato_248_2026",
+      "object_canonical_id": "d4258p20_pregao_90070_2025"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p20_contrato_248_2026",
+      "object_canonical_id": "d4258p20_lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p20_contrato_248_2026",
+      "object_canonical_id": "d4258p20_data_assinatura"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p20_contrato_251_2026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p20_contrato_251_2026",
+      "object_canonical_id": "d4258p20_oeste_sul"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p20_contrato_251_2026",
+      "object_canonical_id": "d4258p20_objeto_medicamentos"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p20_contrato_251_2026",
+      "object_canonical_id": "d4258p20_valor_148493"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p20_contrato_251_2026",
+      "object_canonical_id": "d4258p20_pregao_90070_2025"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p20_contrato_251_2026",
+      "object_canonical_id": "d4258p20_lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p20_contrato_251_2026",
+      "object_canonical_id": "d4258p20_data_assinatura"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p20_contrato_252_2026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p20_contrato_252_2026",
+      "object_canonical_id": "d4258p20_medmax"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p20_contrato_252_2026",
+      "object_canonical_id": "d4258p20_objeto_medicamentos"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p20_contrato_252_2026",
+      "object_canonical_id": "d4258p20_valor_14316"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p20_contrato_252_2026",
+      "object_canonical_id": "d4258p20_pregao_90070_2025"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p20_contrato_252_2026",
+      "object_canonical_id": "d4258p20_lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p20_contrato_252_2026",
+      "object_canonical_id": "d4258p20_data_assinatura"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p20_contrato_253_2026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p20_contrato_253_2026",
+      "object_canonical_id": "d4258p20_saudenord"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p20_contrato_253_2026",
+      "object_canonical_id": "d4258p20_objeto_medicamentos"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p20_contrato_253_2026",
+      "object_canonical_id": "d4258p20_valor_112096"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p20_contrato_253_2026",
+      "object_canonical_id": "d4258p20_pregao_90070_2025"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4258p20_contrato_253_2026",
+      "object_canonical_id": "d4258p20_lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4258p20_contrato_253_2026",
+      "object_canonical_id": "d4258p20_data_assinatura"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4258p20_contrato_254_2026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4258p20_contrato_254_2026",
+      "object_canonical_id": "d4258p20_clm_farma"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4258p20_contrato_254_2026",
+      "object_canonical_id": "d4258p20_objeto_medicamentos"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4258p20_contrato_254_2026",
+      "object_canonical_id": "d4258p20_valor_36150"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d4258p20_contrato_254_2026",
+      "object_canonical_id": "d4258p20_pregao_90070_2025"
+    }
+  ]
+}

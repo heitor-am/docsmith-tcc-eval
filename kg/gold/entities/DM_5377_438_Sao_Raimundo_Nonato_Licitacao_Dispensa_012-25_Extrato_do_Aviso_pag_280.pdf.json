@@ -1,0 +1,304 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5377_438_Sao_Raimundo_Nonato_Licitacao_Dispensa_012-25_Extrato_do_Aviso_pag_280.pdf",
+  "entities": [
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Simões",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE SIMÕES",
+        "Simões",
+        "Simões-PI",
+        "Simões (PI)",
+        "SIMÕES – PI",
+        "Simões – PI"
+      ],
+      "canonical_id": "d5377_438_simoes_municipio"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de Simões",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE SIMÕES",
+        "Prefeitura Municipal de Simões-PI",
+        "PREFEITURA MUNICIPAL DE SIMÕES-PI"
+      ],
+      "canonical_id": "d5377_438_simoes_prefeitura"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Gabinete do Prefeito Municipal de Simões",
+      "mentions": [
+        "Gabinete do Prefeito Municipal"
+      ],
+      "canonical_id": "d5377_438_simoes_gabinete"
+    },
+    {
+      "type": "PregaoEletronico",
+      "canonical_name": "Pregão Eletrônico nº 026/2025",
+      "mentions": [
+        "Pregão Eletrônico nº 026/2025"
+      ],
+      "canonical_id": "d5377_438_simoes_pe_026"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato do Pregão Eletrônico nº 026/2025 (Simões-PI)",
+      "mentions": [
+        "EXTRATO CONTRATO"
+      ],
+      "canonical_id": "d5377_438_simoes_contrato"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Maria Ines Tecla de Carvalho",
+      "mentions": [
+        "MARIA INES TECLA DE CARVALHO"
+      ],
+      "canonical_id": "d5377_438_simoes_empresa_mitc"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "63.508.949/0001-17",
+      "mentions": [
+        "empresa inscrita no CNPJ sob o nº 63.508.949/0001-17"
+      ],
+      "canonical_id": "d5377_438_simoes_cnpj_mitc"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Aquisição de materiais didáticos",
+      "mentions": [
+        "OBJETO: AQUISIÇÃO DE MATERIAIS DIDÁTICOS"
+      ],
+      "canonical_id": "d5377_438_simoes_objeto_contrato"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 174.851,13",
+      "mentions": [
+        "VALOR: R$ 174.851,13"
+      ],
+      "canonical_id": "d5377_438_simoes_valor_contrato"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "29/07/2025",
+      "mentions": [
+        "ASSINATURA: 29/07/2025",
+        "Simões (PI), 29 de julho de 2025"
+      ],
+      "canonical_id": "d5377_438_simoes_data_assinatura"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "29/07/2026",
+      "mentions": [
+        "VIGÊNCIA: 29/07/2026"
+      ],
+      "canonical_id": "d5377_438_simoes_data_vigencia"
+    },
+    {
+      "type": "Portaria",
+      "canonical_name": "Portaria nº 394/2025",
+      "mentions": [
+        "PORTARIA Nº 394/2025"
+      ],
+      "canonical_id": "d5377_438_simoes_portaria_394"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Argentina Cordeiro de Araujo Nunes",
+      "mentions": [
+        "ARGENTINA CORDEIRO DE ARAUJO NUNES"
+      ],
+      "canonical_id": "d5377_438_simoes_pessoa_argentina"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Concessão de progressão funcional com mudança para a classe B à servidora (matrícula nº 0000697)",
+      "mentions": [
+        "Conceder a(o) servidor(a) ARGENTINA CORDEIRO DE ARAUJO NUNES, matrícula funcional nº 0000697, progressão funcional com mudança para a CLASSE B, nos termos do artigo 22 da Lei Municipal nº 760/2024"
+      ],
+      "canonical_id": "d5377_438_simoes_objeto_portaria"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Municipal nº 760/2024 (Simões)",
+      "mentions": [
+        "Lei Municipal nº 760/2024",
+        "artigo 22 da Lei Municipal nº 760/2024",
+        "Parágrafo Único do artigo 23 da Lei Municipal nº 760/2024",
+        "Plano de Cargos, Carreira e Salário dos Agentes Comunitários de Saúde (ACS) e Agente de Combate a Endemias (ACE)"
+      ],
+      "canonical_id": "d5377_438_simoes_lei_760"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Orgânica Municipal de Simões",
+      "mentions": [
+        "artigo 60, IV da Lei Orgânica Municipal"
+      ],
+      "canonical_id": "d5377_438_simoes_lei_organica"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Italo Magno Dantas Lopes de Carvalho",
+      "mentions": [
+        "ITALO MAGNO DANTAS LOPES DE CARVALHO",
+        "Italo Magno Dantas L. de Carvalho"
+      ],
+      "canonical_id": "d5377_438_simoes_pessoa_prefeito"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "14/07/2025",
+      "mentions": [
+        "Simões – PI, 14 de julho de 2025"
+      ],
+      "canonical_id": "d5377_438_simoes_data_portaria"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "São Raimundo Nonato",
+      "mentions": [
+        "Município de São Raimundo Nonato-PI",
+        "São Raimundo Nonato",
+        "São Raimundo Nonato, Estado do Piauí",
+        "São Raimundo Nonato-PI",
+        "MUNICÍPIO DE SÃO RAIMUNDO NONATO"
+      ],
+      "canonical_id": "srn_municipio"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de São Raimundo Nonato",
+      "mentions": [
+        "Prefeitura de São Raimundo Nonato",
+        "PREFEITURA MUNICIPAL São Raimundo Nonato",
+        "Município de São Raimundo Nonato, por meio do Prefeito Municipal"
+      ],
+      "canonical_id": "srn_prefeitura"
+    },
+    {
+      "type": "SecretariaMunicipal",
+      "canonical_name": "Secretaria de Administração e Finanças",
+      "mentions": [
+        "Secretaria de Administração e Finanças - Setor de Licitações",
+        "Secretaria de Administração e Finanças"
+      ],
+      "canonical_id": "d5377_438_secretaria_admfin"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei nº 14.133/2021",
+      "mentions": [
+        "art. 75, inciso II da Lei Federal Nº 14.133/2021",
+        "Lei Federal Nº 14.133/2021",
+        "art. 78, inciso III da Lei Federal nº 14.133/2021"
+      ],
+      "canonical_id": "lei_14133"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Federal nº 8.987/1995",
+      "mentions": [
+        "Lei 8.987/1995 (concessões)"
+      ],
+      "canonical_id": "d5377_438_lei_8987"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Federal nº 11.079/2004",
+      "mentions": [
+        "Lei 11.079/2004 (PPPs)"
+      ],
+      "canonical_id": "d5377_438_lei_11079"
+    },
+    {
+      "type": "DispensaLicitacao",
+      "canonical_name": "Dispensa de Licitação nº 12/2025",
+      "mentions": [
+        "EXTRATO DO AVISO DE DISPENSA Nº 12/2025",
+        "DISPENSA DE LICITAÇÃO Nº 12/2025"
+      ],
+      "canonical_id": "d5377_438_dispensa_012"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo nº 086/2025",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO Nº 086/2025"
+      ],
+      "canonical_id": "d5377_438_proc_086"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Contratação de empresa para prestação de serviço de monitoramento contínuo das informações relacionadas ao controle de combustíveis das frotas",
+      "mentions": [
+        "contratação de empresa para prestação de serviço de monitoramento contínuo das informações relacionadas ao controle de combustíveis das frotas pertencentes à Prefeitura de São Raimundo Nonato"
+      ],
+      "canonical_id": "d5377_438_objeto_dispensa"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Edgard de Negreiros Araújo",
+      "mentions": [
+        "EDGARD DE NEGREIROS ARAÚJO"
+      ],
+      "canonical_id": "d5377_438_pessoa_edgard"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "05/08/2025",
+      "mentions": [
+        "São Raimundo Nonato-PI, 05 de agosto de 2025",
+        "São Raimundo Nonato, 05 de agosto de 2025"
+      ],
+      "canonical_id": "d5377_438_data_05ago2025"
+    },
+    {
+      "type": "Ratificacao",
+      "canonical_name": "Termo de Autorização de Manifestação de Interesse Privado – MIP (iluminação pública de São Raimundo Nonato)",
+      "mentions": [
+        "TERMO DE AUTORIZAÇÃO",
+        "AUTORIZAÇÃO DE MANIFESTAÇÃO DE INTERESSE PRIVADO – MIP, PARA ELABORAÇÃO DE ESTUDO SOBRE A ILUMINAÇÃO PÚBLICA DO MUNICÍPIO DE SÃO RAIMUNDO NONATO/PI"
+      ],
+      "canonical_id": "d5377_438_termo_autorizacao_mip"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Elaboração de estudo sobre a iluminação pública do município de São Raimundo Nonato/PI (MIP)",
+      "mentions": [
+        "ELABORAÇÃO DE ESTUDO SOBRE A ILUMINAÇÃO PÚBLICA DO MUNICÍPIO DE SÃO RAIMUNDO NONATO/PI"
+      ],
+      "canonical_id": "d5377_438_objeto_mip"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Stênio de S Coelho",
+      "mentions": [
+        "STÊNIO DE S COELHO",
+        "A empresa STÊNIO DE S COELHO"
+      ],
+      "canonical_id": "d5377_438_empresa_stenio"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "52.932.560/0001-88",
+      "mentions": [
+        "CNPJ n. 52.932.560/0001-88"
+      ],
+      "canonical_id": "d5377_438_cnpj_stenio"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Rogério Araújo de Castro",
+      "mentions": [
+        "ROGERIO ARAUJO DE CASTRO",
+        "Rogério Araújo de Castro"
+      ],
+      "canonical_id": "d5377_438_pessoa_rogerio"
+    }
+  ]
+}

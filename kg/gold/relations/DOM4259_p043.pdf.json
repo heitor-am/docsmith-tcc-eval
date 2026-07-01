@@ -1,0 +1,321 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4259_p043.pdf",
+  "relations": [
+    {
+      "subject_canonical_id": "d4259p43_contrato_201_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_201_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259p43_espacofisio"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_201_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259p43_objeto_credenciamento"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_201_2026",
+      "predicate": "temValor",
+      "object_canonical_id": "d4259p43_valor_201"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_201_2026",
+      "predicate": "temFundamentoLegal",
+      "object_canonical_id": "d4259p43_lei_14133"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_201_2026",
+      "predicate": "temModalidade",
+      "object_canonical_id": "d4259p43_credenciamento_002"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_201_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259p43_data_assin"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_202_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_202_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259p43_fisioclin"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_202_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259p43_objeto_credenciamento"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_202_2026",
+      "predicate": "temValor",
+      "object_canonical_id": "d4259p43_valor_202"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_202_2026",
+      "predicate": "temFundamentoLegal",
+      "object_canonical_id": "d4259p43_lei_14133"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_202_2026",
+      "predicate": "temModalidade",
+      "object_canonical_id": "d4259p43_credenciamento_002"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_202_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259p43_data_assin"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_203_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_203_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259p43_asa"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_203_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259p43_objeto_credenciamento"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_203_2026",
+      "predicate": "temValor",
+      "object_canonical_id": "d4259p43_valor_203"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_203_2026",
+      "predicate": "temFundamentoLegal",
+      "object_canonical_id": "d4259p43_lei_14133"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_203_2026",
+      "predicate": "temModalidade",
+      "object_canonical_id": "d4259p43_credenciamento_002"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_203_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259p43_data_assin"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_204_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_204_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259p43_integrar"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_204_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259p43_objeto_credenciamento"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_204_2026",
+      "predicate": "temValor",
+      "object_canonical_id": "d4259p43_valor_204"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_204_2026",
+      "predicate": "temFundamentoLegal",
+      "object_canonical_id": "d4259p43_lei_14133"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_204_2026",
+      "predicate": "temModalidade",
+      "object_canonical_id": "d4259p43_credenciamento_002"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_204_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259p43_data_assin"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_205_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_205_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259p43_prontofisio"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_205_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259p43_objeto_credenciamento"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_205_2026",
+      "predicate": "temValor",
+      "object_canonical_id": "d4259p43_valor_205"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_205_2026",
+      "predicate": "temFundamentoLegal",
+      "object_canonical_id": "d4259p43_lei_14133"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_205_2026",
+      "predicate": "temModalidade",
+      "object_canonical_id": "d4259p43_credenciamento_002"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_205_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259p43_data_assin"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_206_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_206_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259p43_quality"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_206_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259p43_objeto_credenciamento"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_206_2026",
+      "predicate": "temValor",
+      "object_canonical_id": "d4259p43_valor_206"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_206_2026",
+      "predicate": "temFundamentoLegal",
+      "object_canonical_id": "d4259p43_lei_14133"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_206_2026",
+      "predicate": "temModalidade",
+      "object_canonical_id": "d4259p43_credenciamento_002"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_206_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259p43_data_assin"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_207_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_207_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259p43_viver_dignidade"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_207_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259p43_objeto_credenciamento"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_207_2026",
+      "predicate": "temValor",
+      "object_canonical_id": "d4259p43_valor_207"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_207_2026",
+      "predicate": "temFundamentoLegal",
+      "object_canonical_id": "d4259p43_lei_14133"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_207_2026",
+      "predicate": "temModalidade",
+      "object_canonical_id": "d4259p43_credenciamento_002"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_207_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259p43_data_assin"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_208_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_208_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259p43_clinic_fisio"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_208_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259p43_objeto_credenciamento"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_208_2026",
+      "predicate": "temValor",
+      "object_canonical_id": "d4259p43_valor_208"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_208_2026",
+      "predicate": "temFundamentoLegal",
+      "object_canonical_id": "d4259p43_lei_14133"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_208_2026",
+      "predicate": "temModalidade",
+      "object_canonical_id": "d4259p43_credenciamento_002"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_208_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259p43_data_assin"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_209_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_209_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259p43_reabilitar_amor"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_209_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259p43_objeto_credenciamento"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_209_2026",
+      "predicate": "temValor",
+      "object_canonical_id": "d4259p43_valor_209"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_209_2026",
+      "predicate": "temFundamentoLegal",
+      "object_canonical_id": "d4259p43_lei_14133"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_209_2026",
+      "predicate": "temModalidade",
+      "object_canonical_id": "d4259p43_credenciamento_002"
+    },
+    {
+      "subject_canonical_id": "d4259p43_contrato_209_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259p43_data_assin"
+    }
+  ]
+}

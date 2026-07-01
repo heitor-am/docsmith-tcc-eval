@@ -1,0 +1,101 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5374_147_Coronel_Jose_Dias_Licitacao_Inexigibilidade_021-25_Extrato_Contrato_114-25_pag_87.pdf",
+  "relations": [
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "rg_prefeitura",
+      "object_canonical_id": "rg_municipio"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d5374_148_rg_contrato_215",
+      "object_canonical_id": "rg_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d5374_148_rg_contrato_215",
+      "object_canonical_id": "d5374_147_eva_santos"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5374_148_rg_contrato_215",
+      "object_canonical_id": "d5374_147_objeto_rg"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d5374_148_rg_contrato_215",
+      "object_canonical_id": "d5374_147_valor_rg"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5374_148_rg_contrato_215",
+      "object_canonical_id": "d5374_148_rg_dispensa_082"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5374_148_rg_contrato_215",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5374_148_rg_contrato_215",
+      "object_canonical_id": "d5374_147_data_rg_assinatura"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "cjd_prefeitura",
+      "object_canonical_id": "cjd_municipio"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d5374_148_cjd_contrato_114",
+      "object_canonical_id": "cjd_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d5374_148_cjd_contrato_114",
+      "object_canonical_id": "d5374_147_luis_batista"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5374_148_cjd_contrato_114",
+      "object_canonical_id": "d5374_147_objeto_cjd"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d5374_148_cjd_contrato_114",
+      "object_canonical_id": "d5374_147_valor_cjd"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5374_148_cjd_contrato_114",
+      "object_canonical_id": "d5374_148_cjd_inexigibilidade_021"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5374_148_cjd_contrato_114",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5374_148_cjd_contrato_114",
+      "object_canonical_id": "d5374_147_data_cjd_extrato"
+    },
+    {
+      "predicate": "temVigencia",
+      "subject_canonical_id": "d5374_148_cjd_contrato_114",
+      "object_canonical_id": "d5374_147_vigencia_cjd"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5374_148_cjd_inexigibilidade_021",
+      "object_canonical_id": "d5374_147_objeto_cjd"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5374_148_cjd_inexigibilidade_021",
+      "object_canonical_id": "lei_14133"
+    }
+  ]
+}

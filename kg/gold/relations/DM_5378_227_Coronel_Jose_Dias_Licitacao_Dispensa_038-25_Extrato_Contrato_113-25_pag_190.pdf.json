@@ -1,0 +1,106 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5378_227_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Extrato_Contrato_113-25_pag_190.pdf",
+  "relations": [
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d5378_227_contrato_113",
+      "object_canonical_id": "cjd_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d5378_227_contrato_113",
+      "object_canonical_id": "d5378_226_emp_ampla"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5378_227_contrato_113",
+      "object_canonical_id": "d5378_227_objeto_cjd"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d5378_227_contrato_113",
+      "object_canonical_id": "d5378_227_valor_cjd"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5378_227_contrato_113",
+      "object_canonical_id": "d5378_226_dispensa_038"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5378_227_contrato_113",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5378_227_contrato_113",
+      "object_canonical_id": "d5378_227_data_contrato_cjd"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "cjd_prefeitura",
+      "object_canonical_id": "cjd_municipio"
+    },
+    {
+      "predicate": "decretadoPor",
+      "subject_canonical_id": "d5378_227_decreto_39",
+      "object_canonical_id": "d5378_227_curimata_prefeitura"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5378_227_decreto_39",
+      "object_canonical_id": "d4260p1_lei_organica"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5378_227_decreto_39",
+      "object_canonical_id": "d5378_227_data_decreto39"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d5378_227_curimata_prefeitura",
+      "object_canonical_id": "d5378_227_curimata_municipio"
+    },
+    {
+      "predicate": "decretadoPor",
+      "subject_canonical_id": "d5378_227_ato_anulacao",
+      "object_canonical_id": "d5378_227_curimata_prefeitura"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5378_227_ato_anulacao",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5378_227_ato_anulacao",
+      "object_canonical_id": "d5378_227_data_anulacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d5378_227_contrato_saude_98",
+      "object_canonical_id": "d5378_227_curimata_sms"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d5378_227_contrato_saude_98",
+      "object_canonical_id": "d5378_227_pessoa_raimundo"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5378_227_contrato_saude_98",
+      "object_canonical_id": "d5378_227_objeto_saude"
+    },
+    {
+      "predicate": "temVigencia",
+      "subject_canonical_id": "d5378_227_contrato_saude_98",
+      "object_canonical_id": "d5378_227_vigencia_saude"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5378_227_contrato_saude_98",
+      "object_canonical_id": "d5378_227_data_assinatura_saude"
+    }
+  ]
+}

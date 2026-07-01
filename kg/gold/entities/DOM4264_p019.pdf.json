@@ -1,0 +1,390 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4264_p019.pdf",
+  "entities": [
+    {
+      "canonical_id": "mun_teresina",
+      "canonical_name": "Teresina",
+      "type": "MunicipioPI",
+      "mentions": [
+        "MUNICÍPIO DE TERESINA",
+        "Teresina/PI",
+        "Teresina (PI)",
+        "Teresina"
+      ]
+    },
+    {
+      "canonical_id": "pmt_prefeitura",
+      "canonical_name": "Prefeitura Municipal de Teresina",
+      "type": "Orgao",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE TERESINA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_semplan",
+      "canonical_name": "Secretaria Municipal de Planejamento e Coordenação",
+      "type": "SecretariaMunicipal",
+      "mentions": [
+        "Secretaria Municipal de Planejamento e Coordenação"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_marco_antonio",
+      "canonical_name": "Marco Antônio Ayres Corrêa Lima",
+      "type": "Pessoa",
+      "mentions": [
+        "MARCO ANTÔNIO AYRES CORRÊA LIMA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_portaria_326",
+      "canonical_name": "Portaria nº 326, de 27 de maio de 2026",
+      "type": "Portaria",
+      "mentions": [
+        "ANEXO À PORTARIA Nº 326, DE 27 DE MAIO DE 2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_data_326",
+      "canonical_name": "27 de maio de 2026",
+      "type": "Data",
+      "mentions": [
+        "27 de maio de 2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_lei_5891",
+      "canonical_name": "Lei nº 5.891, de 26/04/2023",
+      "type": "Lei",
+      "mentions": [
+        "Lei nº 5.891, de 26/04/2023"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_lei_6311",
+      "canonical_name": "Lei nº 6.311, de 23/12/2025",
+      "type": "Lei",
+      "mentions": [
+        "LEI Nº 6311, DE 23/12/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_valor_481749",
+      "canonical_name": "R$ 481.749,00",
+      "type": "Valor",
+      "mentions": [
+        "481.749,00"
+      ]
+    },
+    {
+      "canonical_id": "d4263p3_semdec",
+      "canonical_name": "Secretaria Municipal de Desenvolvimento Econômico e Turismo – SEMDEC",
+      "type": "SecretariaMunicipal",
+      "mentions": [
+        "Secretaria Municipal de Desenvolvimento Econômico e Turismo ¨SEMDEC¨",
+        "SECRETÁRIO MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO E TURISMO - SEMDEC",
+        "Secretaria Municipal de Desenvolvimento Econômico e Turismo - SEMDEC",
+        "SEMDEC",
+        "Secretaria Municipal de Desenvolvimento Econômico (SEMDEC)"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_airton_feitosa",
+      "canonical_name": "Aírton Freitas Feitosa",
+      "type": "Pessoa",
+      "mentions": [
+        "AÍRTON FREITAS FEITOSA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_lei_5447",
+      "canonical_name": "Lei Municipal nº 5.447, de 19 de novembro de 2019",
+      "type": "Lei",
+      "mentions": [
+        "Lei Municipal n°.5.447, de 19 de novembro de 2019"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_maria_jesus_barbosa",
+      "canonical_name": "Maria de Jesus Duarte Pessoa Barbosa",
+      "type": "Pessoa",
+      "mentions": [
+        "MARIA DE JESUS DUARTE PESSOA BARBOSA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_maria_helena_nascimento",
+      "canonical_name": "Maria Helena Pereira do Nascimento",
+      "type": "Pessoa",
+      "mentions": [
+        "MARIA HELENA PEREIRA DO NASCIMENTO"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_portaria_5_2026",
+      "canonical_name": "Portaria nº 5/2026, de 21 de maio de 2026",
+      "type": "Portaria",
+      "mentions": [
+        "PORTARIA Nº 5/2026, DE 21 DE MAIO DE 2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_data_21maio2026",
+      "canonical_name": "21 de maio de 2026",
+      "type": "Data",
+      "mentions": [
+        "21 DE MAIO DE 2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_data_26maio2026",
+      "canonical_name": "26 de maio de 2026",
+      "type": "Data",
+      "mentions": [
+        "26 de maio de 2026",
+        "26 de Maio de 2026",
+        "26 DE MAIO DE 2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_contrato_04_2026",
+      "canonical_name": "Contrato nº 04/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "CONTRATO Nº 04/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_maria_c_costa_alves",
+      "canonical_name": "Maria C da Costa Alves",
+      "type": "Empresa",
+      "mentions": [
+        "EMPRESA MARIA C DA COSTA ALVES"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_objeto_limpeza",
+      "canonical_name": "Aquisição de material de limpeza, higiene, copa e cozinha",
+      "type": "Objeto",
+      "mentions": [
+        "AQUISIÇÃO DE MATERIAL DE LIMPEZA, HIGENE, COPA E COZINHA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_portaria_6_2026",
+      "canonical_name": "Portaria nº 6/2026, de 21 de maio de 2026",
+      "type": "Portaria",
+      "mentions": [
+        "PORTARIA Nº 6/2026, DE 21 DE MAIO DE 2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_contrato_03_2026",
+      "canonical_name": "Contrato nº 03/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "CONTRATO Nº 03/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_pacheco_lopes",
+      "canonical_name": "E Pacheco Lopes Filho",
+      "type": "Empresa",
+      "mentions": [
+        "EMPRESA E PACHECO LOPES FILHO"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_portaria_7_2026",
+      "canonical_name": "Portaria nº 7/2026, de 21 de maio de 2026",
+      "type": "Portaria",
+      "mentions": [
+        "PORTARIA Nº 7/2026, DE 21 DE MAIO DE 2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_contrato_05_2026",
+      "canonical_name": "Contrato nº 05/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "CONTRATO Nº 05/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_eduardo_miranda_lopes",
+      "canonical_name": "Eduardo Miranda Lopes LTDA",
+      "type": "Empresa",
+      "mentions": [
+        "EMPRESA EDUARDO MIRANDA LOPES LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_semjuv",
+      "canonical_name": "Secretaria Municipal da Juventude – SEMJUV",
+      "type": "SecretariaMunicipal",
+      "mentions": [
+        "Secretaria Municipal da Juventude ¨SEMJUV¨",
+        "SECRETARIA MUNICIPAL DA JUVENTUDE – SEMJUV",
+        "SECRETÁRIO MUNICIPAL DA JUVENTUDE – SEMJUV"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_termo_fomento_16_2026",
+      "canonical_name": "Termo de Fomento nº 16/2026 – SEMJUV",
+      "type": "Convenio",
+      "mentions": [
+        "TERMO DE FOMENTO Nº 16/2026 – SEMJUV",
+        "O PRESENTE TERMO DE FOMENTO"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_proc_sei_juv",
+      "canonical_name": "Processo Eletrônico SEI nº 00046.009624/2025-80",
+      "type": "NumeroProcesso",
+      "mentions": [
+        "PROCESSO ELETRÔNICO SEI N° 00046.009624/2025-80",
+        "PROCESSO Nº 00046.009624/2025-80"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_assoc_viva_esperanca",
+      "canonical_name": "Associação Viva com Esperança",
+      "type": "Empresa",
+      "mentions": [
+        "ASSOCIAÇÃO VIVA COM ESPERANÇA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_cnpj_assoc",
+      "canonical_name": "11.989.532/0001-10",
+      "type": "CNPJ",
+      "mentions": [
+        "11.989.532/0001-10"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_jailson_neves",
+      "canonical_name": "Jailson Neves Alves",
+      "type": "Pessoa",
+      "mentions": [
+        "JAILSON NEVES ALVES"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_luis_andre",
+      "canonical_name": "Luis Andre de Arruda Mont'Alverne",
+      "type": "Pessoa",
+      "mentions": [
+        "LUIS ANDRE DE ARRUDA MONT’ALVERNE"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_objeto_fomento",
+      "canonical_name": "Execução do projeto \"Estratégias para Atendimento de Pessoas com Deficiência Física\"",
+      "type": "Objeto",
+      "mentions": [
+        "A EXECUÇÃO DO PROJETO “ESTRATÉGIAS PARA ATENDIMENTO DE PESSOAS COM DEFICIÊNCIA FÍSICA”"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_valor_199500",
+      "canonical_name": "R$ 199.500,00 (cento e noventa e nove mil e quinhentos reais)",
+      "type": "Valor",
+      "mentions": [
+        "R$ 199.500,00 (CENTO E NOVENTA E NOVE MIL E QUINHENTOS REAIS)"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_lc_101",
+      "canonical_name": "Lei Complementar nº 101",
+      "type": "Lei",
+      "mentions": [
+        "LEI COMPLEMENTAR Nº 101"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_lei_13019",
+      "canonical_name": "Lei nº 13.019",
+      "type": "Lei",
+      "mentions": [
+        "LEI Nº 13.019"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_lei_13204",
+      "canonical_name": "Lei nº 13.204",
+      "type": "Lei",
+      "mentions": [
+        "LEI Nº 13.204"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_decreto_8726",
+      "canonical_name": "Decreto nº 8.726",
+      "type": "Decreto",
+      "mentions": [
+        "DECRETO Nº 8.726"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_lei_municipal_3863",
+      "canonical_name": "Lei Municipal nº 3.863",
+      "type": "Lei",
+      "mentions": [
+        "LEI MUNICIPAL 3.863"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_decreto_16802",
+      "canonical_name": "Decreto nº 16.802",
+      "type": "Decreto",
+      "mentions": [
+        "DECRETO Nº 16.802"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_data_assin_fomento",
+      "canonical_name": "26 de maio de 2026",
+      "type": "Data",
+      "mentions": [
+        "DATA DA ASSINATURA: 26 DE MAIO DE 2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_smpm",
+      "canonical_name": "Secretaria Municipal de Políticas Públicas para as Mulheres – SMPM",
+      "type": "SecretariaMunicipal",
+      "mentions": [
+        "Secretaria Municipal de Políticas Públicas para Mulheres ¨SMPM¨",
+        "Secretaria Municipal de Políticas Públicas para as Mulheres (SMPM)"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_aditivo_edital_01_2026",
+      "canonical_name": "Aditivo nº 01 ao Edital nº 01/2026 – Prêmio Teresina",
+      "type": "AditivoContratual",
+      "mentions": [
+        "ADITIVO Nº 01 AO EDITAL Nº 01/2026 – PRÊMIO TERESINA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_edital_01_2026",
+      "canonical_name": "Edital nº 01/2026 – Prêmio Teresina",
+      "type": "Edital",
+      "mentions": [
+        "EDITAL Nº 01/2026 – PRÊMIO TERESINA",
+        "Edital do Prêmio Teresina"
+      ]
+    },
+    {
+      "canonical_id": "d4264p19_objeto_aditivo",
+      "canonical_name": "Prorrogação das inscrições do Prêmio Teresina e alteração do Cronograma de Execução – Anexo I",
+      "type": "Objeto",
+      "mentions": [
+        "prorrogar as inscrições do Prêmio Teresina",
+        "Alterar o Cronograma de Execução – Anexo I do Edital do Prêmio Teresina"
+      ]
+    }
+  ]
+}

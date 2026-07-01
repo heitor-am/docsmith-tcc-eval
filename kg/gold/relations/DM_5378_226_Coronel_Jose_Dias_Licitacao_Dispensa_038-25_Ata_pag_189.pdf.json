@@ -1,0 +1,61 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5378_226_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Ata_pag_189.pdf",
+  "relations": [
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5378_226_ata",
+      "object_canonical_id": "d5378_226_dispensa_038"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5378_226_ata",
+      "object_canonical_id": "d5378_226_data_sessao"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5378_226_dispensa_038",
+      "object_canonical_id": "d5378_226_objeto"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d5378_226_dispensa_038",
+      "object_canonical_id": "d5378_226_emp_ampla"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d5378_226_dispensa_038",
+      "object_canonical_id": "cjd_prefeitura"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d5378_226_dispensa_038",
+      "object_canonical_id": "d5378_226_valor_ampla"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5378_226_dispensa_038",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temVigencia",
+      "subject_canonical_id": "d5378_226_dispensa_038",
+      "object_canonical_id": "d5378_226_vigencia"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "cjd_prefeitura",
+      "object_canonical_id": "cjd_municipio"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5378_226_ratificacao",
+      "object_canonical_id": "d5378_226_dispensa_038"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5378_226_ratificacao",
+      "object_canonical_id": "d5378_226_data_ratificacao"
+    }
+  ]
+}

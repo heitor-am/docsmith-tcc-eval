@@ -1,0 +1,670 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4263_p007.pdf",
+  "entities": [
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Teresina",
+      "mentions": [
+        "Município de Teresina",
+        "TERESINA-PI"
+      ],
+      "canonical_id": "mun_teresina"
+    },
+    {
+      "type": "SecretariaMunicipal",
+      "canonical_name": "Secretaria Municipal de Educação - SEMEC",
+      "mentions": [
+        "SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMEC",
+        "Secretaria Municipal de Educação - SEMEC",
+        "Secretaria Municipal de Educação",
+        "SEMEC",
+        "SEMEC/PMT"
+      ],
+      "canonical_id": "d4258p6_semec"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "06.554.869/0005-98",
+      "mentions": [
+        "inscrita no CNPJ sob o nº 06.554.869/0005-98"
+      ],
+      "canonical_id": "d4258p6_semec_cnpj"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Ismael do Nascimento Silva",
+      "mentions": [
+        "ISMAEL DO NASCIMENTO SILVA",
+        "O SECRETÁRIO MUNICIPAL DE EDUCAÇÃO DE TERESINA-PI/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_ismael"
+    },
+    {
+      "type": "DataPublicacao",
+      "canonical_name": "26 de maio de 2026",
+      "mentions": [
+        "Terça-feira, 26 de maio de 2026"
+      ],
+      "canonical_id": "d4263p7_data_pub_26_05_2026"
+    },
+    {
+      "type": "Portaria",
+      "canonical_name": "Portaria nº 192/2026/GAB/SEMEC",
+      "mentions": [
+        "PORTARIA Nº 192/2026/GAB/SEMEC",
+        "ANEXO I DA PORTARIA Nº 192/2026/GAB/SEMEC",
+        "ANEXO I desta Portaria"
+      ],
+      "canonical_id": "d4263p7_portaria_192"
+    },
+    {
+      "type": "Portaria",
+      "canonical_name": "Portaria nº 193/2026/GAB/SEMEC",
+      "mentions": [
+        "PORTARIA Nº 193/2026/GAB/SEMEC"
+      ],
+      "canonical_id": "d4263p7_portaria_193"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "21 de maio de 2026",
+      "mentions": [
+        "em 21 de maio de 2026"
+      ],
+      "canonical_id": "d4263p7_data_portaria_21_05_2026"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Rebeca Maria de Oliveira",
+      "mentions": [
+        "a servidora REBECA MARIA DE OLIVEIRA, CPF nº 811.492.***-**, Pedagoga, Matrícula nº 051352"
+      ],
+      "canonical_id": "d4263p7_rebeca"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Maristela Barros Bandeira",
+      "mentions": [
+        "a servidora MARISTELA BARROS BANDEIRA, CPF nº 182.558.***-**, Chefe de Divisão, Matrícula nº 65825"
+      ],
+      "canonical_id": "d4263p7_maristela"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo SEI nº 00044.011819/2026-82",
+      "mentions": [
+        "processo(s) SEI! Nº(s) 00044.011819/2026-82"
+      ],
+      "canonical_id": "d4263p7_processo_sei_011819"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo SEI nº 00044.018224/2025-04",
+      "mentions": [
+        "00044.018224/2025-04"
+      ],
+      "canonical_id": "d4263p7_processo_sei_018224"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Aquisição de gêneros alimentícios da Agricultura Familiar para a alimentação escolar da Rede Pública Municipal de Ensino (ano letivo 2026)",
+      "mentions": [
+        "Aquisição de Gêneros alimentícios diretamente da Agricultura Familiar para atender a alimentação escolar dos alunos da Educação Infantil, Ensino Fundamental, Mais Educação e EJA da Rede Pública Municipal de Ensino para o ano letivo de 2026"
+      ],
+      "canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "type": "Decreto",
+      "canonical_name": "Decreto nº 7.750, de 05 de junho de 2008",
+      "mentions": [
+        "Decreto nº 7.750 de 05 de junho de 2008"
+      ],
+      "canonical_id": "d4263p7_decreto_7750"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei nº 2.972/2001",
+      "mentions": [
+        "art. 41, § 5º, da Lei nº 2.972/2001"
+      ],
+      "canonical_id": "d4263p7_lei_2972_2001"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 22/2026/SEMEC/PMT",
+      "mentions": [
+        "22/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_22"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Romildo Crispim",
+      "mentions": [
+        "Romildo Crispim, CPF nº 065.533.***-**"
+      ],
+      "canonical_id": "d4258p6_romildo_crispim"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 23/2026/SEMEC/PMT",
+      "mentions": [
+        "23/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_23"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Kelly Maria Ribeiro Gonçalves",
+      "mentions": [
+        "Kelly Maria Ribeiro Gonçalves, CPF nº 074.383.***-**"
+      ],
+      "canonical_id": "d4258p6_kelly_goncalves"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 24/2026/SEMEC/PMT",
+      "mentions": [
+        "24/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_24"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Antônia Lucilene Dourado dos Anjos",
+      "mentions": [
+        "Antônia Lucilene Dourado dos Anjos, CPF nº 003.140.***-**"
+      ],
+      "canonical_id": "d4258p6_antonia_anjos"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 25/2026/SEMEC/PMT",
+      "mentions": [
+        "25/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_25"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Denilson Alves Conceição",
+      "mentions": [
+        "Denilson Alves Conceição, CPF nº 630.870.***-**"
+      ],
+      "canonical_id": "d4263p7_denilson_conceicao"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 26/2026/SEMEC/PMT",
+      "mentions": [
+        "26/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_26"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Daniel Alves Conceição",
+      "mentions": [
+        "Daniel Alves Conceição, CPF nº 633.491.***-**"
+      ],
+      "canonical_id": "d4263p7_daniel_conceicao"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 27/2026/SEMEC/PMT",
+      "mentions": [
+        "27/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_27"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação Comunitária dos Pequenos Produtores Rurais do Povoado Fazenda Soares",
+      "mentions": [
+        "Associação Comunitária dos Pequenos Produtores Rurais do Povoado Fazenda Soares"
+      ],
+      "canonical_id": "d4263p7_asscom_fazenda_soares"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "00.075.800/0001-71",
+      "mentions": [
+        "CNPJ 00.075.800/0001-71"
+      ],
+      "canonical_id": "d4263p7_asscom_fazenda_soares_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 28/2026/SEMEC/PMT",
+      "mentions": [
+        "28/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_28"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação Comunitária dos Pequenos Produtores Rurais do Povoado Eliza Romaro",
+      "mentions": [
+        "Associação Comunitária dos Pequenos Produtores Rurais do Povoado Eliza Romaro, nome fantasia “ASSCOMPERO”"
+      ],
+      "canonical_id": "d4263p7_asscompero"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "12.126.634/0001-74",
+      "mentions": [
+        "CNPJ 12.126.634/0001-74"
+      ],
+      "canonical_id": "d4263p7_asscompero_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 29/2026/SEMEC/PMT",
+      "mentions": [
+        "29/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_29"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação de Horticultores da Grande Socopo",
+      "mentions": [
+        "Associação de Horticultores da Grande Socopo"
+      ],
+      "canonical_id": "d4263p7_assoc_horticultores_socopo"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "11.071.989/0001-40",
+      "mentions": [
+        "CNPJ 11.071.989/0001-40"
+      ],
+      "canonical_id": "d4263p7_assoc_horticultores_socopo_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 30/2026/SEMEC/PMT",
+      "mentions": [
+        "30/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_30"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Agricultores Familiares de Teresina",
+      "mentions": [
+        "Associação dos Agricultores Familiares de Teresina, nome fantasia “AGRIFAM”"
+      ],
+      "canonical_id": "d4263p7_agrifam"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "15.043.143/0001-58",
+      "mentions": [
+        "CNPJ 15.043.143/0001-58"
+      ],
+      "canonical_id": "d4263p7_agrifam_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 31/2026/SEMEC/PMT",
+      "mentions": [
+        "31/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_31"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Horticultores da Horta Comunitária Ceramica Cil",
+      "mentions": [
+        "Associação dos Horticultores da Horta Comunitária Ceramica Cil, nome fantasia “HORTICIL”"
+      ],
+      "canonical_id": "d4263p7_horticil"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "27.717.663/0001-88",
+      "mentions": [
+        "CNPJ nº 27.717.663/0001-88"
+      ],
+      "canonical_id": "d4263p7_horticil_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 32/2026/SEMEC/PMT",
+      "mentions": [
+        "32/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_32"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Hortifruticultores do Rio Guaribas",
+      "mentions": [
+        "Associação dos Hortifruticultores do Rio Guaribas, nome fantasia “HORTFRUTARE”"
+      ],
+      "canonical_id": "d4263p7_hortfrutare"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "13.334.397/0001-08",
+      "mentions": [
+        "CNPJ 13.334.397/0001-08"
+      ],
+      "canonical_id": "d4263p7_hortfrutare_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 33/2026/SEMEC/PMT",
+      "mentions": [
+        "33/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_33"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Pequenos Horticultores Familiares do Povoado Soim",
+      "mentions": [
+        "Associação dos Pequenos Horticultores Familiares do Povoado Soim, nome fantasia “ASHOPOSO”"
+      ],
+      "canonical_id": "d4263p7_ashoposo"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "11.535.569/0001-78",
+      "mentions": [
+        "CNPJ 11.535.569/0001-78"
+      ],
+      "canonical_id": "d4263p7_ashoposo_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 34/2026/SEMEC/PMT",
+      "mentions": [
+        "34/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_34"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Pequenos Produtores Rurais do Povoado Ave Verde",
+      "mentions": [
+        "Associação dos Pequenos Produtores Rurais do Povoado Ave Verde, nome fantasia “ASPROVERDE”"
+      ],
+      "canonical_id": "d4263p7_asproverde"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "15.081.296/0001-90",
+      "mentions": [
+        "CNPJ 15.081.296/0001-90"
+      ],
+      "canonical_id": "d4263p7_asproverde_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 35/2026/SEMEC/PMT",
+      "mentions": [
+        "35/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_35"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Produtores da Localidade Soim",
+      "mentions": [
+        "Associação dos Produtores da Localidade Soim"
+      ],
+      "canonical_id": "d4263p7_assoc_prod_soim"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "32.122.365/0001-85",
+      "mentions": [
+        "CNPJ 32.122.365/0001-85"
+      ],
+      "canonical_id": "d4263p7_assoc_prod_soim_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 36/2026/SEMEC/PMT",
+      "mentions": [
+        "36/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_36"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Produtores de Frutas Hortaliças do Vale do Guaribas",
+      "mentions": [
+        "Associação do Produtores de Frutas Hortalicas do Vale do do Guaribas, nome fantasia “PROVALE”"
+      ],
+      "canonical_id": "d4263p7_provale"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "14.011.310/0001-16",
+      "mentions": [
+        "CNPJ 14.011.310/0001-16"
+      ],
+      "canonical_id": "d4263p7_provale_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 37/2026/SEMEC/PMT",
+      "mentions": [
+        "37/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_37"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Trabalhadores Rurais Monte Verde",
+      "mentions": [
+        "Associação dos Trabalhadores Rurais Monte Verde, nome fantasia “ASTRUMOV”"
+      ],
+      "canonical_id": "d4263p7_astrumov"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "31.404.005/0001-03",
+      "mentions": [
+        "CNPJ 31.404.005/0001-03"
+      ],
+      "canonical_id": "d4263p7_astrumov_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 38/2026/SEMEC/PMT",
+      "mentions": [
+        "38/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_38"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Cooperativa dos Produtores Agropecuários do Portal do Parnaíba e Comunidades Vizinhas",
+      "mentions": [
+        "Cooperativa dos Produtores Agropecuarios do Portal do Parnaiba e Comunidades Vizinhas, nome fantasia “COOPERAGRO”"
+      ],
+      "canonical_id": "d4263p7_cooperagro"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "20.031.802/0001-76",
+      "mentions": [
+        "CNPJ 20.031.802/0001-76"
+      ],
+      "canonical_id": "d4263p7_cooperagro_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 39/2026/SEMEC/PMT",
+      "mentions": [
+        "39/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_39"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Horticultores da Horta Comunitária Tabuleta",
+      "mentions": [
+        "Associação dos Horticultores da Horta Comunitária Tabuleta, nome fantasia “ASHCOMTAB”"
+      ],
+      "canonical_id": "d4263p7_ashcomtab"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "36.297.005/0001-75",
+      "mentions": [
+        "CNPJ 36.297.005/0001-75"
+      ],
+      "canonical_id": "d4263p7_ashcomtab_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 40/2026/SEMEC/PMT",
+      "mentions": [
+        "40/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_40"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Irrigantes do Campestre",
+      "mentions": [
+        "Associação dos Irrigantes do Campestre, nome fantasia “AIC”"
+      ],
+      "canonical_id": "d4263p7_aic"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "23.019.756/0001-88",
+      "mentions": [
+        "CNPJ nº 23.019.756/0001-88"
+      ],
+      "canonical_id": "d4263p7_aic_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 41/2026/SEMEC/PMT",
+      "mentions": [
+        "41/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_41"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação dos Produtores Rurais de Monsenhor Gil",
+      "mentions": [
+        "Associação dos Produtores Rurais de Monsenhor Gil"
+      ],
+      "canonical_id": "d4263p7_assoc_prod_monsenhor_gil"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "47.203.803/0001-07",
+      "mentions": [
+        "CNPJ 47.203.803/0001-07"
+      ],
+      "canonical_id": "d4263p7_assoc_prod_monsenhor_gil_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 42/2026/SEMEC/PMT",
+      "mentions": [
+        "42/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_42"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação de Desenvolvimento Comunitário e Social da Comunidade Barreiros",
+      "mentions": [
+        "Associação de Desenvolvimento Comunitário e Social da Comunidade Barreiros, nome fantasia “ADCSCB”"
+      ],
+      "canonical_id": "d4263p7_adcscb"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "03.566.217/0001-51",
+      "mentions": [
+        "CNPJ 03.566.217/0001-51"
+      ],
+      "canonical_id": "d4263p7_adcscb_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 43/2026/SEMEC/PMT",
+      "mentions": [
+        "43/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_43"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Instituto de Apoio ao Desenvolvimento Ambiental, Social e Agrário do Meio Norte",
+      "mentions": [
+        "Instituto de Apoio ao Desenvolvimento Ambiental, Social e Agrario do Meio Norte, nome fantasia “IDASAMN”"
+      ],
+      "canonical_id": "d4263p7_idasamn"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "50.326.158/0001-24",
+      "mentions": [
+        "CNPJ 50.326.158/0001-24"
+      ],
+      "canonical_id": "d4263p7_idasamn_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 44/2026/SEMEC/PMT",
+      "mentions": [
+        "44/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_44"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Cooperativa Agropecuária dos Agricultores Familiares da Região Norte do Ceará Ltda",
+      "mentions": [
+        "Cooperativa Agropecuaria dos Agricultores Familiares da Regiao Norte do Ceara Ltda, nome fantasia “COOPENORT”"
+      ],
+      "canonical_id": "d4263p7_coopenort"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "35.202.279/0001-70",
+      "mentions": [
+        "CNPJ 35.202.279/0001-70"
+      ],
+      "canonical_id": "d4263p7_coopenort_cnpj"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 45/2026/SEMEC/PMT",
+      "mentions": [
+        "45/2026/SEMEC/PMT"
+      ],
+      "canonical_id": "d4263p7_contrato_45"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Associação Comunitária dos Produtores do Assentamento São Domingos",
+      "mentions": [
+        "Associação Comunitária dos Produtores do Assentamento Sao Domingos"
+      ],
+      "canonical_id": "d4263p7_asscom_sao_domingos"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "04.436.012/0001-14",
+      "mentions": [
+        "CNPJ 04.436.012/0001-14"
+      ],
+      "canonical_id": "d4263p7_asscom_sao_domingos_cnpj"
+    }
+  ]
+}

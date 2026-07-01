@@ -1,0 +1,121 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5375_170_Joao_Costa_Licitacao_Concorrencia_Eletronica_005-25_Errata_Edital_pag_8.pdf",
+  "relations": [
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d5375_170_errata_edital_005_2025",
+      "object_canonical_id": "jc_prefeitura"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5375_170_errata_edital_005_2025",
+      "object_canonical_id": "d5375_170_concorrencia_005_2025"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5375_170_errata_edital_005_2025",
+      "object_canonical_id": "d5375_170_objeto"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5375_170_errata_edital_005_2025",
+      "object_canonical_id": "d5375_170_data_sessao_nova"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "jc_prefeitura",
+      "object_canonical_id": "jc_municipio"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d5375_170_contrato_pe_019_2025",
+      "object_canonical_id": "d5375_170_prefeitura_sao_luis"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d5375_170_contrato_pe_019_2025",
+      "object_canonical_id": "d5374_262_santa_rosa_ltda"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5375_170_contrato_pe_019_2025",
+      "object_canonical_id": "d5375_170_objeto_sl"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d5375_170_contrato_pe_019_2025",
+      "object_canonical_id": "d5375_170_valor_contrato_sl"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5375_170_contrato_pe_019_2025",
+      "object_canonical_id": "d5375_170_pe_019_2025_sl"
+    },
+    {
+      "predicate": "temVigencia",
+      "subject_canonical_id": "d5375_170_contrato_pe_019_2025",
+      "object_canonical_id": "d5375_170_vigencia_sl"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5375_170_contrato_pe_019_2025",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5375_170_contrato_pe_019_2025",
+      "object_canonical_id": "d5375_170_assinatura_sl"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d5375_170_prefeitura_sao_luis",
+      "object_canonical_id": "d5375_170_municipio_sao_luis"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5375_170_ato_adjudicatorio_cg",
+      "object_canonical_id": "d5375_170_pe_013_2025_cg"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5375_170_ato_adjudicatorio_cg",
+      "object_canonical_id": "d5375_170_objeto_cg"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d5375_170_ato_adjudicatorio_cg",
+      "object_canonical_id": "d5375_170_prefeitura_cg"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d5375_170_ato_adjudicatorio_cg",
+      "object_canonical_id": "d5375_170_valor_global_cg"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5375_170_ato_adjudicatorio_cg",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5375_170_ato_adjudicatorio_cg",
+      "object_canonical_id": "d5375_170_data_cg"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d5375_170_empresa_sa_damasceno",
+      "object_canonical_id": "d5375_170_valor_sa_damasceno"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d5375_170_empresa_ld_transportes",
+      "object_canonical_id": "d5375_170_valor_ld_transportes"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d5375_170_prefeitura_cg",
+      "object_canonical_id": "d5375_170_municipio_cg"
+    }
+  ]
+}

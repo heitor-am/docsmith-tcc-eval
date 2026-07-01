@@ -1,0 +1,51 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5381_114_Coronel_Jose_Dias_Decreto_035-25_pag_23.pdf",
+  "relations": [
+    {
+      "predicate": "decretadoPor",
+      "subject_canonical_id": "d5381_114_decreto_35_2025",
+      "object_canonical_id": "cjd_prefeitura"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5381_114_decreto_35_2025",
+      "object_canonical_id": "d5381_114_objeto_dispensa"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5381_114_decreto_35_2025",
+      "object_canonical_id": "d5381_114_data_11_08_2025"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5381_114_decreto_35_2025",
+      "object_canonical_id": "d5381_114_lei_9430_1996"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5381_114_decreto_35_2025",
+      "object_canonical_id": "d5381_114_lei_11598_2007"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5381_114_decreto_35_2025",
+      "object_canonical_id": "d5381_114_lei_13874_2019"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5381_114_decreto_35_2025",
+      "object_canonical_id": "d5381_114_lei_estadual_8025_2023"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5381_114_decreto_35_2025",
+      "object_canonical_id": "d5381_114_lei_municipal_234_2025"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "cjd_prefeitura",
+      "object_canonical_id": "cjd_municipio"
+    }
+  ]
+}

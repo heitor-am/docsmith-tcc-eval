@@ -1,0 +1,175 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4260_p016.pdf",
+  "entities": [
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de Teresina",
+      "mentions": [
+        "SEMA/PMT",
+        "FMS/PMT"
+      ],
+      "canonical_id": "pmt_prefeitura"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Teresina",
+      "mentions": [
+        "Teresina - PI",
+        "Teresina (PI)",
+        "Teresina(PI)",
+        "TERESINA-PI"
+      ],
+      "canonical_id": "mun_teresina"
+    },
+    {
+      "type": "SecretariaMunicipal",
+      "canonical_name": "Secretaria Municipal de Administração e Recursos Humanos",
+      "mentions": [
+        "Secretaria Municipal de Administração e Recursos Humanos",
+        "SEMA",
+        "Secretário Municipal de Administração/SEMA/PMT"
+      ],
+      "canonical_id": "d4260p1_sema"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Coordenação Central de Compras Públicas - CCP-SEMA",
+      "mentions": [
+        "COORDENAÇÃO CENTRAL DE COMPRAS PÚBLICAS",
+        "CCP-SEMA",
+        "Central de Licitações/SEMA/PMT"
+      ],
+      "canonical_id": "d4260p16_ccp_sema"
+    },
+    {
+      "type": "LicitacaoModalidade",
+      "canonical_name": "Concorrência Eletrônica Nº 90012/2026 – SEMA/PMT",
+      "mentions": [
+        "CONCORRÊNCIA ELETRÔNICA Nº 90012/2026 – SEMA/PMT"
+      ],
+      "canonical_id": "d4260p16_conc_90012_2026"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo SEI Nº 00082.000627/2026-54",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO SEI Nº 00082.000627/2026-54"
+      ],
+      "canonical_id": "d4260p16_proc_sema"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Contratação de empresa de engenharia para execução de serviços de reforma e modernização da Praça Arimatéia Tito Filho, localizada na rua Manoel Nogueira Lima - Jóquei Clube, Zona Leste de Teresina - PI, incluindo serviços preliminares, pavimentação, instalações elétricas, paisagismo e urbanização",
+      "mentions": [
+        "Contratação de empresa de engenharia para execução de serviços de reforma e modernização da Praça Arimatéia Tito Filho, localizada na rua Manoel Nogueira Lima - Jóquei Clube, Zona Leste de Teresina - PI, incluindo serviços preliminares, pavimentação, instalações elétricas, paisagismo e urbanização"
+      ],
+      "canonical_id": "d4260p16_obj_praca"
+    },
+    {
+      "type": "ValorLicitacao",
+      "canonical_name": "R$ 1.311.087,29",
+      "mentions": [
+        "R$ 1.311.087,29 (um milhão, trezentos e onze mil, oitenta e sete reais e vinte e nove centavos)"
+      ],
+      "canonical_id": "d4260p16_val_sema"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "23/06/2026 09:00h",
+      "mentions": [
+        "às 09:00h do dia 23/06/2026"
+      ],
+      "canonical_id": "d4260p16_data_abertura_sema"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Diretoria de Compras Públicas da Fundação Municipal de Saúde - DCP/FMS",
+      "mentions": [
+        "DIRETORIA DE COMPRAS PÚBLICAS DA FUNDAÇÃO MUNICIPAL DE SAÚDE-DCP/FMS",
+        "DCP/FMS"
+      ],
+      "canonical_id": "d4260p16_dcp_fms"
+    },
+    {
+      "type": "PregaoEletronico",
+      "canonical_name": "Pregão Eletrônico Nº 90046/2026 – FMS/PMT",
+      "mentions": [
+        "PREGÃO ELETRÔNICO Nº 90046/2026 – FMS/PMT"
+      ],
+      "canonical_id": "d4260p16_pregao_90046_2026"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo 00045.002342/2026-25",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO 00045.002342/2026-25"
+      ],
+      "canonical_id": "d4260p16_proc_fms_pregao"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Registro de Preços para futura e eventual aquisição de material de consumo de uso contínuo (pilhas e baterias alcalinas não recarregáveis para uso e funcionamento de aparelhos médicos/hospitalares), visando atender às necessidades do NUAL/FMS",
+      "mentions": [
+        "Registro de Preços para futura e eventual aquisição de material de consumo de uso contínuo (pilhas e baterias alcalinas não recarregáveis para uso e funcionamento de aparelhos médicos/hospitalares, visando atender às necessidades do NUAL/FMS"
+      ],
+      "canonical_id": "d4260p16_obj_pilhas"
+    },
+    {
+      "type": "ValorLicitacao",
+      "canonical_name": "R$ 592.670,00",
+      "mentions": [
+        "R$ 592.670,00 (Quinhentos e Noventa e Dois Mil, Seiscentos e Setenta reais)"
+      ],
+      "canonical_id": "d4260p16_val_fms_pregao"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "10/06/2026 09:00h",
+      "mentions": [
+        "às 09:00h do dia 10/06/2026"
+      ],
+      "canonical_id": "d4260p16_data_abertura_fms_pregao"
+    },
+    {
+      "type": "DispensaLicitacao",
+      "canonical_name": "Dispensa Eletrônica Nº 51/2026",
+      "mentions": [
+        "DISPENSA ELETRÔNICA Nº 51/2026"
+      ],
+      "canonical_id": "d4260p16_dispensa_51_2026"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo Nº 00047.001171/2026-17",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO Nº 00047.001171/2026-17"
+      ],
+      "canonical_id": "d4260p16_proc_fms_dispensa"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Contratação emergencial para Fornecimento de insumos (Fraldas geriátricas) conforme decisão judicial referente ao Processo nº 0800746-08.2024.8.18.0003",
+      "mentions": [
+        "Contratação emergencial para Fornecimento de insumos (Fraldas geriátricas) conforme decisão judicial referente ao Processo nº 0800746-08.2024.8.18.0003"
+      ],
+      "canonical_id": "d4260p16_obj_fraldas"
+    },
+    {
+      "type": "ValorLicitacao",
+      "canonical_name": "R$ 16.083,00",
+      "mentions": [
+        "R$ 16.083,00 (dezesseis mil e oitenta e três reais)"
+      ],
+      "canonical_id": "d4260p16_val_fms_dispensa"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "27/05/2026",
+      "mentions": [
+        "Data da sessão: 27/05/2026 das 08h:00 min até 14h:00 min"
+      ],
+      "canonical_id": "d4260p16_data_sessao_fms_dispensa"
+    }
+  ]
+}

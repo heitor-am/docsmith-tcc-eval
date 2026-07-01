@@ -1,0 +1,146 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4259_p001.pdf",
+  "relations": [
+    {
+      "subject_canonical_id": "d4259_tac_08_2026",
+      "predicate": "publicadoPor",
+      "object_canonical_id": "pgm_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_08_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_08_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259_dicorel"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_08_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259_objeto_08_2026"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_08_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259_data_assin_08_2026"
+    },
+    {
+      "subject_canonical_id": "d4259_dicorel",
+      "predicate": "localizadoEm",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_08_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "semam_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_08_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "d4259_sdu_leste"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_09_2026",
+      "predicate": "publicadoPor",
+      "object_canonical_id": "pgm_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_09_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_09_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "semam_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_09_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259_quaresma_melo"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_09_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259_objeto_09_2026"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_09_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259_data_assin_09_2026"
+    },
+    {
+      "subject_canonical_id": "d4259_quaresma_melo",
+      "predicate": "localizadoEm",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_10_2026",
+      "predicate": "publicadoPor",
+      "object_canonical_id": "pgm_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_10_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_10_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "semam_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_10_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259_francisco_reis"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_10_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259_objeto_10_2026"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_10_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259_data_assin_09_2026"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_11_2026",
+      "predicate": "publicadoPor",
+      "object_canonical_id": "pgm_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_11_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_11_2026",
+      "predicate": "temContratante",
+      "object_canonical_id": "semam_teresina"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_11_2026",
+      "predicate": "temContratada",
+      "object_canonical_id": "d4259_camila_lages_me"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_11_2026",
+      "predicate": "temObjeto",
+      "object_canonical_id": "d4259_objeto_11_2026"
+    },
+    {
+      "subject_canonical_id": "d4259_tac_11_2026",
+      "predicate": "temData",
+      "object_canonical_id": "d4259_data_assin_11_2026"
+    },
+    {
+      "subject_canonical_id": "d4259_camila_lages_me",
+      "predicate": "localizadoEm",
+      "object_canonical_id": "mun_teresina"
+    }
+  ]
+}

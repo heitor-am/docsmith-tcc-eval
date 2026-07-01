@@ -1,0 +1,262 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4264_p022.pdf",
+  "entities": [
+    {
+      "canonical_id": "pmt_prefeitura",
+      "canonical_name": "Fundação Municipal de Saúde",
+      "type": "Orgao",
+      "mentions": [
+        "FUNDAÇÃO MUNICIPAL DE SAÚDE"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_fms",
+      "canonical_name": "05.522.917/0001-70",
+      "type": "CNPJ",
+      "mentions": [
+        "05.522.917/0001-70"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_leopoldina_feitosa",
+      "canonical_name": "Leopoldina Cipriano Feitosa",
+      "type": "Pessoa",
+      "mentions": [
+        "LEOPOLDINA CIPRIANO FEITOSA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_data_26052026",
+      "canonical_name": "26/05/2026",
+      "type": "Data",
+      "mentions": [
+        "26/05/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_objeto_apostilamento",
+      "canonical_name": "Adequação da rubrica orçamentária para execução de recursos da Proposta de Custeio MAC",
+      "type": "Objeto",
+      "mentions": [
+        "CONSTITUI OBJETO DO PRESENTE TERMO DE APOSTILAMENTO A ADEQUAÇÃO DA RUBRICA ORÇAMENTÁRIA, PARA FINS DE EXECUÇÃO DE RECURSOS REFERENTE A PROPOSTA DE CUSTEIO MAC N° 36000724101202500, A INCLUSÃO DA SEGUINTE DOTAÇÃO ORÇAMENTÁRIA: 22002. 10302 0016 1 . 941 - INCREMENTO TEMPORÁRIO DO CUSTEIO DOS SERVIÇOS DA MÉDIA E ALTA COMPLEXIDADE - EMENDA PARLAMENTAR MAC; FONTE 1600- BLOCO MANUTENÇÃO DE ASPS"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_apost_contrato_199_2025",
+      "canonical_name": "Segundo Termo de Apostilamento ao Contrato nº 199/2025",
+      "type": "AditivoContratual",
+      "mentions": [
+        "EXTRATO DO SEGUNDO TERMO DE APOSTILAMENTO AO CONTRATO Nº 199/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_imediata_distribuidora",
+      "canonical_name": "Imediata Distribuidora de Produtos para a Saúde Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "IMEDIATA DISTRIBUIDORA DE PRODUTOS PARA A SAÚDE LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_cnpj_imediata",
+      "canonical_name": "36.590.911/0001-63",
+      "type": "CNPJ",
+      "mentions": [
+        "36.590.911/0001-63"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_apost_contrato_200_2025",
+      "canonical_name": "Segundo Termo de Apostilamento ao Contrato nº 200/2025",
+      "type": "AditivoContratual",
+      "mentions": [
+        "EXTRATO DO SEGUNDO TERMO DE APOSTILAMENTO AO CONTRATO Nº 200/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_emige",
+      "canonical_name": "Emige Materiais Odontológicos Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "EMIGE MATERIAIS ODONTOLÓGICOS LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_cnpj_emige",
+      "canonical_name": "71.505.564/0001-24",
+      "type": "CNPJ",
+      "mentions": [
+        "71.505.564/0001-24"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_apost_contrato_201_2025",
+      "canonical_name": "Segundo Termo de Apostilamento ao Contrato nº 201/2025",
+      "type": "AditivoContratual",
+      "mentions": [
+        "EXTRATO DO SEGUNDO TERMO DE APOSTILAMENTO AO CONTRATO Nº 201/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_prestamed",
+      "canonical_name": "Prestamed Hospitalar Eireli",
+      "type": "Empresa",
+      "mentions": [
+        "PRESTAMED HOSPITALAR EIRELI"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_cnpj_prestamed",
+      "canonical_name": "20.402.099/0001-65",
+      "type": "CNPJ",
+      "mentions": [
+        "20.402.099/0001-65"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_apost_contrato_202_2025",
+      "canonical_name": "Segundo Termo de Apostilamento ao Contrato nº 202/2025",
+      "type": "AditivoContratual",
+      "mentions": [
+        "EXTRATO DO SEGUNDO TERMO DE APOSTILAMENTO AO CONTRATO Nº 202/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_ok_dental",
+      "canonical_name": "OK Dental Comércio de Materiais Odonto Médico e Hospitalar Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "OK DENTAL COMÉRCIO DE MATERIAIS ODONTO MÉDICO E HOSPITALAR LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_cnpj_ok_dental",
+      "canonical_name": "23.460.299/0001-62",
+      "type": "CNPJ",
+      "mentions": [
+        "23.460.299/0001-62"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_apost_contrato_203_2025",
+      "canonical_name": "Segundo Termo de Apostilamento ao Contrato nº 203/2025",
+      "type": "AditivoContratual",
+      "mentions": [
+        "EXTRATO DO SEGUNDO TERMO DE APOSTILAMENTO AO CONTRATO Nº 203/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_alg_brasil",
+      "canonical_name": "ALG Brasil Comércio e Indústria de Produtos Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "ALG BRASIL COMÉRCIO E INDÚSTRIA DE PRODUTOS LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_cnpj_alg_brasil",
+      "canonical_name": "11.495.858/0001-90",
+      "type": "CNPJ",
+      "mentions": [
+        "11.495.858/0001-90"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_apost_contrato_204_2025",
+      "canonical_name": "Segundo Termo de Apostilamento ao Contrato nº 204/2025",
+      "type": "AditivoContratual",
+      "mentions": [
+        "EXTRATO DO SEGUNDO TERMO DE APOSTILAMENTO AO CONTRATO Nº 204/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_inspire",
+      "canonical_name": "Inspire Distribuição e Representação Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "INSPIRE DISTRIBUIÇÃO E REPRESENTAÇÃO LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_cnpj_inspire",
+      "canonical_name": "28.933.805/0001-07",
+      "type": "CNPJ",
+      "mentions": [
+        "28.933.805/0001-07"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_apost_contrato_205_2025",
+      "canonical_name": "Segundo Termo de Apostilamento ao Contrato nº 205/2025",
+      "type": "AditivoContratual",
+      "mentions": [
+        "EXTRATO DO SEGUNDO TERMO DE APOSTILAMENTO AO CONTRATO Nº 205/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_oce_torres",
+      "canonical_name": "O C E Torres Ltda - Shopodonto Dental",
+      "type": "Empresa",
+      "mentions": [
+        "O C E TORRES LTDA - SHOPODONTO DENTAL"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_cnpj_oce_torres",
+      "canonical_name": "50.979.927/0001-93",
+      "type": "CNPJ",
+      "mentions": [
+        "50.979.927/0001-93"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_apost_contrato_206_2025",
+      "canonical_name": "Segundo Termo de Apostilamento ao Contrato nº 206/2025",
+      "type": "AditivoContratual",
+      "mentions": [
+        "EXTRATO DO SEGUNDO TERMO DE APOSTILAMENTO AO CONTRATO Nº 206/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_pacheco_lopes_filho",
+      "canonical_name": "E. Pacheco Lopes Filho",
+      "type": "Empresa",
+      "mentions": [
+        "E. PACHECO LOPES FILHO"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_cnpj_pacheco_lopes_filho",
+      "canonical_name": "45.167.140/0001-97",
+      "type": "CNPJ",
+      "mentions": [
+        "45.167.140/0001 -97"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_apost_contrato_207_2025",
+      "canonical_name": "Segundo Termo de Apostilamento ao Contrato nº 207/2025",
+      "type": "AditivoContratual",
+      "mentions": [
+        "EXTRATO DO SEGUNDO TERMO DE APOSTILAMENTO AO CONTRATO Nº 207/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_odontomed",
+      "canonical_name": "Odontomed T/A Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "ODONTOMED T/A LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4264p22_cnpj_odontomed",
+      "canonical_name": "27.205.945/0001-04",
+      "type": "CNPJ",
+      "mentions": [
+        "27.205.945/0001-04"
+      ]
+    }
+  ]
+}

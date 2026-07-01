@@ -1,0 +1,61 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5382_189_Joao_Costa_Licitacao_PE_020-25_Aviso_pag_83.pdf",
+  "relations": [
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d5382_189_pe_020",
+      "object_canonical_id": "jc_prefeitura"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5382_189_pe_020",
+      "object_canonical_id": "d5382_189_objeto_020"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5382_189_pe_020",
+      "object_canonical_id": "d5382_189_data_abertura_020"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5382_189_pe_020",
+      "object_canonical_id": "d5382_189_data_acolhimento_020"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d5382_189_pe_020",
+      "object_canonical_id": "jc_municipio"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d5382_189_pe_021",
+      "object_canonical_id": "jc_prefeitura"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5382_189_pe_021",
+      "object_canonical_id": "d5382_189_objeto_021"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5382_189_pe_021",
+      "object_canonical_id": "d5382_189_data_abertura_021"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5382_189_pe_021",
+      "object_canonical_id": "d5382_189_data_acolhimento_021"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d5382_189_pe_021",
+      "object_canonical_id": "jc_municipio"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "jc_prefeitura",
+      "object_canonical_id": "jc_municipio"
+    }
+  ]
+}

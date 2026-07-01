@@ -1,0 +1,284 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4259_p001.pdf",
+  "entities": [
+    {
+      "canonical_id": "mun_teresina",
+      "canonical_name": "Teresina",
+      "type": "MunicipioPI",
+      "mentions": [
+        "MUNICÍPIO DE TERESINA",
+        "Teresina/PI",
+        "Teresina-PI"
+      ]
+    },
+    {
+      "canonical_id": "pgm_teresina",
+      "canonical_name": "Procuradoria-Geral do Município",
+      "type": "Orgao",
+      "mentions": [
+        "Procuradoria-Geral do Município",
+        "PROCURADORIA GERAL DO MUNICÍPIO",
+        "PGM"
+      ]
+    },
+    {
+      "canonical_id": "semam_teresina",
+      "canonical_name": "Secretaria Municipal de Meio Ambiente e Recursos Hídricos – SEMAM",
+      "type": "SecretariaMunicipal",
+      "mentions": [
+        "SECRETARIA MUNICIPAL DE MEIO AMBIENTE E RECURSOS HÍBRIDOS - SEMAM",
+        "Secretaria Municipal de Meio Ambiente e Recursos Hídricos (SEMAM)",
+        "SEMAM"
+      ]
+    },
+    {
+      "canonical_id": "silvio_mendes",
+      "canonical_name": "Sílvio Mendes de Oliveira Filho",
+      "type": "Pessoa",
+      "mentions": [
+        "Sílvio Mendes de Oliveira Filho",
+        "Silvio Mendes de Oliveira Filho"
+      ]
+    },
+    {
+      "canonical_id": "d4259_sdu_leste",
+      "canonical_name": "Superintendência de Desenvolvimento Urbano - Leste",
+      "type": "Orgao",
+      "mentions": [
+        "SUPERINTENDÊNCIA DE DESENVOLVIMENTO URBANO - LESTE",
+        "SDU Leste"
+      ]
+    },
+    {
+      "canonical_id": "d4259_virginia_barros",
+      "canonical_name": "Virgínia Gomes de Moura Barros",
+      "type": "Pessoa",
+      "mentions": [
+        "Virgínia Gomes de Moura Barros"
+      ]
+    },
+    {
+      "canonical_id": "d4259_jose_roncalli",
+      "canonical_name": "José Roncalli Costa Paulo Filho",
+      "type": "Pessoa",
+      "mentions": [
+        "José Roncalli Costa Paulo Filho"
+      ]
+    },
+    {
+      "canonical_id": "d4259_joao_eulalio",
+      "canonical_name": "João Eulálio de Pádua",
+      "type": "Pessoa",
+      "mentions": [
+        "João Eulálio de Pádua"
+      ]
+    },
+    {
+      "canonical_id": "d4259_tac_08_2026",
+      "canonical_name": "Extrato de Termo de Ajustamento de Conduta nº 08/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DE TERMO DE AJUSTAMENTO DE CONDUTA N° 08/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259_proc_08_2026",
+      "canonical_name": "Processo Administrativo nº 00082.004325/2024-27",
+      "type": "NumeroProcesso",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO N°: 00082.004325/2024-27",
+        "Processos SEI nº 00082.004325/2024-27"
+      ]
+    },
+    {
+      "canonical_id": "d4259_dicorel",
+      "canonical_name": "Dicorel Distribuidora de Medicamentos LTDA",
+      "type": "Empresa",
+      "mentions": [
+        "DICOREL DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+        "Dicorel Distribuidora de Medicamentos LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4259_cnpj_dicorel",
+      "canonical_name": "19.086.670/0001-09",
+      "type": "CNPJ",
+      "mentions": [
+        "19.086.670/0001-09"
+      ]
+    },
+    {
+      "canonical_id": "d4259_cassia_lima",
+      "canonical_name": "Cassia Raquel de Carvalho Lima",
+      "type": "Pessoa",
+      "mentions": [
+        "CASSIA RAQUEL DE CARVALHO LIMA",
+        "Cassia Raquel de Carvalho Lima"
+      ]
+    },
+    {
+      "canonical_id": "d4259_objeto_08_2026",
+      "canonical_name": "Regularização integral da edificação de uso comercial da compromissária",
+      "type": "Objeto",
+      "mentions": [
+        "Tem como objeto primordial a regularização integral da edificação de uso comercial da COMPROMISSÁRIA, localizada na Avenida Engenheiro Alberto Silva, nº 1545, Loteamento Parque Eldorado, Quadra F, Lotes 01 a 07, Bairro São João, Teresina/PI"
+      ]
+    },
+    {
+      "canonical_id": "d4259_data_assin_08_2026",
+      "canonical_name": "18/05/2026",
+      "type": "Data",
+      "mentions": [
+        "18/05/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259_tac_09_2026",
+      "canonical_name": "Extrato de Termo de Ajustamento de Conduta nº 09/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DE TERMO DE AJUSTAMENTO DE CONDUTA N° 09/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259_proc_09_2026",
+      "canonical_name": "Processo Administrativo nº 00037.000909/2026-25",
+      "type": "NumeroProcesso",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO N°: 00037.000909/2026-25"
+      ]
+    },
+    {
+      "canonical_id": "d4259_quaresma_melo",
+      "canonical_name": "Quaresma e Melo LTDA",
+      "type": "Empresa",
+      "mentions": [
+        "QUARESMA E MELO LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4259_cnpj_quaresma",
+      "canonical_name": "32.160.346/0001-43",
+      "type": "CNPJ",
+      "mentions": [
+        "32.160.346/0001-43"
+      ]
+    },
+    {
+      "canonical_id": "d4259_antonio_quaresma",
+      "canonical_name": "Antonio Quaresma dos Santos Filho",
+      "type": "Pessoa",
+      "mentions": [
+        "ANTONIO QUARESMA DOS SANTOS FILHО",
+        "Antonio Quaresma dos Santos Filho"
+      ]
+    },
+    {
+      "canonical_id": "d4259_objeto_09_2026",
+      "canonical_name": "Estabelecimento de obrigações e prazos para regularização da empresa Quaresma e Melo LTDA",
+      "type": "Objeto",
+      "mentions": [
+        "Tem por objeto o estabelecimento de obrigações e prazos a serem cumpridos pela COMPROMISSÁRIA, visando à regularização em razão da empresa QUARESMA E MELO LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4259_data_assin_09_2026",
+      "canonical_name": "08/05/2026",
+      "type": "Data",
+      "mentions": [
+        "08/05/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259_tac_10_2026",
+      "canonical_name": "Extrato de Termo de Ajustamento de Conduta nº 10/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DE TERMO DE AJUSTAMENTO DE CONDUTA N° 10/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259_proc_10_2026",
+      "canonical_name": "Processo Administrativo nº 00037.004012/2025-55",
+      "type": "NumeroProcesso",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO N°: 00037.004012/2025-55"
+      ]
+    },
+    {
+      "canonical_id": "d4259_francisco_reis",
+      "canonical_name": "Francisco Reis da Costa",
+      "type": "Pessoa",
+      "mentions": [
+        "FRANCISCO REIS DA COSTA",
+        "Francisco Reis da Costa"
+      ]
+    },
+    {
+      "canonical_id": "d4259_objeto_10_2026",
+      "canonical_name": "Estabelecimento de obrigações e prazos para regularização em razão do Sr. Francisco Reis da Costa",
+      "type": "Objeto",
+      "mentions": [
+        "Tem por objeto o estabelecimento de obrigações e prazos a serem cumpridos pela COMPROMISSÁRIA, visando à regularização em razão do Sr. Francisco Reis da Costa"
+      ]
+    },
+    {
+      "canonical_id": "d4259_tac_11_2026",
+      "canonical_name": "Extrato de Termo de Ajustamento de Conduta nº 11/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DE TERMO DE AJUSTAMENTO DE CONDUTA N° 11/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259_proc_11_2026",
+      "canonical_name": "Processo Administrativo nº 00037.001063/2025-41",
+      "type": "NumeroProcesso",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO N°: 00037.001063/2025-41"
+      ]
+    },
+    {
+      "canonical_id": "d4259_camila_lages_me",
+      "canonical_name": "Camila Lages Bezerra - ME (Casa do Porteiro Serrilharia)",
+      "type": "Empresa",
+      "mentions": [
+        "CAMILA LAGES BEZERRA - ME (CASA DO PORTEIRO SERRILHARIA)",
+        "Camila Lages Bezerra – ME (Casa do Porteiro Serrilharia)"
+      ]
+    },
+    {
+      "canonical_id": "d4259_cnpj_camila",
+      "canonical_name": "13.358.336/0001-72",
+      "type": "CNPJ",
+      "mentions": [
+        "13.358.336/0001-72"
+      ]
+    },
+    {
+      "canonical_id": "d4259_camila_lages_pessoa",
+      "canonical_name": "Camila Lages Bezerra",
+      "type": "Pessoa",
+      "mentions": [
+        "CAMILA LAGES BEZERRA"
+      ]
+    },
+    {
+      "canonical_id": "d4259_objeto_11_2026",
+      "canonical_name": "Estabelecimento de obrigações e prazos para regularização da empresa Camila Lages Bezerra – ME",
+      "type": "Objeto",
+      "mentions": [
+        "Tem por objeto o estabelecimento de obrigações e prazos a serem cumpridos pela COMPROMISSÁRIA, visando à regularização em razão da empresa Camila Lages Bezerra – ME (Casa do Porteiro Serrilharia)"
+      ]
+    },
+    {
+      "canonical_id": "d4259_data_assin_11_2026",
+      "canonical_name": "08/06/2026",
+      "type": "Data",
+      "mentions": [
+        "08/06/2026"
+      ]
+    }
+  ]
+}

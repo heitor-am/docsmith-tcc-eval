@@ -1,0 +1,376 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5376_429_Sao_Raimundo_Nonato_Licitacao_Concorrencia_Publica_008-23_Contrato_037-24_Aditivo_01_pag_150.pdf",
+  "entities": [
+    {
+      "type": "AditivoContratual",
+      "canonical_name": "Termo Aditivo nº 001 do Contrato nº 037/2024",
+      "mentions": [
+        "EXTRATO DO TERMO ADITIVO Nº 001 DO CONTRATO Nº 037/2024",
+        "Primeiro ADITIVO"
+      ],
+      "canonical_id": "d5376_429_aditivo_037_2024"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº 037/2024",
+      "mentions": [
+        "CONTRATO Nº 037/2024",
+        "Resumo do objeto do contrato"
+      ],
+      "canonical_id": "d5376_429_contrato_037_2024"
+    },
+    {
+      "type": "LicitacaoModalidade",
+      "canonical_name": "Concorrência Pública 008/2023",
+      "mentions": [
+        "CONCORRÊNCIA PÚBLICA 008/2023"
+      ],
+      "canonical_id": "d5376_429_concorrencia_008_2023"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo nº 0107/2023",
+      "mentions": [
+        "Nº do processo",
+        "0107/2023"
+      ],
+      "canonical_id": "d5376_429_processo_0107_2023"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei nº 14.133/2021",
+      "mentions": [
+        "Lei federal nº 14.133/2021"
+      ],
+      "canonical_id": "lei_14133"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "São Raimundo Nonato",
+      "mentions": [
+        "MUNICÍPIO DE SÃO RAIMUNDO NONATO- PIAUÍ",
+        "município de São Raimundo Nonato-PI",
+        "São Raimundo Nonato – PI"
+      ],
+      "canonical_id": "srn_municipio"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Município de São Raimundo Nonato - Piauí, por intermédio da Secretaria de Administração e Finanças e Secretaria de Infraestrutura",
+      "mentions": [
+        "MUNICÍPIO DE SÃO RAIMUNDO NONATO - PIAUÍ por intermédio da SECRETARIA DE ADMINISTRAÇÃO E FINANÇAS E SECRETARIA DE INFRAESTRUTURA"
+      ],
+      "canonical_id": "d5376_429_contratante_orgao"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "06.772.859/0001-03",
+      "mentions": [
+        "CNPJ Nº 06.772.859/0001-03"
+      ],
+      "canonical_id": "d5376_429_cnpj_contratante"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Empresa Forte Construções LTDA",
+      "mentions": [
+        "EMPRESA FORTE CONSTRUÇÕES LTDA"
+      ],
+      "canonical_id": "d5376_429_empresa_forte"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "08.348.707/0001-03",
+      "mentions": [
+        "CNPJ Nº 08.348.707/0001-03"
+      ],
+      "canonical_id": "d5376_429_cnpj_contratada"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Aditivo de prazo e de valor em até 25% para execução de obras civis, para construção de centro de referência de assistência social - cras lote I - construção de centro de referência de assistência social - cras - bairro galo branco e lote II - construção de centro de referência de assistência social bairro sol nascente no município de São Raimundo Nonato-PI",
+      "mentions": [
+        "Primeiro ADITIVO de prazo e de valor em até 25% Empresa especializada na execução de obras civis, para construção de centro de referência de assistência social - cras lote I - construção de centro de referência de assistência social - cras - bairro galo branco e lote II -construção de centro de referência de assistência social bairro sol nascente no município de São Raimundo Nonato-PI"
+      ],
+      "canonical_id": "d5376_429_objeto_aditivo"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "11/04/2025",
+      "mentions": [
+        "Data da assinatura",
+        "11/04/2025",
+        "São Raimundo Nonato – PI, 11 de ABRIL de 2025"
+      ],
+      "canonical_id": "d5376_429_data_assinatura"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "06 meses, prorrogáveis",
+      "mentions": [
+        "Prazo de vigência",
+        "06 meses, prorrogáveis"
+      ],
+      "canonical_id": "d5376_429_prazo_vigencia"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "180 dias",
+      "mentions": [
+        "Prazo de execução",
+        "180 dias"
+      ],
+      "canonical_id": "d5376_429_prazo_execucao"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Edgard de Negreiros Araújo",
+      "mentions": [
+        "Edgard de Negreiros Araújo",
+        "EDGARD DE NEGREIROS ARAÚJO",
+        "Secretário de Administração e Finanças do Município de São Raimundo Nonato-PI"
+      ],
+      "canonical_id": "d5377_438_pessoa_edgard"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Eustáquio Cardoso Rosa Neto",
+      "mentions": [
+        "Eustáquio Cardoso Rosa Neto"
+      ],
+      "canonical_id": "d5376_429_eustaquio_cardoso"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Eliete Pereira de Castro",
+      "mentions": [
+        "Eliete Pereira de Castro"
+      ],
+      "canonical_id": "d5376_429_eliete_castro"
+    },
+    {
+      "type": "Portaria",
+      "canonical_name": "Portaria nº 301/2025",
+      "mentions": [
+        "PORTARIA Nº 301/2025"
+      ],
+      "canonical_id": "d5376_429_portaria_301_2025"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de São Raimundo Nonato",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE SÃO RAIMUNDO NONATO",
+        "O PREFEITO MUNICIPAL DE SÃO RAIMUNDO NONATO"
+      ],
+      "canonical_id": "srn_prefeitura"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Designação de comissão especial de contratação para a condução do Credenciamento nº 003/2025",
+      "mentions": [
+        "Dispõe sobre a designação de comissão especial de contratação para a condução do Credenciamento nº 003/2025 e dá outras providências"
+      ],
+      "canonical_id": "d5376_429_objeto_portaria"
+    },
+    {
+      "type": "Decreto",
+      "canonical_name": "Decreto Federal nº 11.878, de 9 de janeiro de 2024",
+      "mentions": [
+        "Decreto Federal nº 11.878, de 9 de janeiro de 2024",
+        "Decreto Federal nº 11.878, de 9 de janeiro de 2024"
+      ],
+      "canonical_id": "d5376_429_decreto_11878_2024"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "04 de agosto de 2025",
+      "mentions": [
+        "São Raimundo Nonato/PI, 04 de agosto de 2025"
+      ],
+      "canonical_id": "d5376_429_data_portaria"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Adriano Bastos Ribeiro",
+      "mentions": [
+        "ADRIANO BASTOS RIBEIRO, CPF 977.328.***-** – Presidente"
+      ],
+      "canonical_id": "d5376_429_adriano_ribeiro"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Luana Dias Gomes Cerqueira",
+      "mentions": [
+        "LUANA DIAS GOMES CERQUEIRA, CPF 028.379.***-** – Membro"
+      ],
+      "canonical_id": "d5376_429_luana_cerqueira"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Edmilson Paes de Castro",
+      "mentions": [
+        "EDMILSON PAES DE CASTRO, CPF 709.110.***-** – Membro"
+      ],
+      "canonical_id": "d5376_429_edmilson_castro"
+    },
+    {
+      "type": "Convenio",
+      "canonical_name": "Termo de Cooperação Técnica 01.2407/2025",
+      "mentions": [
+        "EXTRATO DE TERMO DE COOPERAÇÃO TÉCNICA",
+        "Ato de Cooperação Técnica 01.2407/2025"
+      ],
+      "canonical_id": "d5376_429_termo_cooperacao_simplicio"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo de Adesão SRP - ARP nº 018/2025 / PE nº 018/2025",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO DE ADESÃO SRP",
+        "ARP Nº 018/2025",
+        "PE Nº 018/2025"
+      ],
+      "canonical_id": "d5376_429_processo_adesao_srp"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Simplício Mendes",
+      "mentions": [
+        "MUNICÍPIO DE SIMPLÍCIO MENDES-PI",
+        "Município de Simplício Mendes – PI",
+        "Simplício Mendes-PI"
+      ],
+      "canonical_id": "d5376_429_municipio_simplicio_mendes"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Curralinhos",
+      "mentions": [
+        "MUNICÍPIO DE CURRALINHOS– PI"
+      ],
+      "canonical_id": "d5376_429_municipio_curralinhos"
+    },
+    {
+      "type": "PregaoEletronico",
+      "canonical_name": "Pregão Eletrônico nº 018/2025",
+      "mentions": [
+        "edital de Licitação PE nº 018/2025"
+      ],
+      "canonical_id": "d5376_429_pe_018_2025"
+    },
+    {
+      "type": "Ata",
+      "canonical_name": "Ata de Registro de Preços nº 018/2025 - Município de Simplício Mendes - PI",
+      "mentions": [
+        "ATA DE REGISTRO DE PREÇOS Nº 018/2025 - Município de Simplício Mendes – PI"
+      ],
+      "canonical_id": "d5376_429_ata_rp_018_2025"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Adesão do Município de Curralinhos – PI ao SRP do Município de Simplício Mendes – PI na condição de Carona, para futura e eventual contratação de empresa para o fornecimento de material permanente de informática para o município de Simplício Mendes – PI e suas secretarias",
+      "mentions": [
+        "Adesão do MUNICÍPIO DE CURRALINHOS – PI ao SRP do MUNICÍPIO DE SIMPLÍCIO MENDES – PI na condição de Carona",
+        "Registro de Preços para futura e eventual contratação de empresa para o fornecimento de material permanente de informática para o município de Simplício Mendes – PI e suas secretarias"
+      ],
+      "canonical_id": "d5376_429_objeto_cooperacao"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "24 de julho de 2025",
+      "mentions": [
+        "Simplício Mendes-PI, 24 de julho de 2025"
+      ],
+      "canonical_id": "d5376_429_data_cooperacao"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Márcio José Pinheiro Moura",
+      "mentions": [
+        "Márcio José Pinheiro Moura",
+        "Prefeito Municipal de Simplício Mendes-PI"
+      ],
+      "canonical_id": "d5376_429_marcio_moura"
+    },
+    {
+      "type": "Decreto",
+      "canonical_name": "Decreto nº 000011/2025",
+      "mentions": [
+        "DECRETO Nº 000011/2025"
+      ],
+      "canonical_id": "d5376_429_decreto_011_2025"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "São Miguel do Fidalgo",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE SÃO MIGUEL DO FIDALGO",
+        "MUNICÍPIO DE SÃO MIGUEL DO FIDALGO",
+        "SÃO MIGUEL DO FIDALGO"
+      ],
+      "canonical_id": "d5376_429_municipio_sao_miguel_fidalgo"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de São Miguel do Fidalgo",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE SÃO MIGUEL DO FIDALGO",
+        "O PREFEITO MUNICIPAL DE SÃO MIGUEL DO FIDALGO"
+      ],
+      "canonical_id": "d5376_429_prefeitura_sao_miguel_fidalgo"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "01.612.611/0001-53",
+      "mentions": [
+        "CNPJ.: 01.612.611/0001-53"
+      ],
+      "canonical_id": "d5376_429_cnpj_sao_miguel_fidalgo"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Abertura de Crédito Adicional Suplementar no Orçamento Geral, no valor de R$ 35.000,00, e dá outras providências",
+      "mentions": [
+        "ABRE CRÉDITO ADICIONAL SUPLEMENTAR E DÁ OUTRAS PROVIDÊNCIAS",
+        "Fica aberto no corrente Exercício, Crédito Adicional Suplementar no Orçamento Geral desta entidade, no valor de R$ 35.000,00 (Trinta e Cinco Mil Reais)"
+      ],
+      "canonical_id": "d5376_429_objeto_decreto"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 35.000,00",
+      "mentions": [
+        "R$ 35.000,00 (Trinta e Cinco Mil Reais)",
+        "no valor global de R$ 35.000,00 (Trinta e Cinco Mil Reais)"
+      ],
+      "canonical_id": "d5376_429_valor_decreto"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Federal nº 4.320/64",
+      "mentions": [
+        "art. 43, § 1º, Inciso III, da Lei Federal nº 4.320/64"
+      ],
+      "canonical_id": "lei_4320_64"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "02 de Junho de 2025",
+      "mentions": [
+        "SÃO MIGUEL DO FIDALGO, 02 de Junho de 2025"
+      ],
+      "canonical_id": "d5376_429_data_decreto"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Erimar Soares de Sousa",
+      "mentions": [
+        "ERIMAR SOARES DE SOUSA",
+        "Prefeito Municipal"
+      ],
+      "canonical_id": "d5375_170_prefeito_cg"
+    }
+  ]
+}

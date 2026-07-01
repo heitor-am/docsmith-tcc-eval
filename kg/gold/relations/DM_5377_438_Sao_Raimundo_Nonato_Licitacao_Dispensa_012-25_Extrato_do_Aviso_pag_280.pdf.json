@@ -1,0 +1,136 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5377_438_Sao_Raimundo_Nonato_Licitacao_Dispensa_012-25_Extrato_do_Aviso_pag_280.pdf",
+  "relations": [
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d5377_438_simoes_contrato",
+      "object_canonical_id": "d5377_438_simoes_prefeitura"
+    },
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5377_438_simoes_contrato",
+      "object_canonical_id": "d5377_438_simoes_pe_026"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d5377_438_simoes_contrato",
+      "object_canonical_id": "d5377_438_simoes_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d5377_438_simoes_contrato",
+      "object_canonical_id": "d5377_438_simoes_empresa_mitc"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5377_438_simoes_contrato",
+      "object_canonical_id": "d5377_438_simoes_objeto_contrato"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d5377_438_simoes_contrato",
+      "object_canonical_id": "d5377_438_simoes_valor_contrato"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5377_438_simoes_contrato",
+      "object_canonical_id": "d5377_438_simoes_data_assinatura"
+    },
+    {
+      "predicate": "temVigencia",
+      "subject_canonical_id": "d5377_438_simoes_contrato",
+      "object_canonical_id": "d5377_438_simoes_data_vigencia"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d5377_438_simoes_prefeitura",
+      "object_canonical_id": "d5377_438_simoes_municipio"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d5377_438_simoes_portaria_394",
+      "object_canonical_id": "d5377_438_simoes_gabinete"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5377_438_simoes_portaria_394",
+      "object_canonical_id": "d5377_438_simoes_objeto_portaria"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5377_438_simoes_portaria_394",
+      "object_canonical_id": "d5377_438_simoes_lei_760"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5377_438_simoes_portaria_394",
+      "object_canonical_id": "d5377_438_simoes_lei_organica"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5377_438_simoes_portaria_394",
+      "object_canonical_id": "d5377_438_simoes_data_portaria"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d5377_438_dispensa_012",
+      "object_canonical_id": "srn_prefeitura"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5377_438_dispensa_012",
+      "object_canonical_id": "d5377_438_objeto_dispensa"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5377_438_dispensa_012",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5377_438_dispensa_012",
+      "object_canonical_id": "d5377_438_data_05ago2025"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "srn_prefeitura",
+      "object_canonical_id": "srn_municipio"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5377_438_termo_autorizacao_mip",
+      "object_canonical_id": "d5377_438_objeto_mip"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d5377_438_termo_autorizacao_mip",
+      "object_canonical_id": "d5377_438_empresa_stenio"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5377_438_termo_autorizacao_mip",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5377_438_termo_autorizacao_mip",
+      "object_canonical_id": "d5377_438_lei_8987"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5377_438_termo_autorizacao_mip",
+      "object_canonical_id": "d5377_438_lei_11079"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5377_438_termo_autorizacao_mip",
+      "object_canonical_id": "d5377_438_data_05ago2025"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d5377_438_termo_autorizacao_mip",
+      "object_canonical_id": "srn_prefeitura"
+    }
+  ]
+}

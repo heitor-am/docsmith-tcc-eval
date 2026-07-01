@@ -1,0 +1,111 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5376_429_Sao_Raimundo_Nonato_Licitacao_Concorrencia_Publica_008-23_Contrato_037-24_Aditivo_01_pag_150.pdf",
+  "relations": [
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5376_429_contrato_037_2024",
+      "object_canonical_id": "d5376_429_concorrencia_008_2023"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5376_429_contrato_037_2024",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d5376_429_contrato_037_2024",
+      "object_canonical_id": "d5376_429_contratante_orgao"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d5376_429_contratante_orgao",
+      "object_canonical_id": "srn_municipio"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d5376_429_contrato_037_2024",
+      "object_canonical_id": "d5376_429_empresa_forte"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5376_429_aditivo_037_2024",
+      "object_canonical_id": "d5376_429_objeto_aditivo"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5376_429_aditivo_037_2024",
+      "object_canonical_id": "d5376_429_data_assinatura"
+    },
+    {
+      "predicate": "temVigencia",
+      "subject_canonical_id": "d5376_429_aditivo_037_2024",
+      "object_canonical_id": "d5376_429_prazo_vigencia"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5376_429_portaria_301_2025",
+      "object_canonical_id": "d5376_429_objeto_portaria"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d5376_429_portaria_301_2025",
+      "object_canonical_id": "srn_prefeitura"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5376_429_portaria_301_2025",
+      "object_canonical_id": "lei_14133"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5376_429_portaria_301_2025",
+      "object_canonical_id": "d5376_429_decreto_11878_2024"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5376_429_portaria_301_2025",
+      "object_canonical_id": "d5376_429_data_portaria"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5376_429_termo_cooperacao_simplicio",
+      "object_canonical_id": "d5376_429_objeto_cooperacao"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5376_429_termo_cooperacao_simplicio",
+      "object_canonical_id": "d5376_429_data_cooperacao"
+    },
+    {
+      "predicate": "decretadoPor",
+      "subject_canonical_id": "d5376_429_decreto_011_2025",
+      "object_canonical_id": "d5376_429_prefeitura_sao_miguel_fidalgo"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d5376_429_prefeitura_sao_miguel_fidalgo",
+      "object_canonical_id": "d5376_429_municipio_sao_miguel_fidalgo"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5376_429_decreto_011_2025",
+      "object_canonical_id": "d5376_429_objeto_decreto"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d5376_429_decreto_011_2025",
+      "object_canonical_id": "d5376_429_valor_decreto"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5376_429_decreto_011_2025",
+      "object_canonical_id": "lei_4320_64"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5376_429_decreto_011_2025",
+      "object_canonical_id": "d5376_429_data_decreto"
+    }
+  ]
+}

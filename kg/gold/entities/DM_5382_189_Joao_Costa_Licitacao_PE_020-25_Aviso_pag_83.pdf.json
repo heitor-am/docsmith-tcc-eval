@@ -1,0 +1,148 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5382_189_Joao_Costa_Licitacao_PE_020-25_Aviso_pag_83.pdf",
+  "entities": [
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "João Costa",
+      "mentions": [
+        "João Costa/PI",
+        "município de João Costa/PI",
+        "João Costa, 12 de agosto de 2025"
+      ],
+      "canonical_id": "jc_municipio"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de João Costa",
+      "mentions": [
+        "Prefeitura Municipal de João Costa/PI",
+        "PREFEITURA DE João Costa-PI"
+      ],
+      "canonical_id": "jc_prefeitura"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Agente de Contratação/PMJC",
+      "mentions": [
+        "O Agente de Contratação da Prefeitura Municipal de João Costa/PI",
+        "Agente de Contratação/PMJC"
+      ],
+      "canonical_id": "d5382_189_agente_contratacao"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Comissão Permanente de Contratação/PMJC",
+      "mentions": [
+        "Comissão Permanente de Contratação/PMJC"
+      ],
+      "canonical_id": "d5382_189_comissao_permanente"
+    },
+    {
+      "type": "Portaria",
+      "canonical_name": "Portaria Nº 154/2025",
+      "mentions": [
+        "Portaria N° 154/2025, de 02 de junho de 2025"
+      ],
+      "canonical_id": "d5382_189_portaria_154"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Jociel Gomes de Oliveira",
+      "mentions": [
+        "JOCIEL GOMES DE OLIVEIRA"
+      ],
+      "canonical_id": "d5382_189_pessoa_jociel"
+    },
+    {
+      "type": "PregaoEletronico",
+      "canonical_name": "Pregão Eletrônico Nº 020/2025 - SRP",
+      "mentions": [
+        "Pregão Eletrônico N° 020/2025 – SRP",
+        "PREGÃO ELETRÔNICO N°020/2025 do tipo Menor Preço e Adjudicação Global"
+      ],
+      "canonical_id": "d5382_189_pe_020"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo Nº 058/2025 - PMJC",
+      "mentions": [
+        "Processo Administrativo N° 058/2025 – PMJC"
+      ],
+      "canonical_id": "d5382_189_proc_058"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Registro de Preços para futura e eventual Contratação de empresa para a Prestação de Serviços na Confecção de Uniformes, destinados aos Servidores Públicos, Alunos, Técnicos, Profissionais e demais prestadores de serviços da Prefeitura e Secretarias do município de João Costa/PI",
+      "mentions": [
+        "Registro de Preços para futura e eventual Contratação de empresa para a Prestação de Serviços na Confecção de Uniformes, destinados aos Servidores Públicos, Alunos, Técnicos, Profissionais e demais prestadores de serviços da Prefeitura e Secretarias do município de João Costa/PI, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos."
+      ],
+      "canonical_id": "d5382_189_objeto_020"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "Acolhimento das propostas: 13/08/2025 às 17h00min à 27/08/2025 às 00h00min",
+      "mentions": [
+        "ACOLHIMENTO DAS PROPOSTAS: de 13/08/2025 às 17h00min à 27/08/2025 às 00h00min, no sistema da Bolsa Nacional de Compras – BNC"
+      ],
+      "canonical_id": "d5382_189_data_acolhimento_020"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "Abertura das propostas: 27/08/2025 às 08h30min",
+      "mentions": [
+        "ABERTURA DAS PROPOSTAS: 27 de agosto de 2025, às 08h30min, no sistema da Bolsa Nacional de Compras – BNC"
+      ],
+      "canonical_id": "d5382_189_data_abertura_020"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "12/08/2025",
+      "mentions": [
+        "João Costa, 12 de agosto de 2025"
+      ],
+      "canonical_id": "d5382_189_data_pub"
+    },
+    {
+      "type": "PregaoEletronico",
+      "canonical_name": "Pregão Eletrônico Nº 021/2025 - SRP",
+      "mentions": [
+        "Pregão Eletrônico N° 021/2025 – SRP",
+        "PREGÃO ELETRÔNICO N°021/2025 do tipo Menor Preço e Adjudicação por item"
+      ],
+      "canonical_id": "d5382_189_pe_021"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo Nº 059/2025 - PMJC",
+      "mentions": [
+        "Processo Administrativo N° 059/2025 – PMJC"
+      ],
+      "canonical_id": "d5382_189_proc_059"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Registro de Preços para futura e eventual Contratação de empresa para o fornecimento de Equipamentos e Suprimentos de Informática, destinados às demandas da Prefeitura e Secretarias do município de João Costa/PI",
+      "mentions": [
+        "Registro de Preços para futura e eventual Contratação de empresa para o fornecimento de Equipamentos e Suprimentos de Informática, destinados às demandas da Prefeitura e Secretarias do município de João Costa/PI, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos."
+      ],
+      "canonical_id": "d5382_189_objeto_021"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "Acolhimento das propostas: 13/08/2025 às 17h00min à 27/08/2025 às 00h00min",
+      "mentions": [
+        "ACOLHIMENTO DAS PROPOSTAS: de 13/08/2025 às 17h00min à 27/08/2025 às 00h00min, no sistema da Bolsa Nacional de Compras – BNC"
+      ],
+      "canonical_id": "d5382_189_data_acolhimento_021"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "Abertura das propostas: 27/08/2025 às 10h30min",
+      "mentions": [
+        "ABERTURA DAS PROPOSTAS: 27 de agosto de 2025, às 10h30min, no sistema da Bolsa Nacional de Compras – BNC"
+      ],
+      "canonical_id": "d5382_189_data_abertura_021"
+    }
+  ]
+}

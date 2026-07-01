@@ -1,0 +1,186 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4264_p019.pdf",
+  "relations": [
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4264p19_portaria_326",
+      "object_canonical_id": "d4264p19_semplan"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p19_portaria_326",
+      "object_canonical_id": "d4264p19_data_326"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_portaria_326",
+      "object_canonical_id": "d4264p19_lei_5891"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_portaria_326",
+      "object_canonical_id": "d4264p19_lei_6311"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4264p19_portaria_326",
+      "object_canonical_id": "d4264p19_valor_481749"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4264p19_portaria_5_2026",
+      "object_canonical_id": "d4263p3_semdec"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p19_portaria_5_2026",
+      "object_canonical_id": "d4264p19_data_21maio2026"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_portaria_5_2026",
+      "object_canonical_id": "d4264p19_lei_5447"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p19_contrato_04_2026",
+      "object_canonical_id": "d4264p19_maria_c_costa_alves"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p19_contrato_04_2026",
+      "object_canonical_id": "d4264p19_objeto_limpeza"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4264p19_portaria_6_2026",
+      "object_canonical_id": "d4263p3_semdec"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p19_portaria_6_2026",
+      "object_canonical_id": "d4264p19_data_21maio2026"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_portaria_6_2026",
+      "object_canonical_id": "d4264p19_lei_5447"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p19_contrato_03_2026",
+      "object_canonical_id": "d4264p19_pacheco_lopes"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p19_contrato_03_2026",
+      "object_canonical_id": "d4264p19_objeto_limpeza"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4264p19_portaria_7_2026",
+      "object_canonical_id": "d4263p3_semdec"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p19_portaria_7_2026",
+      "object_canonical_id": "d4264p19_data_21maio2026"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_portaria_7_2026",
+      "object_canonical_id": "d4264p19_lei_5447"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p19_contrato_05_2026",
+      "object_canonical_id": "d4264p19_eduardo_miranda_lopes"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_semjuv"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_assoc_viva_esperanca"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_objeto_fomento"
+    },
+    {
+      "predicate": "temValor",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_valor_199500"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_data_assin_fomento"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_lc_101"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_lei_13019"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_lei_13204"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_decreto_8726"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_lei_municipal_3863"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4264p19_termo_fomento_16_2026",
+      "object_canonical_id": "d4264p19_decreto_16802"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d4264p19_assoc_viva_esperanca",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p19_aditivo_edital_01_2026",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4264p19_aditivo_edital_01_2026",
+      "object_canonical_id": "d4264p19_smpm"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4264p19_aditivo_edital_01_2026",
+      "object_canonical_id": "d4263p3_semdec"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p19_aditivo_edital_01_2026",
+      "object_canonical_id": "d4264p19_objeto_aditivo"
+    }
+  ]
+}

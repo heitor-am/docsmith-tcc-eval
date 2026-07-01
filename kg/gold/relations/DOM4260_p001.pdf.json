@@ -1,0 +1,61 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4260_p001.pdf",
+  "relations": [
+    {
+      "predicate": "decretadoPor",
+      "subject_canonical_id": "d4260p1_decreto_28769",
+      "object_canonical_id": "silvio_mendes"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4260p1_decreto_28769",
+      "object_canonical_id": "d4260p1_data_decreto_28769"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4260p1_decreto_28769",
+      "object_canonical_id": "d4260p1_obj_nomeacao_araci"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4260p1_decreto_28769",
+      "object_canonical_id": "d4260p1_lei_organica"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4260p1_decreto_28769",
+      "object_canonical_id": "d4260p1_lc_2959"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4260p1_decreto_28769",
+      "object_canonical_id": "d4260p1_lc_6159"
+    },
+    {
+      "predicate": "decretadoPor",
+      "subject_canonical_id": "d4260p1_decreto_28787",
+      "object_canonical_id": "silvio_mendes"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4260p1_decreto_28787",
+      "object_canonical_id": "d4260p1_data_decreto_28787"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4260p1_decreto_28787",
+      "object_canonical_id": "d4260p1_obj_comissao_sst"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4260p1_decreto_28787",
+      "object_canonical_id": "d4260p1_lei_organica"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4260p1_decreto_28787",
+      "object_canonical_id": "d4260p1_portaria_mtp_1467"
+    }
+  ]
+}

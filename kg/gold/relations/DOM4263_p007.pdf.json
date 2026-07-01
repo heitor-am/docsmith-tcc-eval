@@ -1,0 +1,396 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4263_p007.pdf",
+  "relations": [
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4263p7_portaria_192",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4263p7_portaria_192",
+      "object_canonical_id": "d4263p7_data_portaria_21_05_2026"
+    },
+    {
+      "predicate": "publicadoPor",
+      "subject_canonical_id": "d4263p7_portaria_193",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4263p7_portaria_193",
+      "object_canonical_id": "d4263p7_decreto_7750"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4263p7_portaria_193",
+      "object_canonical_id": "d4263p7_lei_2972_2001"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_22",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_22",
+      "object_canonical_id": "d4258p6_romildo_crispim"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_22",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_23",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_23",
+      "object_canonical_id": "d4258p6_kelly_goncalves"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_23",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_24",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_24",
+      "object_canonical_id": "d4258p6_antonia_anjos"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_24",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_25",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_25",
+      "object_canonical_id": "d4263p7_denilson_conceicao"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_25",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_26",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_26",
+      "object_canonical_id": "d4263p7_daniel_conceicao"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_26",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_27",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_27",
+      "object_canonical_id": "d4263p7_asscom_fazenda_soares"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_27",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_28",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_28",
+      "object_canonical_id": "d4263p7_asscompero"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_28",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_29",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_29",
+      "object_canonical_id": "d4263p7_assoc_horticultores_socopo"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_29",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_30",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_30",
+      "object_canonical_id": "d4263p7_agrifam"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_30",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_31",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_31",
+      "object_canonical_id": "d4263p7_horticil"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_31",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_32",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_32",
+      "object_canonical_id": "d4263p7_hortfrutare"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_32",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_33",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_33",
+      "object_canonical_id": "d4263p7_ashoposo"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_33",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_34",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_34",
+      "object_canonical_id": "d4263p7_asproverde"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_34",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_35",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_35",
+      "object_canonical_id": "d4263p7_assoc_prod_soim"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_35",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_36",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_36",
+      "object_canonical_id": "d4263p7_provale"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_36",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_37",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_37",
+      "object_canonical_id": "d4263p7_astrumov"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_37",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_38",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_38",
+      "object_canonical_id": "d4263p7_cooperagro"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_38",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_39",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_39",
+      "object_canonical_id": "d4263p7_ashcomtab"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_39",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_40",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_40",
+      "object_canonical_id": "d4263p7_aic"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_40",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_41",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_41",
+      "object_canonical_id": "d4263p7_assoc_prod_monsenhor_gil"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_41",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_42",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_42",
+      "object_canonical_id": "d4263p7_adcscb"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_42",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_43",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_43",
+      "object_canonical_id": "d4263p7_idasamn"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_43",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_44",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_44",
+      "object_canonical_id": "d4263p7_coopenort"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_44",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4263p7_contrato_45",
+      "object_canonical_id": "d4258p6_semec"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4263p7_contrato_45",
+      "object_canonical_id": "d4263p7_asscom_sao_domingos"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p7_contrato_45",
+      "object_canonical_id": "d4263p7_objeto_alimentacao"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d4258p6_semec",
+      "object_canonical_id": "mun_teresina"
+    }
+  ]
+}

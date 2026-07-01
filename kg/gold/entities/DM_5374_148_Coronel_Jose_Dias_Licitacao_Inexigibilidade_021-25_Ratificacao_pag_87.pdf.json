@@ -1,0 +1,250 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5374_148_Coronel_Jose_Dias_Licitacao_Inexigibilidade_021-25_Ratificacao_pag_87.pdf",
+  "entities": [
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de Coronel José Dias",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE CORONEL JOSÉ DIAS – PI"
+      ],
+      "canonical_id": "cjd_prefeitura"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Coronel José Dias",
+      "mentions": [
+        "Município de Coronel José Dias – PI",
+        "Coronel José Dias - PI",
+        "Coronel José Dias-PI",
+        "Coronel José Dias - Piauí"
+      ],
+      "canonical_id": "cjd_municipio"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "41.522.160/0001-88",
+      "mentions": [
+        "CNPJ: 41.522.160/0001-88"
+      ],
+      "canonical_id": "cjd_cnpj"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Federal nº 14.133, de 01 de abril de 2021",
+      "mentions": [
+        "Lei Federal nº 14.133, de 01 de abril de 2021",
+        "Lei Federal n° 14.133, de 01 de abril de 2021",
+        "Lei Federal 14.133/2021",
+        "Lei 14.133/21",
+        "Lei 14.131/2021",
+        "Lei nº 14.133/2021",
+        "Art. 74, inciso I, da Lei nº 14.133/21",
+        "Art. art. 74, I, da Lei 14.131/2021"
+      ],
+      "canonical_id": "lei_14133"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de Ribeiro Gonçalves",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE RIBEIRO GONÇALVES",
+        "PREFEITURA MUNICIPAL DE RIBEIRO GONÇALVES - PI."
+      ],
+      "canonical_id": "rg_prefeitura"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Ribeiro Gonçalves",
+      "mentions": [
+        "RIBEIRO GONÇALVES-PI",
+        "RIBEIRO GONÇALVES- PI",
+        "MUNICÍPIO DE RIBEIRO GONÇALVE - PI"
+      ],
+      "canonical_id": "rg_municipio"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "06.728.240/0001-93",
+      "mentions": [
+        "CNPJ: 06.728.240/0001-93"
+      ],
+      "canonical_id": "rg_cnpj"
+    },
+    {
+      "type": "Ratificacao",
+      "canonical_name": "Errata ao Extrato de Contrato da Dispensa de Licitação nº 082/2025 (Ribeiro Gonçalves)",
+      "mentions": [
+        "ERRATA",
+        "EXTRATO DE CONTRATO"
+      ],
+      "canonical_id": "d5374_148_rg_errata_extrato"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato Administrativo nº 215/2025 (Ribeiro Gonçalves)",
+      "mentions": [
+        "CONTRATO ADMINISTRATIVO Nº 215/2025"
+      ],
+      "canonical_id": "d5374_148_rg_contrato_215"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo nº 194/2025 (Ribeiro Gonçalves)",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO Nº 194/2025"
+      ],
+      "canonical_id": "d5374_148_rg_processo_194"
+    },
+    {
+      "type": "DispensaLicitacao",
+      "canonical_name": "Dispensa de Licitação nº 082/2025 (Ribeiro Gonçalves)",
+      "mentions": [
+        "DISPENSA DE LICITAÇÃO Nº 082/2025",
+        "Dispensa nº 082/2025"
+      ],
+      "canonical_id": "d5374_148_rg_dispensa_082"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Eva dos Santos Silva",
+      "mentions": [
+        "EVA DOS SANTOS SILVA"
+      ],
+      "canonical_id": "d5374_147_eva_santos"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "61.218.232/0001-93",
+      "mentions": [
+        "CNPJ: 61.218.232/0001-93"
+      ],
+      "canonical_id": "d5374_148_rg_contratada_cnpj"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Fornecimento de água mineral",
+      "mentions": [
+        "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE ÁGUA MINERAL PARA ATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE RIBEIRO GONÇALVES-PI E DEMAIS SECRETARIAS."
+      ],
+      "canonical_id": "d5374_147_objeto_rg"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 59.554,00",
+      "mentions": [
+        "O PAGAMENTO SERÁ NO VALOR TOTAL DE R$ 59.554,00 (CINQUENTA E NOVE MIL, QUINHENTOS E CINQUENTA E QUATRO REAIS)"
+      ],
+      "canonical_id": "d5374_148_rg_valor"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "29 de julho de 2025",
+      "mentions": [
+        "29 DE JULHO DE 2025"
+      ],
+      "canonical_id": "d5374_148_rg_data_assinatura"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Extrato de Contrato nº 114/2025 (Coronel José Dias)",
+      "mentions": [
+        "EXTRATO DE CONTRATO Nº 114/2025"
+      ],
+      "canonical_id": "d5374_148_cjd_contrato_114"
+    },
+    {
+      "type": "Inexigibilidade",
+      "canonical_name": "Inexigibilidade de Licitação nº 021/2025 (Coronel José Dias)",
+      "mentions": [
+        "INEXIGIBILIDADE DE LICITAÇÃO Nº 021/2025",
+        "INEXIGIBILIDADE DE LICITAÇÃO Nº 021/2025 – PMCJD",
+        "INEXIGIBILIDADE DE LICITAÇÃO 021/2025"
+      ],
+      "canonical_id": "d5374_148_cjd_inexigibilidade_021"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "D. Luis Batista Costa de Sousa",
+      "mentions": [
+        "D. LUIS BATISTA COSTA DE SOUSA"
+      ],
+      "canonical_id": "d5374_147_luis_batista"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "41.190.686/0001-08",
+      "mentions": [
+        "CNPJ nº 41.190.686/0001-08"
+      ],
+      "canonical_id": "d5374_147_luis_batista_cnpj"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Manutenção do sistema integrado de controle preciso de gastos com combustíveis por secretaria",
+      "mentions": [
+        "Contratação de empresa especializada para manutenção do sistema integrado de controle preciso de gastos com combustíveis por secretaria, visando atender às necessidades da Administração Pública Municipal de Coronel José Dias - PI"
+      ],
+      "canonical_id": "d5374_148_cjd_objeto"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 18.000,00",
+      "mentions": [
+        "O valor global desta contratação é de R$ 18.000,00 (dezoito mil e reais) e será pago em 12 (doze) parcelas mensais de R$ 1.500,00 (um mil e quinhentos reais)"
+      ],
+      "canonical_id": "d5374_148_cjd_valor"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "31 de julho de 2025",
+      "mentions": [
+        "Coronel José Dias-PI, 31 de julho de 2025.",
+        "Coronel José Dias - Piauí, 31 de julho de 2025."
+      ],
+      "canonical_id": "d5374_148_cjd_data"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Balbino Ferreira de Sousa Neto",
+      "mentions": [
+        "BALBINO FERREIRA DE SOUSA NETO",
+        "Agente de Contratação"
+      ],
+      "canonical_id": "d5378_226_pessoa_balbino"
+    },
+    {
+      "type": "Ratificacao",
+      "canonical_name": "Ato de Ratificação de Contratação Direta - Inexigibilidade de Licitação nº 021/2025 (Coronel José Dias)",
+      "mentions": [
+        "ATO DE RATIFICAÇÃO DE CONTRATAÇÃO DIRETA PROCESSO ADMINISTRATIVO Nº 002890/2025 INEXIGIBILIDADE DE LICITAÇÃO Nº 021/2025"
+      ],
+      "canonical_id": "d5374_148_cjd_ratificacao"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo nº 002890/2025 (Coronel José Dias)",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO Nº 002890/2025"
+      ],
+      "canonical_id": "d5374_148_cjd_processo_002890"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "Vigência de 31/07/2025 a 31/07/2026",
+      "mentions": [
+        "Prazo de Vigência: 31/07/2025 a 31/07/2026, prorrogável nos termos da Lei 14.133/2021"
+      ],
+      "canonical_id": "d5374_148_cjd_vigencia"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Victor César de Carvalho",
+      "mentions": [
+        "VICTOR CESAR DE CARVALHO",
+        "Prefeito Municipal"
+      ],
+      "canonical_id": "d5375_170_prefeito_cg"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4263_p003.pdf",
+  "relations": [
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4263p3_lei_sancionada",
+      "object_canonical_id": "d4263p3_data_lei_26_05_2026"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4263p3_lei_sancionada",
+      "object_canonical_id": "d4263p3_lei_4221_2012"
+    },
+    {
+      "predicate": "decretadoPor",
+      "subject_canonical_id": "d4263p3_decreto_28805",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "decretadoPor",
+      "subject_canonical_id": "d4263p3_decreto_28805",
+      "object_canonical_id": "silvio_mendes"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4263p3_decreto_28805",
+      "object_canonical_id": "d4263p3_data_decreto_19_05_2026"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4263p3_decreto_28805",
+      "object_canonical_id": "d4263p3_objeto_decreto"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4263p3_decreto_28805",
+      "object_canonical_id": "d4260p1_lei_organica"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4263p3_decreto_28805",
+      "object_canonical_id": "d4263p3_lei_2528_1997"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d4263p3_decreto_28805",
+      "object_canonical_id": "d4263p3_decreto_26104"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d4263p3_objeto_decreto",
+      "object_canonical_id": "mun_teresina"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d4263p3_bono_transportes",
+      "object_canonical_id": "mun_teresina"
+    }
+  ]
+}

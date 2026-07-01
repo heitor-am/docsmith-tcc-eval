@@ -1,0 +1,360 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4259_p043.pdf",
+  "entities": [
+    {
+      "canonical_id": "mun_teresina",
+      "canonical_name": "Teresina",
+      "type": "MunicipioPI",
+      "mentions": [
+        "SUS/TERESINA",
+        "SUS/ TERESINA"
+      ]
+    },
+    {
+      "canonical_id": "pmt_prefeitura",
+      "canonical_name": "Fundação Municipal de Saúde",
+      "type": "Orgao",
+      "mentions": [
+        "FUNDAÇÃO MUNICIPAL DE SAÚDE",
+        "FUNDAÇÃO MUNICIPAL"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_fms",
+      "canonical_name": "05.522.917/0001-70",
+      "type": "CNPJ",
+      "mentions": [
+        "05.522.917/0001-70"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_proc_024244",
+      "canonical_name": "Processo nº 00045.024244/2024-86",
+      "type": "NumeroProcesso",
+      "mentions": [
+        "PROCESSO Nº 00045.024244/2024-86"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_lei_14133",
+      "canonical_name": "Lei nº 14.133/2021, art. 79, I",
+      "type": "Lei",
+      "mentions": [
+        "LEI 14.133/2021, ART. 79, I"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_credenciamento_002",
+      "canonical_name": "Credenciamento nº 002/2026",
+      "type": "LicitacaoModalidade",
+      "mentions": [
+        "(CREDENCIAMENTO Nº 002/2026)"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_objeto_credenciamento",
+      "canonical_name": "Fisioterapeuta, nutricionista, psicopedagogo, psicólogo clínico e terapeuta ocupacional para atender a demanda da gestão municipal do SUS/Teresina",
+      "type": "Objeto",
+      "mentions": [
+        "FISIOTERAPEUTA, NUTRICIONISTA, PSICOPEDAGOGO, PSICOLOGO CLINICO E TERAPEUTA OCUPACIONAL, A FIM DE ATENDER A DEMANDA EXISTENTE NA ÁREA DE ABRANGÊNCIA DA GESTÃO MUNICIPAL DO SISTEMA ÚNICO DE SAÚDE SUS/TERESINA E A DE OUTROS QUE PARA A FUNDAÇÃO MUNICIPAL"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_data_assin",
+      "canonical_name": "05/05/2026",
+      "type": "Data",
+      "mentions": [
+        "05/05/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_contrato_201_2026",
+      "canonical_name": "Extrato do Contrato nº 201/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 201/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_espacofisio",
+      "canonical_name": "Espacofisio LTDA",
+      "type": "Empresa",
+      "mentions": [
+        "ESPACOFISIO LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_cnpj_espacofisio",
+      "canonical_name": "10.430.802/0001-95",
+      "type": "CNPJ",
+      "mentions": [
+        "10.430.802/0001-95"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_valor_201",
+      "canonical_name": "R$ 303.786,36",
+      "type": "Valor",
+      "mentions": [
+        "R$ 303.786,36 (TREZENTOS E TRÊS MIL SETECENTOS E OITENTA E SEIS REAIS E TRINTA E SEIS CENTAVOS)"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_contrato_202_2026",
+      "canonical_name": "Extrato do Contrato nº 202/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 202/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_fisioclin",
+      "canonical_name": "Prestação de Serviços de Saúde LTDA - Fisioclin",
+      "type": "Empresa",
+      "mentions": [
+        "PRESTAÇÃO DE SERVIÇOS DE SAUDE LTDA - FISIOCLIN"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_cnpj_fisioclin",
+      "canonical_name": "04.051.628/0001-77",
+      "type": "CNPJ",
+      "mentions": [
+        "04.051.628/0001-77"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_valor_202",
+      "canonical_name": "R$ 131.674,80",
+      "type": "Valor",
+      "mentions": [
+        "R$ 131.674,80 (CENTO E TRINTA E UM MIL SEISCENTOS E SETENTA E QUATRO REAIS E OITENTA CENTAVOS)"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_contrato_203_2026",
+      "canonical_name": "Extrato do Contrato nº 203/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 203/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_asa",
+      "canonical_name": "Ação Social Arquidiocesana (ASA) – Maria Imaculada",
+      "type": "Empresa",
+      "mentions": [
+        "AÇÃO SOCIAL ARQUIDIOCESANA (ASA) – MARIA IMACULADA"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_cnpj_asa",
+      "canonical_name": "06.870.091/0001-00",
+      "type": "CNPJ",
+      "mentions": [
+        "06.870.091/0001 - 00"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_valor_203",
+      "canonical_name": "R$ 12.524,64",
+      "type": "Valor",
+      "mentions": [
+        "R$ 12.524,64 (DOZE MIL QUINHENTOS E VINTE E QUATRO REAIS E SESSENTA E QUATRO CENTAVOS)"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_contrato_204_2026",
+      "canonical_name": "Extrato do Contrato nº 204/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 204/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_integrar",
+      "canonical_name": "Integrar - Centro da Consciência e Desenvolvimento Humano LTDA",
+      "type": "Empresa",
+      "mentions": [
+        "INTEGRAR - CENTRO DA CONSCIENCIA E DESENVOLVIMENTO HUMANO LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_cnpj_integrar",
+      "canonical_name": "09.639.877/0001-00",
+      "type": "CNPJ",
+      "mentions": [
+        "09.639.877/0001-00"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_valor_204",
+      "canonical_name": "R$ 405.730,68",
+      "type": "Valor",
+      "mentions": [
+        "R$ 405.730,68 (QUATROCENTOS E CINCO MIL SETECENTOS E TRINTA REAIS E SESSENTA E OITO CENTAVOS)"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_contrato_205_2026",
+      "canonical_name": "Extrato do Contrato nº 205/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 205/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_prontofisio",
+      "canonical_name": "Felipe Costa Lima Nunes – ME – Prontofisio",
+      "type": "Empresa",
+      "mentions": [
+        "FELIPE COSTA LIMA NUNES – ME – PRONTOFISIO"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_cnpj_prontofisio",
+      "canonical_name": "29.120.571/0001-41",
+      "type": "CNPJ",
+      "mentions": [
+        "29.120.571/0001-41"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_valor_205",
+      "canonical_name": "R$ 115.806,00",
+      "type": "Valor",
+      "mentions": [
+        "R$ 115.806,00 (CENTO E QUINZE MIL OITOCENTOS E SEIS REAIS)"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_contrato_206_2026",
+      "canonical_name": "Extrato do Contrato nº 206/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 206/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_quality",
+      "canonical_name": "A M Lima Serviço de Fisioterapia LTDA - Quality",
+      "type": "Empresa",
+      "mentions": [
+        "A M LIMA SERVIÇO DE FISIOTERAPIA LTDA - QUALITY"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_cnpj_quality",
+      "canonical_name": "13.135.812/0001-96",
+      "type": "CNPJ",
+      "mentions": [
+        "13.135.812/0001-96"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_valor_206",
+      "canonical_name": "R$ 97.140,00",
+      "type": "Valor",
+      "mentions": [
+        "R$ 97.140,00 (NOVENTA E SETE MIL CENTO E QUARENTA REAIS)"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_contrato_207_2026",
+      "canonical_name": "Extrato do Contrato nº 207/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 207/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_viver_dignidade",
+      "canonical_name": "Fundação Viver com Dignidade",
+      "type": "Empresa",
+      "mentions": [
+        "FUNDAÇÃO VIVER COM DIGNIDADE"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_cnpj_viver_dignidade",
+      "canonical_name": "05.399.250/0002-40",
+      "type": "CNPJ",
+      "mentions": [
+        "05.399.250/0002-40"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_valor_207",
+      "canonical_name": "R$ 89.431,20",
+      "type": "Valor",
+      "mentions": [
+        "R$ 89.431,20 (OITENTA E NOVE MIL QUATROCENTOS E TRINTA E UM REAIS E VINTE CENTAVOS)"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_contrato_208_2026",
+      "canonical_name": "Extrato do Contrato nº 208/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 208/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_clinic_fisio",
+      "canonical_name": "M A B E Silva ME - Clinic Fisio",
+      "type": "Empresa",
+      "mentions": [
+        "M A B E SILVA ME - CLINIC FISIO"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_cnpj_clinic_fisio",
+      "canonical_name": "00.067.712/0001-28",
+      "type": "CNPJ",
+      "mentions": [
+        "00.067.712/0001-28"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_valor_208",
+      "canonical_name": "R$ 124.054,80",
+      "type": "Valor",
+      "mentions": [
+        "R$ 124.054,80 (CENTO E VINTE E QUATRO MIL, CINQUENTA E QUATRO REAIS E OITENTA CENTAVOS)"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_contrato_209_2026",
+      "canonical_name": "Extrato do Contrato nº 209/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 209/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_reabilitar_amor",
+      "canonical_name": "Reabilitar com Amor - Associação Reabilitar com Amor",
+      "type": "Empresa",
+      "mentions": [
+        "REABILITAR COM AMOR - ASSOCIAÇÃO REABILITAR COM AMOR"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_cnpj_reabilitar_amor",
+      "canonical_name": "18.376.100/0001-82",
+      "type": "CNPJ",
+      "mentions": [
+        "18.376.100/0001-82"
+      ]
+    },
+    {
+      "canonical_id": "d4259p43_valor_209",
+      "canonical_name": "R$ 424.080,00",
+      "type": "Valor",
+      "mentions": [
+        "R$ 424.080,00 (QUATROCENTOS E VINTE E QUATRO MIL, OITENTA REAIS)"
+      ]
+    }
+  ]
+}

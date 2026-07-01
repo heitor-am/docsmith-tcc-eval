@@ -1,0 +1,186 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4264_p022.pdf",
+  "relations": [
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p22_apost_contrato_199_2025",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p22_apost_contrato_199_2025",
+      "object_canonical_id": "d4264p22_imediata_distribuidora"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p22_apost_contrato_199_2025",
+      "object_canonical_id": "d4264p22_objeto_apostilamento"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p22_apost_contrato_199_2025",
+      "object_canonical_id": "d4264p22_data_26052026"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p22_apost_contrato_200_2025",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p22_apost_contrato_200_2025",
+      "object_canonical_id": "d4264p22_emige"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p22_apost_contrato_200_2025",
+      "object_canonical_id": "d4264p22_objeto_apostilamento"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p22_apost_contrato_200_2025",
+      "object_canonical_id": "d4264p22_data_26052026"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p22_apost_contrato_201_2025",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p22_apost_contrato_201_2025",
+      "object_canonical_id": "d4264p22_prestamed"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p22_apost_contrato_201_2025",
+      "object_canonical_id": "d4264p22_objeto_apostilamento"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p22_apost_contrato_201_2025",
+      "object_canonical_id": "d4264p22_data_26052026"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p22_apost_contrato_202_2025",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p22_apost_contrato_202_2025",
+      "object_canonical_id": "d4264p22_ok_dental"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p22_apost_contrato_202_2025",
+      "object_canonical_id": "d4264p22_objeto_apostilamento"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p22_apost_contrato_202_2025",
+      "object_canonical_id": "d4264p22_data_26052026"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p22_apost_contrato_203_2025",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p22_apost_contrato_203_2025",
+      "object_canonical_id": "d4264p22_alg_brasil"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p22_apost_contrato_203_2025",
+      "object_canonical_id": "d4264p22_objeto_apostilamento"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p22_apost_contrato_203_2025",
+      "object_canonical_id": "d4264p22_data_26052026"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p22_apost_contrato_204_2025",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p22_apost_contrato_204_2025",
+      "object_canonical_id": "d4264p22_inspire"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p22_apost_contrato_204_2025",
+      "object_canonical_id": "d4264p22_objeto_apostilamento"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p22_apost_contrato_204_2025",
+      "object_canonical_id": "d4264p22_data_26052026"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p22_apost_contrato_205_2025",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p22_apost_contrato_205_2025",
+      "object_canonical_id": "d4264p22_oce_torres"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p22_apost_contrato_205_2025",
+      "object_canonical_id": "d4264p22_objeto_apostilamento"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p22_apost_contrato_205_2025",
+      "object_canonical_id": "d4264p22_data_26052026"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p22_apost_contrato_206_2025",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p22_apost_contrato_206_2025",
+      "object_canonical_id": "d4264p22_pacheco_lopes_filho"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p22_apost_contrato_206_2025",
+      "object_canonical_id": "d4264p22_objeto_apostilamento"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p22_apost_contrato_206_2025",
+      "object_canonical_id": "d4264p22_data_26052026"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d4264p22_apost_contrato_207_2025",
+      "object_canonical_id": "pmt_prefeitura"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d4264p22_apost_contrato_207_2025",
+      "object_canonical_id": "d4264p22_odontomed"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d4264p22_apost_contrato_207_2025",
+      "object_canonical_id": "d4264p22_objeto_apostilamento"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d4264p22_apost_contrato_207_2025",
+      "object_canonical_id": "d4264p22_data_26052026"
+    }
+  ]
+}

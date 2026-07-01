@@ -1,0 +1,353 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4258_p020.pdf",
+  "entities": [
+    {
+      "canonical_id": "mun_teresina",
+      "canonical_name": "Teresina",
+      "type": "MunicipioPI",
+      "mentions": [
+        "TERESINA-PI"
+      ]
+    },
+    {
+      "canonical_id": "pmt_prefeitura",
+      "canonical_name": "Fundação Municipal de Saúde",
+      "type": "Orgao",
+      "mentions": [
+        "FUNDAÇÃO MUNICIPAL DE SAÚDE",
+        "FUNDAÇÃO MUNICIPAL DE SAÚDE (FMS)",
+        "FMS"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_fms",
+      "canonical_name": "05.522.917/0001-70",
+      "type": "CNPJ",
+      "mentions": [
+        "05.522.917/0001-70"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_ata_26_2026",
+      "canonical_name": "Ata de Registro de Preços nº 00026/2026",
+      "type": "Ata",
+      "mentions": [
+        "ATA DE REGISTRO DE PREÇOS Nº 00026/2026",
+        "ATA DE REGISTRO DE PREÇOS Nº 00026/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_pregao_90070_2025",
+      "canonical_name": "Pregão Eletrônico nº 90070/2025",
+      "type": "PregaoEletronico",
+      "mentions": [
+        "PREGÃO ELETRÔNICO Nº 90070/2025"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_lei_14133",
+      "canonical_name": "Lei nº 14.133/2021, art. 28",
+      "type": "Lei",
+      "mentions": [
+        "LEI Nº 14.133/2021, ART. 28"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_processo",
+      "canonical_name": "Processo nº 00045.032374/2025-84",
+      "type": "NumeroProcesso",
+      "mentions": [
+        "PROCESSO Nº 00045.032374/2025-84"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_objeto_medicamentos",
+      "canonical_name": "Aquisição de medicamentos não injetáveis destinados a atender às necessidades da rede de atenção básica e hospitalar da Fundação Municipal de Saúde (FMS) de Teresina-PI",
+      "type": "Objeto",
+      "mentions": [
+        "A CONTRATAÇÃO PARA AQUISIÇÃO DE MEDICAMENTOS NÃO INJETÁVEIS, DESTINADOS A ATENDER ÀS NECESSIDADES DA REDE DE ATENÇÃO BÁSICA E HOSPITALAR DA FUNDAÇÃO MUNICIPAL DE SAÚDE (FMS) DE TERESINA-PI"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_data_assinatura",
+      "canonical_name": "15/05/2026",
+      "type": "Data",
+      "mentions": [
+        "15/05/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_contrato_542026",
+      "canonical_name": "Extrato de Contrato (ID 000450425800542026)",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "ID: 000450425800542026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_valor_770900",
+      "canonical_name": "R$ 770.900,60 (setecentos e setenta mil novecentos reais e sessenta centavos)",
+      "type": "Valor",
+      "mentions": [
+        "VALOR TOTAL R$ 770.900,60 (SETECENTOS E SETENTA MIL NOVECENTOS REAIS E SESSENTA CENTAVOS)"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_contrato_244_2026",
+      "canonical_name": "Contrato nº 244/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 244/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_riloclarense",
+      "canonical_name": "Comercial Cirurgica Rioclarense Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "COMERCIAL CIRURGICA RIOCLARENSE LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_rioclarense",
+      "canonical_name": "67.729.178/0006/53",
+      "type": "CNPJ",
+      "mentions": [
+        "67.729.178/0006/53"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_valor_890596",
+      "canonical_name": "R$ 890.596,38 (oitocentos e noventa mil quinhentos e noventa e seis reais e trinta e oito centavos)",
+      "type": "Valor",
+      "mentions": [
+        "VALOR TOTAL R$ 890.596,38 (OITOCENTOS E NOVENTA MIL QUINHENTOS E NOVENTA E SEIS REAIS E TRINTA E OITO CENTAVOS)"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_contrato_246_2026",
+      "canonical_name": "Contrato nº 246/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 246/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_go_medical",
+      "canonical_name": "G.O Medical Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "G.O MEDICAL LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_go_medical",
+      "canonical_name": "56.795.674/0001-84",
+      "type": "CNPJ",
+      "mentions": [
+        "56.795.674/0001-84"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_valor_23970",
+      "canonical_name": "R$ 23.970,00 (vinte e três mil novecentos e setenta reais)",
+      "type": "Valor",
+      "mentions": [
+        "VALOR TOTAL R$ 23.970,00 (VINTE E TRÊS MIL NOVECENTOS E SETENTA REAIS)"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_contrato_247_2026",
+      "canonical_name": "Contrato nº 247/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 247/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_novasul",
+      "canonical_name": "Novasul Com. Prods. Hospitalares Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "NOVASUL COM. PRODS. HOSPITALARES LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_novasul",
+      "canonical_name": "14.595.725/0001-84",
+      "type": "CNPJ",
+      "mentions": [
+        "14.595.725/0001-84"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_valor_89271",
+      "canonical_name": "R$ 89.271,00 (oitenta e nove mil duzentos e setenta e um reais)",
+      "type": "Valor",
+      "mentions": [
+        "VALOR TOTAL R$ 89.271,00 (OITENTA E NOVE MIL DUZENTOS E SETENTA E UM REAIS)"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_contrato_248_2026",
+      "canonical_name": "Contrato nº 248/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 248/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_rosafarm",
+      "canonical_name": "Rosafarm Distribuidora de Medicamentos Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "ROSAFARM DISTRIBUIDORA DE MEDICAMENTOS LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_rosafarm",
+      "canonical_name": "37.676.047/0001-80",
+      "type": "CNPJ",
+      "mentions": [
+        "37.676.047/0001-80"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_valor_144300",
+      "canonical_name": "R$ 144.300,00 (cento e quarenta e quatro mil e trezentos reais)",
+      "type": "Valor",
+      "mentions": [
+        "VALOR TOTAL R$ 144.300,00 (CENTO E QUARENTA E QUATRO MIL E TREZENTOS REAIS)"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_contrato_251_2026",
+      "canonical_name": "Contrato nº 251/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 251/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_oeste_sul",
+      "canonical_name": "Oeste Sul Cirurgica Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "OESTE SUL CIRURGICA LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_oeste_sul",
+      "canonical_name": "61.828.536/0001-94",
+      "type": "CNPJ",
+      "mentions": [
+        "61.828.536/0001-94"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_valor_148493",
+      "canonical_name": "R$ 148.493,05 (cento e quarenta e oito mil quatrocentos e noventa e três reais e cinco centavos)",
+      "type": "Valor",
+      "mentions": [
+        "VALOR TOTAL R$ 148.493,05 (CENTO E QUARENTA E OITO MIL QUATROCENTOS E NOVENTA E TRÊS REAIS E CINCO CENTAVOS)"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_contrato_252_2026",
+      "canonical_name": "Contrato nº 252/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 252/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_medmax",
+      "canonical_name": "Medmax Comercio de Medicamentos Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "MEDMAX COMERCIO DE MEDICAMENTOS LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_medmax",
+      "canonical_name": "16.553.940/0001-48",
+      "type": "CNPJ",
+      "mentions": [
+        "16.553.940/0001-48"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_valor_14316",
+      "canonical_name": "R$ 14.316,00 (quatorze mil trezentos e dezesseis reais)",
+      "type": "Valor",
+      "mentions": [
+        "VALOR TOTAL R$ 14.316,00 (QUATORZE MIL TREZENTOS E DEZESSEIS REAIS)"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_contrato_253_2026",
+      "canonical_name": "Contrato nº 253/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 253/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_saudenord",
+      "canonical_name": "Saudenord Comercio Hospitalar Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "SAUDENORD COMERCIO HOSPITALAR LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_saudenord",
+      "canonical_name": "62.077.080/0001-30",
+      "type": "CNPJ",
+      "mentions": [
+        "62.077.080/0001-30"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_valor_112096",
+      "canonical_name": "R$ 112.096,60 (cento e doze mil, noventa e seis reais e sessenta centavos)",
+      "type": "Valor",
+      "mentions": [
+        "VALOR TOTAL R$ 112.096,60 (CENTO E DOZE MIL, NOVENTA E SEIS REAIS E SESSENTA CENTAVOS)"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_contrato_254_2026",
+      "canonical_name": "Contrato nº 254/2026",
+      "type": "ContratoAdministrativo",
+      "mentions": [
+        "EXTRATO DO CONTRATO Nº 254/2026"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_clm_farma",
+      "canonical_name": "CLM Farma Comércio e Distribuidora de Medicamentos Ltda",
+      "type": "Empresa",
+      "mentions": [
+        "CLM FARMA COMÉRCIO E DISTRIBUIDORA DE MEDICAMENTOS LTDA"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_cnpj_clm_farma",
+      "canonical_name": "40.274.237/0001-85",
+      "type": "CNPJ",
+      "mentions": [
+        "40.274.237/0001-85"
+      ]
+    },
+    {
+      "canonical_id": "d4258p20_valor_36150",
+      "canonical_name": "R$ 36.150,00 (trinta e seis mil cento e cinquenta reais)",
+      "type": "Valor",
+      "mentions": [
+        "VALOR TOTAL R$ 36.150,00 (TRINTA E SEIS MIL CENTO E CINQUENTA REAIS)"
+      ]
+    }
+  ]
+}

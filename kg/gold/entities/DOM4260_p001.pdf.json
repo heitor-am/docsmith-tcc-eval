@@ -1,0 +1,189 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DOM4260_p001.pdf",
+  "entities": [
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de Teresina",
+      "mentions": [
+        "Prefeitura Municipal de Teresina",
+        "PMT"
+      ],
+      "canonical_id": "pmt_prefeitura"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Teresina",
+      "mentions": [
+        "Teresina",
+        "Município de Teresina",
+        "Teresina (PI)"
+      ],
+      "canonical_id": "mun_teresina"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Sílvio Mendes de Oliveira Filho",
+      "mentions": [
+        "SÍLVIO MENDES DE OLIVEIRA FILHO",
+        "O PREFEITO MUNICIPAL DE TERESINA"
+      ],
+      "canonical_id": "silvio_mendes"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Victor Samuel Alves Alencar",
+      "mentions": [
+        "VICTOR SAMUEL ALVES ALENCAR"
+      ],
+      "canonical_id": "victor_samuel"
+    },
+    {
+      "type": "Decreto",
+      "canonical_name": "Decreto nº 28.769, de 5 de maio de 2026",
+      "mentions": [
+        "DECRETO Nº 28.769, DE 5 DE MAIO DE 2026."
+      ],
+      "canonical_id": "d4260p1_decreto_28769"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Araci de Oliveira Parente Sousa",
+      "mentions": [
+        "ARACI DE OLIVEIRA PARENTE SOUSA"
+      ],
+      "canonical_id": "d4260p1_araci_sousa"
+    },
+    {
+      "type": "SecretariaMunicipal",
+      "canonical_name": "Secretaria Municipal de Ciência, Tecnologia e Inovação",
+      "mentions": [
+        "Secretaria Municipal de Ciência, Tecnologia e Informação - SECTI",
+        "Secretário Municipal de Ciência, Tecnologia e Inovação",
+        "SECTI"
+      ],
+      "canonical_id": "d4260p1_secti"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Nomeação de Araci de Oliveira Parente Sousa para o cargo de Assessor Técnico Especializado da SECTI",
+      "mentions": [
+        "NOMEAR ARACI DE OLIVEIRA PARENTE SOUSA, CPF nº 004.748.***-**, para exercer o cargo de Assessor Técnico Especializado, Símbolo Especial, da Secretaria Municipal de Ciência, Tecnologia e Informação - SECTI, com efeitos a partir de 01.05.2026."
+      ],
+      "canonical_id": "d4260p1_obj_nomeacao_araci"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "5 de maio de 2026",
+      "mentions": [
+        "DE 5 DE MAIO DE 2026",
+        "em 5 de maio de 2026"
+      ],
+      "canonical_id": "d4260p1_data_decreto_28769"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Orgânica do Município de Teresina",
+      "mentions": [
+        "Lei Orgânica do Município",
+        "Lei Orgânica Municipal",
+        "art. 71, XXV, da Lei Orgânica do Município",
+        "art. 71, inciso XXV, da Lei Orgânica Municipal"
+      ],
+      "canonical_id": "d4260p1_lei_organica"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Complementar nº 2.959, de 26 de dezembro de 2000",
+      "mentions": [
+        "Lei Complementar nº 2.959, de 26 de dezembro de 2000"
+      ],
+      "canonical_id": "d4260p1_lc_2959"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Complementar nº 6.159, de 13 de dezembro de 2024",
+      "mentions": [
+        "Lei Complementar nº 6.159, de 13 de dezembro de 2024"
+      ],
+      "canonical_id": "d4260p1_lc_6159"
+    },
+    {
+      "type": "Decreto",
+      "canonical_name": "Decreto nº 28.787, de 14 de maio de 2026",
+      "mentions": [
+        "DECRETO Nº 28.787, DE 14 DE MAIO DE 2026."
+      ],
+      "canonical_id": "d4260p1_decreto_28787"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Criação da Comissão Interinstitucional de Saúde e Segurança no Trabalho do Município de Teresina",
+      "mentions": [
+        "Cria a Comissão Interinstitucional de Saúde e Segurança no Trabalho do Município de Teresina, na forma em que especifica."
+      ],
+      "canonical_id": "d4260p1_obj_comissao_sst"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "14 de maio de 2026",
+      "mentions": [
+        "DE 14 DE MAIO DE 2026",
+        "em 14 de maio de 2026"
+      ],
+      "canonical_id": "d4260p1_data_decreto_28787"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo SEI nº 00041.001796/2026-29",
+      "mentions": [
+        "Processo SEI nº 00041.001796/2026-29"
+      ],
+      "canonical_id": "d4260p1_proc_sei"
+    },
+    {
+      "type": "Portaria",
+      "canonical_name": "Portaria MTP nº 1.467, de 02 de junho de 2022",
+      "mentions": [
+        "Portaria MTP nº 1.467, de 02 de junho de 2022"
+      ],
+      "canonical_id": "d4260p1_portaria_mtp_1467"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Instituto de Previdência dos Servidores do Município de Teresina",
+      "mentions": [
+        "Instituto de Previdência dos Servidores do Município de Teresina - IPMT",
+        "IPMT"
+      ],
+      "canonical_id": "d4260p1_ipmt"
+    },
+    {
+      "type": "SecretariaMunicipal",
+      "canonical_name": "Secretaria Municipal de Administração e Recursos Humanos",
+      "mentions": [
+        "Secretaria Municipal de Administração e Recursos Humanos - SEMA",
+        "SEMA"
+      ],
+      "canonical_id": "d4260p1_sema"
+    },
+    {
+      "type": "SecretariaMunicipal",
+      "canonical_name": "Secretaria Municipal de Educação",
+      "mentions": [
+        "Secretaria Municipal de Educação - SEMEC",
+        "SEMEC"
+      ],
+      "canonical_id": "d4258p6_semec"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Procuradoria-Geral do Município de Teresina",
+      "mentions": [
+        "Procuradoria-Geral do Município de Teresina - PGM",
+        "PGM"
+      ],
+      "canonical_id": "pgm_teresina"
+    }
+  ]
+}

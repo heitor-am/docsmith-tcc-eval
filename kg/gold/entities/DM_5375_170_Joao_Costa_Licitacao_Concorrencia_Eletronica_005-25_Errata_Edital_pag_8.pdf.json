@@ -1,0 +1,360 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5375_170_Joao_Costa_Licitacao_Concorrencia_Eletronica_005-25_Errata_Edital_pag_8.pdf",
+  "entities": [
+    {
+      "type": "Edital",
+      "canonical_name": "Errata do Edital de Licitação - Concorrência Eletrônica nº 005/2025",
+      "mentions": [
+        "ERRATA DO EDITAL DE LICITAÇÃO",
+        "Concorrência Eletrônica Nº 005/2025",
+        "alteração da data de abertura das propostas da Concorrência Eletrônica Nº 005/2025"
+      ],
+      "canonical_id": "d5375_170_errata_edital_005_2025"
+    },
+    {
+      "type": "LicitacaoModalidade",
+      "canonical_name": "Concorrência Eletrônica nº 005/2025",
+      "mentions": [
+        "Concorrência Eletrônica Nº 005/2025",
+        "Concorrência Eletrônica Nº 005/2025."
+      ],
+      "canonical_id": "d5375_170_concorrencia_005_2025"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo nº 050/2025 - PMJC",
+      "mentions": [
+        "Processo Administrativo Nº 050/2025 – PMJC"
+      ],
+      "canonical_id": "d5375_170_processo_050_2025"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de João Costa",
+      "mentions": [
+        "A PREFEITURA MUNICIPAL DE JOÃO COSTA/PI",
+        "PREFEITURA DE João Costa-PI"
+      ],
+      "canonical_id": "jc_prefeitura"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "João Costa",
+      "mentions": [
+        "João Costa/PI",
+        "Município de João Costa/PI"
+      ],
+      "canonical_id": "jc_municipio"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Comissão Permanente de Contratação/PMJC",
+      "mentions": [
+        "Comissão Permanente de Contratação/PMJC"
+      ],
+      "canonical_id": "d5382_189_comissao_permanente"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Jociel Gomes de Oliveira",
+      "mentions": [
+        "JOCIEL GOMES DE OLIVEIRA",
+        "Agente de Contratação/PMJC"
+      ],
+      "canonical_id": "d5382_189_pessoa_jociel"
+    },
+    {
+      "type": "Portaria",
+      "canonical_name": "Portaria nº 154/2025, de 02 de junho de 2025",
+      "mentions": [
+        "Portaria Nº 154/2025, de 02 de junho de 2025"
+      ],
+      "canonical_id": "d5375_170_portaria_154_2025"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Registro de Preços para futura e eventual contratação de empresa para execução dos serviços de Manutenção do Patrimônio, com fornecimento de mão de obra e materiais, em atendimento às necessidades do Município de João Costa/PI",
+      "mentions": [
+        "objetivando o Registro de Preços para futura e eventual contratação de empresa para execução dos serviços de Manutenção do Patrimônio, com fornecimento de mão de obra e materiais, em atendimento às necessidades do Município de João Costa/PI"
+      ],
+      "canonical_id": "d5375_170_objeto"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "04 de agosto de 2025, às 11h00min (texto onde se lê)",
+      "mentions": [
+        "ONDE SE LÊ:",
+        "Dia 04 de agosto de 2025, às 11h00min"
+      ],
+      "canonical_id": "d5375_170_data_sessao_antiga"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "21 de agosto de 2025, às 11h00min (horário de Brasília) (leia-se)",
+      "mentions": [
+        "LEIA-SE:",
+        "Dia 21/08/2025, às 11h00min (horário de Brasília)"
+      ],
+      "canonical_id": "d5375_170_data_sessao_nova"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "01 de agosto de 2025",
+      "mentions": [
+        "João Costa/PI, 01 de agosto de 2025."
+      ],
+      "canonical_id": "d5375_170_data_publicacao_errata"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "17/07/2025",
+      "mentions": [
+        "publicado em 17/07/2025 no DOM, DOU, JORNAL O DIA"
+      ],
+      "canonical_id": "d5375_170_data_publicacao_original"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato nº PE-019/2025 - Prefeitura Municipal de São Luís do Piauí",
+      "mentions": [
+        "EXTRATO DE CONTRATO",
+        "CONTRATO Nº: PE-019/2025"
+      ],
+      "canonical_id": "d5375_170_contrato_pe_019_2025"
+    },
+    {
+      "type": "PregaoEletronico",
+      "canonical_name": "Pregão Eletrônico nº 019/2025 - São Luís do Piauí",
+      "mentions": [
+        "MODALIDADE: PREGÃO ELETRÔNICO Nº 019/2025"
+      ],
+      "canonical_id": "d5375_170_pe_019_2025_sl"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo nº 046/2025 - São Luís do Piauí",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO Nº 046/2025"
+      ],
+      "canonical_id": "d5375_170_processo_046_2025_sl"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de São Luís do Piauí",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE SÃO LUÍS DO PIAUÍ",
+        "PREFEITURA MUNICIPAL DE SÃO LUÍS DO PIAUÍ – PI"
+      ],
+      "canonical_id": "d5375_170_prefeitura_sao_luis"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "São Luís do Piauí",
+      "mentions": [
+        "São Luís do Piauí (PI)",
+        "MUNICÍPIO DE SÃO LUÍS DO PIAUÍ/PI"
+      ],
+      "canonical_id": "d5375_170_municipio_sao_luis"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "01.519.467/0001-05",
+      "mentions": [
+        "CNPJ Nº. 01.519.467/0001-05"
+      ],
+      "canonical_id": "d5375_170_cnpj_prefeitura_sao_luis"
+    },
+    {
+      "type": "SecretariaMunicipal",
+      "canonical_name": "Secretaria de Assistência Social do Município de São Luís do Piauí/PI",
+      "mentions": [
+        "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL DO MUNICÍPIO DE SÃO LUÍS DO PIAUÍ/PI"
+      ],
+      "canonical_id": "d5375_170_secretaria_assistencia_sl"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Prestação de serviços de aulas de balé para crianças e adolescentes, com fornecimento de material didático e fardamento, destinados à Secretaria Municipal de Assistência Social do Município de São Luís do Piauí/PI",
+      "mentions": [
+        "OBJETO: \"PRESTAÇÃO DE SERVIÇOS DE AULAS DE BALÉ PARA CRIANÇAS E ADOLESCENTES, COM FORNECIMENTO DE MATERIAL DIDÁTICO E FARDAMENTO, DESTINADOS À SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL DO MUNICÍPIO DE SÃO LUÍS DO PIAUÍ/PI\""
+      ],
+      "canonical_id": "d5375_170_objeto_sl"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Delicatte Ltda (Ballet Delicatte)",
+      "mentions": [
+        "CONTRATADO: Delicatte LTDA (Ballet Delicatte)",
+        "CONTRATADA"
+      ],
+      "canonical_id": "d5374_262_santa_rosa_ltda"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "58.686.556/0001-83",
+      "mentions": [
+        "CNPJ nº 58.686.556/0001-83"
+      ],
+      "canonical_id": "d5375_170_cnpj_delicatte"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 121.460,00",
+      "mentions": [
+        "VALOR TOTAL DO CONTRATO: R$ 121.460,00 (CENTO E VINTE E UM MIL, QUATROCENTOS E SESSENTA REAIS)"
+      ],
+      "canonical_id": "d5375_170_valor_contrato_sl"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "Vigência a partir da data da assinatura até 28 de julho de 2026",
+      "mentions": [
+        "O PRESENTE CONTRATO TEM SUA VIGÊNCIA A PARTIR DA DATA DE SUA ASSINATURA ATÉ 28 DE JULHO DE 2026"
+      ],
+      "canonical_id": "d5375_170_vigencia_sl"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "29/07/2025",
+      "mentions": [
+        "DATA DA ASSINATURA DO CONTRATO: 29/07/2025"
+      ],
+      "canonical_id": "d5375_170_assinatura_sl"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Raimundo Renato Vicente de Araújo Sousa",
+      "mentions": [
+        "Raimundo Renato Vicente de Araújo Sousa",
+        "Prefeito Municipal"
+      ],
+      "canonical_id": "d5375_170_prefeito_cg"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Federal nº 14.133/2021",
+      "mentions": [
+        "Lei Federal nº 14.133/21",
+        "Lei nº 14.133/21"
+      ],
+      "canonical_id": "lei_14133"
+    },
+    {
+      "type": "Ratificacao",
+      "canonical_name": "Despacho de Adjudicação e Homologação - Pregão Eletrônico nº 013/2025 - PMCGO",
+      "mentions": [
+        "DESPACHO DE ADJUDICAÇÃO E HOMOLOGAÇÃO",
+        "ATO ADJUDICATÓRIO E HOMOLOGAÇÃO",
+        "ADJUDICADO E HOMOLOGADO como vencedores do certame"
+      ],
+      "canonical_id": "d5375_170_ato_adjudicatorio_cg"
+    },
+    {
+      "type": "PregaoEletronico",
+      "canonical_name": "Pregão Eletrônico nº 013/2025 - PMCGO",
+      "mentions": [
+        "PREGÃO ELETRÔNICO Nº 013/2025 - PMCGO"
+      ],
+      "canonical_id": "d5375_170_pe_013_2025_cg"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo nº 045/2025 - Capitão Gervásio Oliveira",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO Nº 045/2025"
+      ],
+      "canonical_id": "d5375_170_processo_045_2025_cg"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de Capitão Gervásio Oliveira",
+      "mentions": [
+        "Prefeitura Municipal de Capitão Gervásio Oliveira",
+        "PREFEITURA MUNICIPAL DE CAPITÃO GERVÁSIO OLIVEIRA"
+      ],
+      "canonical_id": "d5375_170_prefeitura_cg"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Capitão Gervásio Oliveira",
+      "mentions": [
+        "O MUNICIPIO DE CAPITÃO GERVÁSIO OLIVEIRA",
+        "Capitão Gervásio Oliveira"
+      ],
+      "canonical_id": "d5375_170_municipio_cg"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Registro de preços para a contratação de empresa para prestação dos serviços de locação de veículos para o transporte escolar para atender as necessidades da Prefeitura Municipal de Capitão Gervásio Oliveira PI",
+      "mentions": [
+        "OBJETO: REGISTRO DE PREÇOS PARA A CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DOS SERVIÇOS DE LOCAÇÃO DE VEÍCULOS PARA O TRANSPORTE ESCOLAR PARA ATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE CAPITÃO GERVÁSIO OLIVEIRA PI"
+      ],
+      "canonical_id": "d5375_170_objeto_cg"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "S A Damasceno",
+      "mentions": [
+        "S A DAMASCENO"
+      ],
+      "canonical_id": "d5375_170_empresa_sa_damasceno"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "35.310.449/0001-30",
+      "mentions": [
+        "inscrita no CNPJ Nº 35.310.449/0001-30"
+      ],
+      "canonical_id": "d5375_170_cnpj_sa_damasceno"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 271.686,00",
+      "mentions": [
+        "Valor Total da contratação R$ 271.686,00 (duzentos e setenta e um mil, e seiscentos e oitenta e seis reais)"
+      ],
+      "canonical_id": "d5375_170_valor_sa_damasceno"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "L D Transportes e Locações Ltda",
+      "mentions": [
+        "L D TRANSPORTES E LOCACOES LTDA"
+      ],
+      "canonical_id": "d5375_170_empresa_ld_transportes"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "53.471.204/0001-77",
+      "mentions": [
+        "inscrita no CNPJ Nº 53.471.204/0001-77"
+      ],
+      "canonical_id": "d5375_170_cnpj_ld_transportes"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 512.500,00",
+      "mentions": [
+        "R$ 512.500,00 (quinhentos e doze mil, e quinhentos reais)"
+      ],
+      "canonical_id": "d5375_170_valor_ld_transportes"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 784.186,00 (Valor Global)",
+      "mentions": [
+        "Valor Global é de R$784.186,00 (setecentos e oitenta e quatro mil cento e oitenta e seis reais)"
+      ],
+      "canonical_id": "d5375_170_valor_global_cg"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "09 de julho de 2025",
+      "mentions": [
+        "Capitão Gervásio Oliveira, 09 de julho de 2025."
+      ],
+      "canonical_id": "d5375_170_data_cg"
+    }
+  ]
+}

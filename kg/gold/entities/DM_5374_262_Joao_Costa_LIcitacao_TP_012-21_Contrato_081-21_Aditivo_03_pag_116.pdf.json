@@ -1,0 +1,145 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5374_262_Joao_Costa_LIcitacao_TP_012-21_Contrato_081-21_Aditivo_03_pag_116.pdf",
+  "entities": [
+    {
+      "type": "AditivoContratual",
+      "canonical_name": "Terceiro Termo Aditivo ao Contrato Administrativo nº 081/2021 - PMJC",
+      "mentions": [
+        "EXTRATO DO TERCEIRO TERMO ADITIVO AO CONTRATO ADMINISTRATIVO Nº 081/2021 – PMJC",
+        "TERCEIRO ADITIVO",
+        "presente Termo Aditivo"
+      ],
+      "canonical_id": "d5374_262_aditivo_081_2021"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Contrato Administrativo nº 081/2021 - PMJC",
+      "mentions": [
+        "CONTRATO ADMINISTRATIVO Nº 081/2021 – PMJC",
+        "Contrato nº 081/2021",
+        "Contrato original"
+      ],
+      "canonical_id": "d5374_262_contrato_081_2021"
+    },
+    {
+      "type": "TomadaPrecos",
+      "canonical_name": "Tomada de Preços nº 012/2021",
+      "mentions": [
+        "TOMADA DE PREÇOS Nº 012/2021",
+        "Tomada de Preços nº 012/2021"
+      ],
+      "canonical_id": "d5374_262_tp_012_2021"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo nº 079/2021 - PMJC",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO Nº 079/2021 – PMJC",
+        "Processo Administrativo Nº 079/2021 – PMJC"
+      ],
+      "canonical_id": "d5374_262_processo_079_2021"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "João Costa",
+      "mentions": [
+        "João Costa-PI",
+        "município de João Costa - PI",
+        "João Costa/PI"
+      ],
+      "canonical_id": "jc_municipio"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Município de João Costa-PI",
+      "mentions": [
+        "O MUNICIPIO DE JOÃO COSTA-PI",
+        "MUNICIPIO DE JOÃO COSTA"
+      ],
+      "canonical_id": "d5374_262_municipio_joao_costa_orgao"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "01.612.580/0001-30",
+      "mentions": [
+        "CNPJ nº 01.612.580/0001-30"
+      ],
+      "canonical_id": "d5374_262_cnpj_municipio"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "José Neto de Oliveira",
+      "mentions": [
+        "Sr. JOSÉ NETO DE OLIVEIRA"
+      ],
+      "canonical_id": "d5374_262_jose_neto_oliveira"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "Santa Rosa Ltda",
+      "mentions": [
+        "SANTA ROSA LTDA",
+        "CONTRATADA"
+      ],
+      "canonical_id": "d5374_262_santa_rosa_ltda"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "03.301.703/0001-70",
+      "mentions": [
+        "CNPJ/MF sob o nº 03.301.703/0001-70"
+      ],
+      "canonical_id": "d5374_262_cnpj_santa_rosa"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Rosa Helena Moura Rocha",
+      "mentions": [
+        "ROSA HELENA MOURA ROCHA"
+      ],
+      "canonical_id": "d5374_262_rosa_helena_rocha"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Continuação/conclusão da Implantação de Sistema de Abastecimento d'Água nas localidades Toca, Carnaíbas, Morro do Apolinário, Pocinho, Lambedor, Olho D'Água e Pedra Furada, na Zona Rural do município de João Costa - PI",
+      "mentions": [
+        "continuação/conclusão da Implantação de Sistema de Abastecimento d'Água nas localidades Toca, Carnaíbas, Morro do Apolinário, Pocinho, Lambedor, Olho D' Água e Pedra Furada, na Zona Rural do município de João Costa - PI"
+      ],
+      "canonical_id": "d5374_262_objeto_aditivo"
+    },
+    {
+      "type": "Convenio",
+      "canonical_name": "Convênio nº 857490/2017 - FUNASA",
+      "mentions": [
+        "Convênio nº 857490/2017 – FUNASA"
+      ],
+      "canonical_id": "d5374_262_convenio_857490_2017"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei nº 8.666/93",
+      "mentions": [
+        "art. 57, § 1º, inciso II, § 2º, da Lei 8666/93",
+        "Lei nº 8.666/93"
+      ],
+      "canonical_id": "lei_8666_93"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "Vigência de mais 12 (doze) meses, de 29 de novembro de 2023 até 29 de novembro de 2024",
+      "mentions": [
+        "será de mais 12 (doze) meses, contados a partir de 29 de novembro de 2023 até 29 de novembro de 2024"
+      ],
+      "canonical_id": "d5374_262_prazo_vigencia"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "28 de novembro de 2023",
+      "mentions": [
+        "João Costa/PI, 28 de novembro de 2023"
+      ],
+      "canonical_id": "d5374_262_data_aditivo"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5381_114_Coronel_Jose_Dias_Decreto_035-25_pag_23.pdf",
+  "entities": [
+    {
+      "type": "Decreto",
+      "canonical_name": "Decreto nº 35, de 11 de agosto de 2025",
+      "mentions": [
+        "DECRETO Nº 35, DE 11 DE AGOSTO DE 2025",
+        "deste Decreto"
+      ],
+      "canonical_id": "d5381_114_decreto_35_2025"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de Coronel José Dias",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE CORONEL JOSÉ DIAS – PI",
+        "O PREFEITO MUNICIPAL DE CORONEL JOSÉ DIAS"
+      ],
+      "canonical_id": "cjd_prefeitura"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Coronel José Dias",
+      "mentions": [
+        "Município de Coronel José Dias – PI",
+        "Coronel José Dias – PI",
+        "Coronel José Dias"
+      ],
+      "canonical_id": "cjd_municipio"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "41.522.160/0001-88",
+      "mentions": [
+        "CNPJ: 41.522.160/0001-88"
+      ],
+      "canonical_id": "cjd_cnpj"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Listagem de atividades econômicas de baixo risco dispensadas dos atos públicos de liberação no âmbito do Município de Coronel José Dias",
+      "mentions": [
+        "Institui a listagem de atividades econômicas de baixo risco dispensadas dos atos públicos de liberação no âmbito do Município de Coronel José Dias – PI"
+      ],
+      "canonical_id": "d5381_114_objeto_dispensa"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "11 de agosto de 2025",
+      "mentions": [
+        "DE 11 DE AGOSTO DE 2025",
+        "Coronel José Dias – PI, 11 de agosto de 2025"
+      ],
+      "canonical_id": "d5381_114_data_11_08_2025"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Victor Cesar de Carvalho",
+      "mentions": [
+        "Victor Cesar de Carvalho",
+        "Prefeito"
+      ],
+      "canonical_id": "d5375_170_prefeito_cg"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Federal nº 9.430, de 27 de dezembro de 1996",
+      "mentions": [
+        "art. 64 da Lei Federal nº 9.430, de 27 de dezembro de 1996"
+      ],
+      "canonical_id": "d5381_114_lei_9430_1996"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Federal nº 11.598, de 03 de dezembro de 2007",
+      "mentions": [
+        "a Lei Federal nº 11.598, de 03 de dezembro de 2007"
+      ],
+      "canonical_id": "d5381_114_lei_11598_2007"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Federal nº 13.874, de 20 de setembro de 2019",
+      "mentions": [
+        "a Lei Federal nº 13.874, de 20 de setembro de 2019"
+      ],
+      "canonical_id": "d5381_114_lei_13874_2019"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Estadual nº 8.025, de 12 de abril de 2023",
+      "mentions": [
+        "a Lei Estadual nº 8.025, de 12 de abril de 2023"
+      ],
+      "canonical_id": "d5381_114_lei_estadual_8025_2023"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Municipal de Coronel José Dias nº 234/2025",
+      "mentions": [
+        "a Lei Municipal de Coronel José Dias nº 234/2025, publicada em 30 de maio de 2025"
+      ],
+      "canonical_id": "d5381_114_lei_municipal_234_2025"
+    }
+  ]
+}

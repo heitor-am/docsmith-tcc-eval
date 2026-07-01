@@ -1,0 +1,46 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5374_262_Joao_Costa_LIcitacao_TP_012-21_Contrato_081-21_Aditivo_03_pag_116.pdf",
+  "relations": [
+    {
+      "predicate": "temModalidade",
+      "subject_canonical_id": "d5374_262_aditivo_081_2021",
+      "object_canonical_id": "d5374_262_tp_012_2021"
+    },
+    {
+      "predicate": "temFundamentoLegal",
+      "subject_canonical_id": "d5374_262_aditivo_081_2021",
+      "object_canonical_id": "lei_8666_93"
+    },
+    {
+      "predicate": "temVigencia",
+      "subject_canonical_id": "d5374_262_aditivo_081_2021",
+      "object_canonical_id": "d5374_262_prazo_vigencia"
+    },
+    {
+      "predicate": "temData",
+      "subject_canonical_id": "d5374_262_aditivo_081_2021",
+      "object_canonical_id": "d5374_262_data_aditivo"
+    },
+    {
+      "predicate": "temContratante",
+      "subject_canonical_id": "d5374_262_contrato_081_2021",
+      "object_canonical_id": "d5374_262_municipio_joao_costa_orgao"
+    },
+    {
+      "predicate": "temContratada",
+      "subject_canonical_id": "d5374_262_contrato_081_2021",
+      "object_canonical_id": "d5374_262_santa_rosa_ltda"
+    },
+    {
+      "predicate": "temObjeto",
+      "subject_canonical_id": "d5374_262_contrato_081_2021",
+      "object_canonical_id": "d5374_262_objeto_aditivo"
+    },
+    {
+      "predicate": "localizadoEm",
+      "subject_canonical_id": "d5374_262_municipio_joao_costa_orgao",
+      "object_canonical_id": "jc_municipio"
+    }
+  ]
+}

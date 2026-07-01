@@ -1,0 +1,241 @@
+{
+  "schema_version": "kg-gold/1",
+  "doc_id": "DM_5378_227_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Extrato_Contrato_113-25_pag_190.pdf",
+  "entities": [
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de Coronel José Dias",
+      "mentions": [
+        "PREFEITURA MUNICIPAL DE CORONEL JOSÉ DIAS – PI",
+        "Prefeitura Municipal de Coronel José Dias – PI"
+      ],
+      "canonical_id": "cjd_prefeitura"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Coronel José Dias",
+      "mentions": [
+        "Município de Coronel José Dias – PI",
+        "Coronel José Dias/PI"
+      ],
+      "canonical_id": "cjd_municipio"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "41.522.160/0001-88",
+      "mentions": [
+        "CNPJ: 41.522.160/0001-88"
+      ],
+      "canonical_id": "cjd_cnpj"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei nº 14.133/2021",
+      "mentions": [
+        "Art.75, II, da Lei 14.131/2021, de 1º de abril de 2021",
+        "Lei Federal nº 14.133/2021"
+      ],
+      "canonical_id": "lei_14133"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Extrato de Contrato Nº 113/2025",
+      "mentions": [
+        "Extrato de Contrato Nº 113/2025"
+      ],
+      "canonical_id": "d5378_227_contrato_113"
+    },
+    {
+      "type": "DispensaLicitacao",
+      "canonical_name": "Dispensa de Licitação nº 038/2025",
+      "mentions": [
+        "DISPENSA DE LICITAÇÃO Nº 038/2025"
+      ],
+      "canonical_id": "d5378_226_dispensa_038"
+    },
+    {
+      "type": "NumeroProcesso",
+      "canonical_name": "Processo Administrativo nº 2844/2025",
+      "mentions": [
+        "PROCESSO ADMINISTRATIVO Nº 2844/2025"
+      ],
+      "canonical_id": "d5378_226_proc_2844"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Contratação de empresa especializada na prestação de serviços de controle de vetores e pragas urbanas, que abrange dedetização, desinsetização e desratização com fornecimento de material e mão de obra, para o atendimento das Secretarias Municipais de Administração e Planejamento, Assistência Social, Saúde, Educação da Prefeitura Municipal de Coronel José Dias – PI",
+      "mentions": [
+        "contratação de empresa especializada na prestação de serviços de controle de vetores e pragas urbanas, que abrange dedetização, desinsetização e desratização com fornecimento de material e mão de obra, para o atendimento das Secretarias Municipais de Administração e Planejamento, Assistência Social, Saúde, Educação da Prefeitura Municipal de Coronel José Dias – PI"
+      ],
+      "canonical_id": "d5378_227_objeto_cjd"
+    },
+    {
+      "type": "Empresa",
+      "canonical_name": "AMPLA SAUDE AMBIENTAL",
+      "mentions": [
+        "AMPLA SAUDE AMBIENTAL"
+      ],
+      "canonical_id": "d5378_226_emp_ampla"
+    },
+    {
+      "type": "CNPJ",
+      "canonical_name": "33.216.812/0001-28",
+      "mentions": [
+        "33.216.812/0001-28"
+      ],
+      "canonical_id": "d5378_226_cnpj_ampla"
+    },
+    {
+      "type": "Valor",
+      "canonical_name": "R$ 38.750,00",
+      "mentions": [
+        "R$ 38.750,00 (trinta e oito mil, setecentos e cinquenta reais)"
+      ],
+      "canonical_id": "d5378_227_valor_cjd"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "06/08/2025",
+      "mentions": [
+        "Coronel José Dias/PI, 06 de agosto de 2025"
+      ],
+      "canonical_id": "d5378_227_data_contrato_cjd"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Balbino Ferreira de Sousa Neto",
+      "mentions": [
+        "BALBINO FERREIRA DE SOUSA NETO"
+      ],
+      "canonical_id": "d5378_226_pessoa_balbino"
+    },
+    {
+      "type": "Orgao",
+      "canonical_name": "Prefeitura Municipal de Curimatá",
+      "mentions": [
+        "PREFEITURA DE CURIMATÁ",
+        "Município De Curimatá - PI"
+      ],
+      "canonical_id": "d5378_227_curimata_prefeitura"
+    },
+    {
+      "type": "MunicipioPI",
+      "canonical_name": "Curimatá",
+      "mentions": [
+        "Curimatá",
+        "Curimatá/PI",
+        "Curimatá – PI"
+      ],
+      "canonical_id": "d5378_227_curimata_municipio"
+    },
+    {
+      "type": "Decreto",
+      "canonical_name": "Decreto Nº 39 em comemoração ao festejo de \"Nossa Senhora do Bom Sucesso\"",
+      "mentions": [
+        "DECRETO Nº 39 EM COMEMORAÇÃO AO FESTEJO DE \"NOSSA SENHORA DO BOM SUCESSO\" E ADOTA OUTRAS PROVIDÊNCIAS./2025, DE 05 DE AGOSTO DE 2025"
+      ],
+      "canonical_id": "d5378_227_decreto_39"
+    },
+    {
+      "type": "Lei",
+      "canonical_name": "Lei Orgânica do Município de Curimatá",
+      "mentions": [
+        "Lei Orgânica do Município"
+      ],
+      "canonical_id": "d4260p1_lei_organica"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "05/08/2025",
+      "mentions": [
+        "DE 05 DE AGOSTO DE 2025",
+        "Curimatá/PI, 05 de agosto de 2025."
+      ],
+      "canonical_id": "d5378_227_data_decreto39"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "José Adelmo da Silva",
+      "mentions": [
+        "JOSÉ ADELMO DA SILVA",
+        "PREFEITO MUNICIPAL DE CURIMATÁ/PI"
+      ],
+      "canonical_id": "d5378_227_pessoa_jose_adelmo"
+    },
+    {
+      "type": "Decreto",
+      "canonical_name": "Ato de Anulação de Publicação",
+      "mentions": [
+        "ATO DE ANULAÇÃO DE PUBLICAÇÃO"
+      ],
+      "canonical_id": "d5378_227_ato_anulacao"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "05/08/2025",
+      "mentions": [
+        "Curimatá – PI, 05 de agosto de 2025."
+      ],
+      "canonical_id": "d5378_227_data_anulacao"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Edionélia Pereira Fernandes",
+      "mentions": [
+        "Edionélia Pereira Fernandes",
+        "Pregoeira"
+      ],
+      "canonical_id": "d5378_227_pessoa_edionelia"
+    },
+    {
+      "type": "ContratoAdministrativo",
+      "canonical_name": "Extrato de Contrato Municipal de Saúde 98/2025",
+      "mentions": [
+        "EXTRATO DE CONTRATO MUNICIPAL DE SAÚDE 98/2025",
+        "Contrato n° 98/2025"
+      ],
+      "canonical_id": "d5378_227_contrato_saude_98"
+    },
+    {
+      "type": "SecretariaMunicipal",
+      "canonical_name": "Secretaria Municipal de Saúde – Curimatá/PI",
+      "mentions": [
+        "SECRETARIA MUNICIPAL DE SAÚDE – CURIMATÁ/PI"
+      ],
+      "canonical_id": "d5378_227_curimata_sms"
+    },
+    {
+      "type": "Pessoa",
+      "canonical_name": "Raimundo Alceni Rodrigues da Silva",
+      "mentions": [
+        "RAIMUNDO ALCENI RODRIGUES DA SILVA"
+      ],
+      "canonical_id": "d5378_227_pessoa_raimundo"
+    },
+    {
+      "type": "Objeto",
+      "canonical_name": "Prorrogação da vigência contratual do Contrato nº 98/2025, pelo período de 01/08/2025 a 31/12/2025",
+      "mentions": [
+        "O presente extrato tem por objeto a prorrogação da vigência contratual do Contrato n° 98/2025, pelo período de 01/08/2025 a 31/12/2025"
+      ],
+      "canonical_id": "d5378_227_objeto_saude"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "01/08/2025 a 31/12/2025",
+      "mentions": [
+        "vigência pelo período de 6 (seis) meses, com início em 01/08/2025 e término em 31/12/2025"
+      ],
+      "canonical_id": "d5378_227_vigencia_saude"
+    },
+    {
+      "type": "Data",
+      "canonical_name": "01/08/2025",
+      "mentions": [
+        "DATA DA ASSINATURA: 01 de agosto de 2025.",
+        "Curimatá – PI, 01 de agosto de 2025"
+      ],
+      "canonical_id": "d5378_227_data_assinatura_saude"
+    }
+  ]
+}
