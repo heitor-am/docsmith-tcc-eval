@@ -44,12 +44,23 @@ kg/
 scripts/
   run_eval.py         # roda vanilla/hyde/query_fusion + Graph RAG
   metrics.py          # Recall@K, MRR@K, latência p50/p95
+
+results/                              # execuções canônicas (Tabelas 3 e 4 do TCC)
+  20260610T103249Z-sec5/              # n=20  (também fonte da Tabela 3)
+  20260610T132320Z-sec5-n40-fixed/    # n=40
+  20260610T162259Z-sec5-n60/          # n=60
+  20260610T182323Z-sec5-n80/          # n=80
+  20260610T194152Z-sec5-n100/         # n=100
+  20260610T195518Z-sec5-n100-hard/    # n=100, consultas difíceis
 ```
 
-Os arquivos brutos das execuções canônicas do TCC (métricas por ponto
-da curva de escala e por consulta) serão publicados neste repositório
-após a defesa; até lá, os números agregados que aparecem nas Tabelas 3
-e 4 do TCC são a referência.
+Cada diretório em `results/` contém o `metrics.json` agregado
+(estratégias de primeiro estágio + expansão via grafo, com Wilcoxon e
+bootstrap) e o `context_per_query.jsonl` com o registro por consulta
+do braço de Graph RAG (recall base, recall com grafo e documentos
+recuperados pela expansão). São as execuções exatas que geraram as
+Tabelas 3 e 4 do TCC: os agregados podem ser conferidos linha a linha
+contra o texto.
 
 ## Como reproduzir
 

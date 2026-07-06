@@ -1,0 +1,44 @@
+{
+  "timestamp": "20260610T195518Z",
+  "collection": "corpus-misto-kg",
+  "n_queries": 37,
+  "seeds": 3,
+  "graph_hops": 2,
+  "base_strategies": {
+    "vanilla": {
+      "n_queries": 37,
+      "recall_at_5": 0.42117117117117114,
+      "mrr_at_10": 0.38317245817245815,
+      "latency_p50_ms": 167.45023966844505,
+      "latency_p95_ms": 828.4683178683425
+    },
+    "hyde": {
+      "n_queries": 37,
+      "recall_at_5": 0.4189189189189189,
+      "mrr_at_10": 0.35718575718575724,
+      "latency_p50_ms": 778.5091506666504,
+      "latency_p95_ms": 1422.0665431368
+    },
+    "query_fusion": {
+      "n_queries": 37,
+      "recall_at_5": 0.49324324324324326,
+      "mrr_at_10": 0.4103746603746604,
+      "latency_p50_ms": 603.5965613312632,
+      "latency_p95_ms": 1269.431026071348
+    }
+  },
+  "graph_rag_context": {
+    "n_queries": 17,
+    "recall_base_mean": 0.25,
+    "recall_graph_mean": 0.6617647058823529,
+    "delta_mean": 0.4117647058823529,
+    "delta_ci95": [
+      0.23529411764705882,
+      0.5882352941176471
+    ],
+    "wilcoxon_p": 0.002136306416781164,
+    "queries_improved": 11,
+    "queries_unchanged": 6,
+    "relevant_docs_recovered_by_graph": 17
+  }
+}

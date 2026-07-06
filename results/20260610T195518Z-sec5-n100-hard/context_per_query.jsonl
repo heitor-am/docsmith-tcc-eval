@@ -1,0 +1,17 @@
+{"id": "q16", "type": "multidoc", "n_relevant": 2, "recall_base": 0.5, "recall_graph": 1.0, "docs_recovered_by_graph": ["DM_5378_227_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Extrato_Contrato_113-25_pag_190.pdf"]}
+{"id": "q17", "type": "multidoc", "n_relevant": 2, "recall_base": 0.0, "recall_graph": 0.0, "docs_recovered_by_graph": []}
+{"id": "q18", "type": "multidoc", "n_relevant": 2, "recall_base": 0.5, "recall_graph": 1.0, "docs_recovered_by_graph": ["DOM4258_p006.pdf"]}
+{"id": "q19", "type": "multidoc", "n_relevant": 3, "recall_base": 0.0, "recall_graph": 1.0, "docs_recovered_by_graph": ["DOM4258_p020.pdf", "DOM4259_p043.pdf", "DOM4264_p022.pdf"]}
+{"id": "q20", "type": "multidoc", "n_relevant": 2, "recall_base": 0.5, "recall_graph": 0.5, "docs_recovered_by_graph": []}
+{"id": "c01", "type": "crossdoc", "n_relevant": 2, "recall_base": 0.5, "recall_graph": 1.0, "docs_recovered_by_graph": ["DM_5378_227_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Extrato_Contrato_113-25_pag_190.pdf"]}
+{"id": "c02", "type": "crossdoc", "n_relevant": 2, "recall_base": 0.0, "recall_graph": 0.0, "docs_recovered_by_graph": []}
+{"id": "c03", "type": "crossdoc", "n_relevant": 2, "recall_base": 0.0, "recall_graph": 0.5, "docs_recovered_by_graph": ["DM_5374_148_Coronel_Jose_Dias_Licitacao_Inexigibilidade_021-25_Ratificacao_pag_87.pdf"]}
+{"id": "c04", "type": "crossdoc", "n_relevant": 4, "recall_base": 0.25, "recall_graph": 0.75, "docs_recovered_by_graph": ["DM_5374_147_Coronel_Jose_Dias_Licitacao_Inexigibilidade_021-25_Extrato_Contrato_114-25_pag_87.pdf", "DM_5381_114_Coronel_Jose_Dias_Decreto_035-25_pag_23.pdf"]}
+{"id": "c05", "type": "crossdoc", "n_relevant": 3, "recall_base": 0.0, "recall_graph": 0.0, "docs_recovered_by_graph": []}
+{"id": "c06", "type": "crossdoc", "n_relevant": 3, "recall_base": 0.0, "recall_graph": 1.0, "docs_recovered_by_graph": ["DOM4258_p006.pdf", "DOM4260_p001.pdf", "DOM4263_p007.pdf"]}
+{"id": "c07", "type": "crossdoc", "n_relevant": 2, "recall_base": 1.0, "recall_graph": 1.0, "docs_recovered_by_graph": []}
+{"id": "c08", "type": "crossdoc", "n_relevant": 2, "recall_base": 0.5, "recall_graph": 1.0, "docs_recovered_by_graph": ["DM_5378_227_Coronel_Jose_Dias_Licitacao_Dispensa_038-25_Extrato_Contrato_113-25_pag_190.pdf"]}
+{"id": "c09", "type": "crossdoc", "n_relevant": 2, "recall_base": 0.5, "recall_graph": 1.0, "docs_recovered_by_graph": ["DM_5376_429_Sao_Raimundo_Nonato_Licitacao_Concorrencia_Publica_008-23_Contrato_037-24_Aditivo_01_pag_150.pdf"]}
+{"id": "c10", "type": "crossdoc", "n_relevant": 2, "recall_base": 0.0, "recall_graph": 0.5, "docs_recovered_by_graph": ["DM_5375_170_Joao_Costa_Licitacao_Concorrencia_Eletronica_005-25_Errata_Edital_pag_8.pdf"]}
+{"id": "c11", "type": "crossdoc", "n_relevant": 2, "recall_base": 0.0, "recall_graph": 1.0, "docs_recovered_by_graph": ["DOM4260_p001.pdf", "DOM4263_p003.pdf"]}
+{"id": "c12", "type": "crossdoc", "n_relevant": 2, "recall_base": 0.0, "recall_graph": 0.0, "docs_recovered_by_graph": []}

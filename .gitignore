@@ -9,6 +9,4 @@ __pycache__/
 .idea/
 .vscode/
 
-# only the canonical run is committed; local re-runs live here
-results/*/
-!results/metrics.json
+# canonical runs are committed; add new local re-runs explicitly if needed
